@@ -74,197 +74,195 @@
 # text_source = p. 25
 # text_por = ― Quantas pessoas há em Deus?
 
-# sent_id = Aguiar1898:2:1:14
+# sent_id = Aguiar1898:2:2:14
 # text = TODO
 # text_orig = ― Muçapïri.
 # text_source = p. 25
 # text_por = ― Três.
 
-# sent_id = Aguiar1898:2:1:15
+# sent_id = Aguiar1898:2:3:15
 # text = TODO
 # text_orig = ― Mahiuhá tahá aitá?
 # text_source = p. 25
 # text_por = ― Quais são elas? 
 
-# sent_id = Aguiar1898:2:1:16
+# sent_id = Aguiar1898:2:4:16
 # text = TODO
 # text_orig = ― Paia, Tahïra, Espiritu-Santu.
 # text_source = p. 25
 # text_por = ― Pai, Filho, Espírito Santo.
 
-# sent_id = Aguiar1898:2:1:16
+# sent_id = Aguiar1898:2:5:16
 # text = TODO
 # text_orig = ― Paia Tupana? 
 # text_source = p. 25
 # text_por = ― O Pai é Deus?
 
-# sent_id = Aguiar1898:2:1:17
+# sent_id = Aguiar1898:2:6:17
 # text = TODO
 # text_orig = ― Aé; Paia Tupana.
 # text_source = p. 25
 # text_por = ― Sim; o Pai é Deus. 
 
-# sent_id = Aguiar1898:2:1:18
+# sent_id = Aguiar1898:2:7:18
 # text = TODO
 # text_orig = ― Tahïra Tupana?
 # text_source = p. 25
 # text_por = ― O Filho é Deus?
 
-# sent_id = Aguiar1898:2:1:19
+# sent_id = Aguiar1898:2:8:19
 # text = TODO
 # text_orig = ― Aé; Tahïra Tupana.
 # text_source = p. 25
 # text_por = ― Sim; o Filho é Deus.
 
-# sent_id = Aguiar1898:2:1:20
+# sent_id = Aguiar1898:2:9:20
 # text = TODO
 # text_orig = ― Espiritu-Santu Tupana?
 # text_source = p. 25
 # text_por = ― O Espírito Santo é Deus?
 
-# sent_id = Aguiar1898:2:1:21
+# sent_id = Aguiar1898:2:10:21
 # text = TODO
 # text_orig = ― Aé. Espiritu-Santu Tupana.
 # text_source = p. 25
 # text_por = ― Sim. O Espírito Santo é Deus.
 
-# sent_id = Aguiar1898:2:1:22
+# sent_id = Aguiar1898:2:11:22
 # text = TODO
 # text_orig = ― Aramé muçapïri tupanaitá?
 # text_source = p. 25
 # text_por = ― Então são três deuses?
 
-# sent_id = Aguiar1898:2:1:23
+# sent_id = Aguiar1898:2:12:23
 # text = TODO
 # text_orig = ― 'Tiana! Muçapïri pessôa aitá, iepénhun Tupana-reté.
 # text_source = p. 25
 # text_por = ― Não! São três pessoas distintas, e um só Deus verdadeiro.
 
-# sent_id = Aguiar1898:3:1:24
+# sent_id = Aguiar1898:2:13:24
 # text = TODO
-# title_orig = TUPANA RAHÏRA IANÉ RUQUÈRA IRUMO
-# title_por = INCARNAÇÃO DO FILHO DE DEUS
 # text_orig = ― Arame, iepénhun Tupana reté, muçapiri pessoa aitá recê?
 # text_source = p. 25
 # text_por = ― Então, é um só Deus verdadeiro, em três pessoas distintas?
 
-# sent_id = Aguiar1898:3:2:25
+# sent_id = Aguiar1898:2:14:25
 # text = TODO
 # text_orig = ― Iaué-ten. Iepénhun Tupana reté, muçapiri pessoa aitá recê.
 # text_source = p. 25
 # text_por = ― Assim mesmo. Um só Deus verdadeiro, em três pessoas distintas.
 
-# sent_id = Aguiar1898:3:3:26
+# sent_id = Aguiar1898:2:15:26
 # text = TODO
 # text_orig = ― Mahá tahá quá mysteriu rêra?
 # text_source = p. 25
 # text_por = ― Qual é o nome deste mistério?
 
-# sent_id = Aguiar1898:3:4:27
+# sent_id = Aguiar1898:2:16:27
 # text = TODO
 # text_orig = ― Santíssima Trindadi - mysteriu.
 # text_source = p. 25
 # text_por = ― Mistério da Santíssima Trindade.
 
-# sent_id = Aguiar1898:3:5:28
+# sent_id = Aguiar1898:3:1:28
 # text = TODO
+# title_orig = TUPANA RAHÏRA IANÉ RUQUÈRA IRUMO
+# title_por = INCARNAÇÃO DO FILHO DE DEUS
 # text_orig = ― Mahi-uahá muçapiri pessoa pitéra çui iu-munhan apgaua?
 # text_source = p. 25
 # text_por = ― Qual das três pessoas se fez homem?
 
-# sent_id = Aguiar1898:3:6:29
+# sent_id = Aguiar1898:3:2:29
 # text = TODO
 # text_orig = ― Tupana Rahïra.
 # text_source = p. 25
 # text_por = ― O Filho de Deus.
 
-# sent_id = Aguiar1898:4:1:30
+# sent_id = Aguiar1898:3:3:30
 # text = TODO
-# title_orig = TUPANA-RAHIRA IANÉ RUQUÈRA IRUMO
-# title_por = INCARNAÇÃO DO FILHO DE DEUS
 # text_orig = ― Mahi-tahá Tupana Rahira iumunhã apgáua?
 # text_source = p. 26
 # text_por = ― Como o Filho de Deus se fez homem?
 
-# sent_id = Aguiar1898:4:2:31
+# sent_id = Aguiar1898:3:4:31
 # text = TODO
 # text_orig = ― Espiritu-Santu u-munhan.
 # text_source = p. 26
 # text_por = ― Por obra do Espírito-Santo.
 
-# sent_id = Aguiar1898:4:3:32
+# sent_id = Aguiar1898:3:5:32
 # text = TODO
 # text_orig = ― Mamé-tahá?
 # text_source = p. 26
 # text_por = ― Onde?
 
-# sent_id = Aguiar1898:4:4:33
+# sent_id = Aguiar1898:3:6:33
 # text = TODO
 # text_orig = ― Maria Virgem maricá upé.
 # text_source = p. 26
 # text_por = ― No ventre de Maria Virgem.
 
-# sent_id = Aguiar1898:4:5:34
+# sent_id = Aguiar1898:3:7:34
 # text = TODO
 # text_orig = ― Tupana-Manha u-pitá upãin ara upé Virgem?
 # text_source = p. 26
 # text_por = ― A Mãe de Deus ficou sempre virgem?
 
-# sent_id = Aguiar1898:4:6:35
+# sent_id = Aguiar1898:3:8:35
 # text = TODO
 # text_orig = ― U-pitá.
 # text_source = p. 26
 # text_por = ― Ficou.
 
-# sent_id = Aguiar1898:4:7:36
+# sent_id = Aguiar1898:3:9:36
 # text = TODO
 # text_orig = ― Mahi-tahá?
 # text_source = p. 26
 # text_por = ― Como?
 
-# sent_id = Aguiar1898:4:8:37
+# sent_id = Aguiar1898:3:10:37
 # text = TODO
 # text_orig = ― Mòmürarí renunè virgem, mumürari ramé virgem; memürari riri virgem.
 # text_source = p. 26
 # text_por = ― Virgem antes do parto, virgem no parto, virgem depois do parto.
 
-# sent_id = Aguiar1898:4:9:38
+# sent_id = Aguiar1898:3:11:38
 # text = TODO
 # text_orig = ― Mahá-tahá rêra Tupana-Rahira iumunhan uahá Apgaua?
 # text_source = p. 26
 # text_por = ― Qual é o nome do Filho de Deus feito homem?
 
-# sent_id = Aguiar1898:4:10:39
+# sent_id = Aguiar1898:3:12:39
 # text = TODO
 # text_orig = ― Jesú-Christu.
 # text_source = p. 26
 # text_por = ― Jesus-Christo.
 
-# sent_id = Aguiar1898:4:11:40
+# sent_id = Aguiar1898:3:13:40
 # text = TODO
 # text_orig = ― Jesú-Christu Tupana reté, Apgáua reté?
 # text_source = p. 26
 # text_por = ― Jesus-Christo é verdadeiro Deus e verdadeiro Homem?
 
-# sent_id = Aguiar1898:4:12:41
+# sent_id = Aguiar1898:3:14:41
 # text = TODO
 # text_orig = ― Aé. Jesú-Christu Tupana reté, Apgaua reté.
 # text_source = p. 26
 # text_por = ― Sim, Jesus-Christo é verdadeiro Deus e verdadeiro Homem.
 
-# sent_id = Aguiar1898:4:13:42
+# sent_id = Aguiar1898:3:15:42
 # text = TODO
 # text_orig = ― Maha-tahá rêra quá mysteriu?
 # text_source = p. 26
 # text_por = ― Qual é o nome deste mistério?
 
-# sent_id = Aguiar1898:4:14:43
+# sent_id = Aguiar1898:3:16:43
 # text = TODO
 # text_orig = ― Incarnaçam, mysteriu; amú rupi, Tupana-Rahira ianê ruquéra irumo.
 # text_source = p. 26
 # text_por = ― Mistério da Incarnação; n'outros termos, o Filho de Deus com a nossa carne.
 
-# sent_id = Aguiar1898:5:1:43
+# sent_id = Aguiar1898:4:1:44
 # text = TODO
 # title_orig = MAHI JESU-CHRISTU U-PÍCÍRÜIANÊ
 # title_por = COMO JESUS CHRISTO NOS REMIU
@@ -272,37 +270,37 @@
 # text_source = p. 27
 # text_por = ― Onde Jesus Christo morreu?
 
-# sent_id = Aguiar1898:5:2:44
+# sent_id = Aguiar1898:5:2:45
 # text = TODO
 # text_orig = ― Curuçà upé.
 # text_source = p. 27
 # text_por = ― Na cruz.
 
-# sent_id = Aguiar1898:5:3:45
+# sent_id = Aguiar1898:5:3:46
 # text = TODO
 # text_orig = ― Auà rupi?
 # text_source = p. 27
 # text_por = ― Por quem?
 
-# sent_id = Aguiar1898:5:4:46
+# sent_id = Aguiar1898:5:4:47
 # text = TODO
 # text_orig = ― Ianê rupi.
 # text_source = p. 27
 # text_por = ― Por nós.
 
-# sent_id = Aguiar1898:5:5:47
+# sent_id = Aguiar1898:5:5:48
 # text = TODO
 # text_orig = ― Mah'arama tahà?
 # text_source = p. 27
 # text_por = ― Para que?
 
-# sent_id = Aguiar1898:5:6:48
+# sent_id = Aguiar1898:5:6:49
 # text = TODO
 # text_orig = ― Ianê picirú, salvari arama.
 # text_source = p. 27
 # text_por = ― Para nos remir e salvar.
 
-# sent_id = Aguiar1898:6:1:49
+# sent_id = Aguiar1898:6:1:50
 # text = TODO
 # title_orig = MVHARAMA TUPANA U-MUNHÃN IANÉ
 # title_por = DO FIM PARA QUE NOS CREOU DEUS
@@ -310,103 +308,96 @@
 # text_source = p. 28
 # text_por = ― Para que Deus Nosso Senhor nos criou?
 
-# sent_id = Aguiar1898:6:2:50
+# sent_id = Aguiar1898:6:2:51
 # text = TODO
 # text_orig = ― Là-quau arama aé, ià-çahiçú arama aé, ià-munhan arama ce mutára ikè inhipe, ara íauè curi.
 # text_source = p. 28
 # text_por = ― Para o conhecermos, para amá-lo, para fazer sua vontade n'este mundo, enquanto vivermos.
 
-# sent_id = Aguiar1898:6:3:51
+# sent_id = Aguiar1898:6:3:52
 # text = TODO
 # text_orig = ― Là-manú ri ri?
 # text_source = p. 28
 # text_por = ― E depois que morrermos?
 
-# sent_id = Aguiar1898:6:4:52
+# sent_id = Aguiar1898:6:4:53
 # text = TODO
 # text_orig = ― Là-pilihú-relô arama, ianê ruri arama upàin ara iuaca upé, Tupana Ianê Iara ruaki.
 # text_source = p. 28
 # text_por = ― Para descansarmos de todo, para gozarmos eternamente no Céu, junto a Deus Nosso Senhor.
 
-# sent_id = Aguiar1898:6:5:53
+# sent_id = Aguiar1898:6:5:54
 # text = TODO
 # text_orig = ― Arame, ianê requè ikè, iámanú riri ianê requè cera?
 # text_source = p. 28
 # text_por = ― Então aqui temos uma vida, e depois da nossa morte teremos outra?
 
-# sent_id = Aguiar1898:6:6:54
+# sent_id = Aguiar1898:6:6:55
 # text = TODO
 # text_orig = ― Lauè-ten. Ianê requé iuhipe; ianê requé ia-manú riri.
 # text_source = p. 28
 # text_por = ― É verdade. Temos uma vida na terra, e outra depois da morte.
 
-# sent_id = Aguiar1898:6:7:55
+# sent_id = Aguiar1898:6:7:56
 # text = TODO
 # text_orig = ― Là mauú ramé, mahá-kiti iáçú?
 # text_source = p. 28
 # text_por = ― Quando morrermos, para onde vamos?
 
-# sent_id = Aguiar1898:6:8:56
+# sent_id = Aguiar1898:6:8:57
 # text = TODO
 # text_orig = ― Mira catú iuaca klti, mira puxi iurupartratá kiti.
 # text_source = p. 28
 # text_por = ― Os bons vão para o Céu, e os maus para o inferno.
 
+# sent_id = Aguiar1898:7:1:58
 # text = TODO
 # title_orig = UATARl RETÉ CFXUCATÚ ÇUI, AUÁ IU-SALVARI ARAMA.
 # title_por = NECESSIDADE DAS BOAS OBRAS, PARA ALGUÉM SALVAR-SE
-# text_source = p. 29
-
-# sent_id = Aguiar1898:7:1:56
-# text = TODO
 # text_orig = ― Iepé mira iu-salvari quau, tiramé u-ruiari, tiramé iu muceruca?
 # text_source = p. 29
 # text_por = ― Uma pessoa pode salvar-se sem crer, nem baptizar-se?
 
-# sent_id = Aguiar1898:7:2:57
+# sent_id = Aguiar1898:7:2:59
 # text = TODO
 # text_orig = ― ?Tiana! Uatarireté u-ruiari rain, u-ceruca rain.
 # text_source = p. 29
 # text_por = ― Absolutamente não! É necessário crer e baptizar-se.
 
-# sent_id = Aguiar1898:7:3:58
+# sent_id = Aguiar1898:7:3:60
 # text = TODO
 # text_orig = ― Mahi-tahá iá-quau ia-ulíikí iuáca ii.pé?
 # text_source = p. 29
 # text_por = ― Como podemos alcançar o Céu?
 
-# sent_id = Aguiar1898:7:4:59
+# sent_id = Aguiar1898:7:4:61
 # text = TODO
 # text_orig = ― Jesu-Christu rulü recuiúra, iá-munhãn Tupana u-munu ualiá, ianê çui.
 # text_source = p. 29
 # text_por = ― Mediante o preço do sangue de Jesus Cristo, e fazendo da nossa parte o que Deus manda.
 
-# sent_id = Aguiar1898:7:5:60
+# sent_id = Aguiar1898:7:5:62
 # text = TODO
 # text_orig = ― Santa Curuçcá rangáua rupi, ianè picírú Tupana, ianê Iara, ianê ruianhana.
 # text_source = p. 29
 # text_por = ― Pelo sinal da Santa Cruz, livre-nos Deus, Nosso Senhor, dos nossos inimigos.
 
-# sent_id = Aguiar1898:7:6:61
+# sent_id = Aguiar1898:7:6:63
 # text = TODO
 # text_orig = ― Paia rêra upé, Tahira luiri Espíritu-Santuiuiri.
 # text_source = p. 29
 # text_por = ― Em nome do Pai, e do Filho, e do Espírito-Santo.
 
-# sent_id = Aguiar1898:7:7:62
+# sent_id = Aguiar1898:7:7:64
 # text = TODO
 # text_orig = ― lauê.
 # text_source = p. 29
 # text_por = ― Amém.
 
+# sent_id = Aguiar1898:8:1:63
 # text = TODO
 # title_orig = IANÊ PAIA
 # title_por = PADRE-NOSSO 
-# text_source = p. 30 
-
-
-# sent_id = Aguiar1898:8:1:63
-# text = TODO
 # text_orig = Ianê Paia, inè rê-icú uahá iuáca upé, ne rêra iu«muité; iúri nê iáraçáua ianê árape; iu-munhan ne remutàra iké iilhipe, mahi iuáca upé; ianê miapé ara-iaué remehen ianê arama uhihi ara; re-jperdnari -te ianê ualari, mahi ianê ia perduarí amúitá uatari; tehen re-xiari ianê iáari cecúpuxi kití; re-picirú ianê upãin mahãpuxi çui.
 # text_source = p. 30
 # text_por = Pai nosso, que estás no Céu, santificado seja o teu nome; venha a nós o teu reino; seja feita a tua vontade, assim na terra como no Céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, assim como nós perdoamos a dívida dos outros; não nos deixes cair em tentação; mas livra-nos de todo o mal.
