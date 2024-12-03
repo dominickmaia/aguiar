@@ -136,35 +136,41 @@
 
 # sent_id = Aguiar1898:2:12:23
 # text = TODO
-# text_orig = ― 'Tiana! Muçapïri pessôa aitá, iepénhun Tupana-reté.
+# text_orig = ― 'Tiana!
 # text_source = p. 25
-# text_por = ― Não! São três pessoas distintas, e um só Deus verdadeiro.
+# text_por = ― Não!
 
 # sent_id = Aguiar1898:2:13:24
 # text = TODO
-# text_orig = ― Arame, iepénhun Tupana reté, muçapiri pessoa aitá recê?
+# text_orig = ― Muçapïri pessôa aitá, iepénhun Tupana-reté.
+# text_source = p. 25
+# text_por = ― São três pessoas distintas, e um só Deus verdadeiro.
+
+# sent_id = Aguiar1898:2:14:25
+# text = TODO
+# text_orig = ― Arame, iepénhun Tupana reté, muçapïri pessoa aitá recê?
 # text_source = p. 25
 # text_por = ― Então, é um só Deus verdadeiro, em três pessoas distintas?
 
-# sent_id = Aguiar1898:2:14:25
+# sent_id = Aguiar1898:2:15:26
 # text = TODO
 # text_orig = ― Iaué-ten. Iepénhun Tupana reté, muçapiri pessoa aitá recê.
 # text_source = p. 25
 # text_por = ― Assim mesmo. Um só Deus verdadeiro, em três pessoas distintas.
 
-# sent_id = Aguiar1898:2:15:26
+# sent_id = Aguiar1898:2:16:27
 # text = TODO
 # text_orig = ― Mahá tahá quá mysteriu rêra?
 # text_source = p. 25
 # text_por = ― Qual é o nome deste mistério?
 
-# sent_id = Aguiar1898:2:16:27
+# sent_id = Aguiar1898:2:17:28
 # text = TODO
 # text_orig = ― Santissima Trindadi-mysteriu.
 # text_source = p. 25
 # text_por = ― Mistério da Santíssima Trindade.
 
-# sent_id = Aguiar1898:3:1:28
+# sent_id = Aguiar1898:3:1:29
 # text = TODO
 # title_orig = TUPANA RAHÏRA IANÉ RUQUÈRA IRUMO
 # title_por = INCARNAÇÃO DO FILHO DE DEUS
@@ -172,97 +178,97 @@
 # text_source = p. 25
 # text_por = ― Qual das três pessoas se fez homem?
 
-# sent_id = Aguiar1898:3:2:29
+# sent_id = Aguiar1898:3:2:30
 # text = TODO
 # text_orig = ― Tupana Rahïra.
 # text_source = p. 25
 # text_por = ― O Filho de Deus.
 
-# sent_id = Aguiar1898:3:3:30
+# sent_id = Aguiar1898:3:3:31
 # text = TODO
 # text_orig = ― Mahi-tahá Tupana Rahïra iumunhã apgáua?
 # text_source = p. 26
 # text_por = ― Como o Filho de Deus se fez homem?
 
-# sent_id = Aguiar1898:3:4:31
+# sent_id = Aguiar1898:3:4:32
 # text = TODO
 # text_orig = ― Espiritu-Santu u-munhan.
 # text_source = p. 26
 # text_por = ― Por obra do Espírito-Santo.
 
-# sent_id = Aguiar1898:3:5:32
+# sent_id = Aguiar1898:3:5:33
 # text = TODO
 # text_orig = ― Mamé-tahá?
 # text_source = p. 26
 # text_por = ― Onde?
 
-# sent_id = Aguiar1898:3:6:33
+# sent_id = Aguiar1898:3:6:34
 # text = TODO
 # text_orig = ― Maria Virgem marica upé.
 # text_source = p. 26
 # text_por = ― No ventre de Maria Virgem.
 
-# sent_id = Aguiar1898:3:7:34
+# sent_id = Aguiar1898:3:7:35
 # text = TODO
 # text_orig = ― Tupana-Manha u-pïtá upãin ara upé Virgem?
 # text_source = p. 26
 # text_por = ― A Mãe de Deus ficou sempre virgem?
 
-# sent_id = Aguiar1898:3:8:35
+# sent_id = Aguiar1898:3:8:36
 # text = TODO
 # text_orig = ― U-pïtá.
 # text_source = p. 26
 # text_por = ― Ficou.
 
-# sent_id = Aguiar1898:3:9:36
+# sent_id = Aguiar1898:3:9:37
 # text = TODO
 # text_orig = ― Mahi-tahá?
 # text_source = p. 26
 # text_por = ― Como?
 
-# sent_id = Aguiar1898:3:10:37
+# sent_id = Aguiar1898:3:10:38
 # text = TODO
 # text_orig = ― Mèmürarí renunè virgem, mumürari ramé virgem; memürari riri virgem.
 # text_source = p. 26
 # text_por = ― Virgem antes do parto, virgem no parto, virgem depois do parto.
 
-# sent_id = Aguiar1898:3:11:38
+# sent_id = Aguiar1898:3:11:39
 # text = TODO
 # text_orig = ― Mahá-tahá rêra Tupana-Rahïra iumunhan uahá Apgaua?
 # text_source = p. 26
 # text_por = ― Qual é o nome do Filho de Deus feito homem?
 
-# sent_id = Aguiar1898:3:12:39
+# sent_id = Aguiar1898:3:12:40
 # text = TODO
 # text_orig = ― Jesú-Christu.
 # text_source = p. 26
 # text_por = ― Jesus Cristo.
 
-# sent_id = Aguiar1898:3:13:40
+# sent_id = Aguiar1898:3:13:41
 # text = TODO
 # text_orig = ― Jesú-Christu Tupana reté, Apgáua reté?
 # text_source = p. 26
 # text_por = ― Jesus Cristo é verdadeiro Deus e verdadeiro Homem?
 
-# sent_id = Aguiar1898:3:14:41
+# sent_id = Aguiar1898:3:14:42
 # text = TODO
 # text_orig = ― Aé. Jesú-Christu Tupana reté, Apgaua reté.
 # text_source = p. 26
 # text_por = ― Sim, Jesus Cristo é verdadeiro Deus e verdadeiro Homem.
 
-# sent_id = Aguiar1898:3:15:42
+# sent_id = Aguiar1898:3:15:43
 # text = TODO
 # text_orig = ― Maha-tahá rêra quá mysteriu?
 # text_source = p. 26
 # text_por = ― Qual é o nome deste mistério?
 
-# sent_id = Aguiar1898:3:16:43
+# sent_id = Aguiar1898:3:16:44
 # text = TODO
 # text_orig = ― Incarnaçam, mysteriu; amú rupi, Tupana-Rahïra ianê ruquéra irumo.
 # text_source = p. 26
 # text_por = ― Mistério da Incarnação; n'outros termos, o Filho de Deus com a nossa carne.
 
-# sent_id = Aguiar1898:4:1:44
+# sent_id = Aguiar1898:4:1:45
 # text = TODO
 # title_orig = MAHI JESU-CHRISTU U-PÍCÍRÜIANÊ
 # title_por = COMO JESUS CHRISTO NOS REMIU
@@ -270,37 +276,37 @@
 # text_source = p. 31
 # text_por = ― Onde Jesus Christo morreu?
 
-# sent_id = Aguiar1898:4:2:45
+# sent_id = Aguiar1898:4:2:46
 # text = TODO
 # text_orig = ― Curuçà upé.
 # text_source = p. 31
 # text_por = ― Na cruz.
 
-# sent_id = Aguiar1898:4:3:46
+# sent_id = Aguiar1898:4:3:47
 # text = TODO
 # text_orig = ― Auà rupi?
 # text_source = p. 31
 # text_por = ― Por quem?
 
-# sent_id = Aguiar1898:4:4:47
+# sent_id = Aguiar1898:4:4:48
 # text = TODO
 # text_orig = ― Ianê rupi.
 # text_source = p. 31
 # text_por = ― Por nós.
 
-# sent_id = Aguiar1898:4:5:48
+# sent_id = Aguiar1898:4:5:49
 # text = TODO
 # text_orig = ― Mah'arama tahà?
 # text_source = p. 31
 # text_por = ― Para que?
 
-# sent_id = Aguiar1898:4:6:49
+# sent_id = Aguiar1898:4:6:50
 # text = TODO
 # text_orig = ― Ianê pïcïrù, salvari arama.
 # text_source = p. 31
 # text_por = ― Para nos remir e salvar.
 
-# sent_id = Aguiar1898:5:1:50
+# sent_id = Aguiar1898:5:1:51
 # text = TODO
 # title_orig = MAH'ARAMA TUPANA U-MUNHÃN IANÉ
 # title_por = DO FIM PARA QUE NOS CREOU DEUS
@@ -308,125 +314,129 @@
 # text_source = p. 33
 # text_por = ― Para que Deus Nosso Senhor nos criou?
 
-# sent_id = Aguiar1898:5:2:51
+# sent_id = Aguiar1898:5:2:52
 # text = TODO
 # text_orig = ― Ià-quau arama aè, ià-çahiçù arama aè, ià-munhan arama ce mutára ikè ïuhïpe, ara iauè curi.
 # text_source = p. 33
 # text_por = ― Para o conhecermos, para amá-lo, para fazer sua vontade n'este mundo, enquanto vivermos.
 
-# sent_id = Aguiar1898:5:3:52
+# sent_id = Aguiar1898:5:3:53
 # text = TODO
 # text_orig = ― Iá-manù riri?
 # text_source = p. 33
 # text_por = ― E depois que morrermos?
 
-# sent_id = Aguiar1898:5:4:53
+# sent_id = Aguiar1898:5:4:54
 # text = TODO
 # text_orig = ― Iá-pïtïhú-retê arama, ianê rurï arama upàin ara iuaca upé, Tupana Ianê Iara ruakï.
 # text_source = p. 33
 # text_por = ― Para descansarmos de todo, para gozarmos eternamente no Céu, junto a Deus Nosso Senhor.
 
-# sent_id = Aguiar1898:5:5:54
+# sent_id = Aguiar1898:5:5:55
 # text = TODO
 # text_orig = ― Aramè, ianê requè ikè, iámanù riri ianê requè cerá?
 # text_source = p. 33
 # text_por = ― Então aqui temos uma vida, e depois da nossa morte teremos outra?
 
-# sent_id = Aguiar1898:5:6:55
+# sent_id = Aguiar1898:5:6:56
 # text = TODO
 # text_orig = ― Iauè-ten. Ianê requé ïuhïpe; ianê requé ia-manú riri.
 # text_source = p. 33
 # text_por = ― É verdade. Temos uma vida na terra, e outra depois da morte.
 
-# sent_id = Aguiar1898:5:7:56
+# sent_id = Aguiar1898:5:7:57
 # text = TODO
 # text_orig = ― Ià manú ramé, mahá-kïtï iáçù?
 # text_source = p. 33
 # text_por = ― Quando morrermos, para onde vamos?
 
-# sent_id = Aguiar1898:5:8:57
+# sent_id = Aguiar1898:5:8:58
 # text = TODO
 # text_orig = ― Mira catú iuaca kïtï, mira puxi iurupariratá kïtï.
 # text_source = p. 33
 # text_por = ― Os bons vão para o Céu, e os maus para o inferno.
 
-# sent_id = Aguiar1898:6:1:58
+# sent_id = Aguiar1898:6:1:59
 # text = TODO
-# title_orig = UATARl RETÉ CFXUCATÚ ÇUI, AUÁ IU-SALVARI ARAMA.
-# title_por = NECESSIDADE DAS BOAS OBRAS, PARA ALGUÉM SALVAR-SE
-# text_orig = ― Iepé mira iu-salvari quau, tiramé u-ruiari, tiramé iu muceruca?
+# title_orig = UATARl RETÉ CECUCATÙ ÇUI, AUÁ IU-SALVARI ARAMA.
+# title_por = NECESSIDADE DAS BOAS OBRAS, PARA ALGUÉM SALVAR-SE.
+# text_orig = ― Iepé mira iu-salvari quau, 'tiramé u-ruiari, 'tiramé iu muceruca?
 # text_source = p. 29
 # text_por = ― Uma pessoa pode salvar-se sem crer, nem baptizar-se?
 
-# sent_id = Aguiar1898:6:2:59
+# sent_id = Aguiar1898:6:2:60
 # text = TODO
-# text_orig = ― ?Tiana! Uatarireté u-ruiari rain, u-ceruca rain.
+# text_orig = ― 'Tiana! Uatarireté u-ruiari rain, u-ceruca rain.
 # text_source = p. 29
 # text_por = ― Absolutamente não! É necessário crer e baptizar-se.
 
-# sent_id = Aguiar1898:6:3:60
+# sent_id = Aguiar1898:6:3:61
 # text = TODO
-# text_orig = ― Mahi-tahá iá-quau ia-ulíikí iuáca ii.pé?
+# text_orig = ― Mahi-tahá iá quau ia-uhikí iuáca upé?
 # text_source = p. 29
 # text_por = ― Como podemos alcançar o Céu?
 
-# sent_id = Aguiar1898:6:4:61
+# sent_id = Aguiar1898:6:4:62
 # text = TODO
-# text_orig = ― Jesu-Christu rulü recuiúra, iá-munhãn Tupana u-munu ualiá, ianê çui.
+# text_orig = ― Jesu-Christu ruhï recuiára, iá-munhãn Tupana u-munu uahá, ianê çui.
 # text_source = p. 29
 # text_por = ― Mediante o preço do sangue de Jesus Cristo, e fazendo da nossa parte o que Deus manda.
 
-# sent_id = Aguiar1898:6:5:62
+# sent_id = Aguiar1898:7:1:63
 # text = TODO
-# text_orig = ― Santa Curuçcá rangáua rupi, ianè picírú Tupana, ianê Iara, ianê ruianhana.
+# title_orig = CURUÇÁ-RANGÀUA.
+# title_por = SINAL DA CRUZ.
+# text_orig = ― Santa Curuçá rangáua rupi, ianè pïcïrú Tupana, ianê Iara, ianê ruîanhana.
 # text_source = p. 29
 # text_por = ― Pelo sinal da Santa Cruz, livre-nos Deus, Nosso Senhor, dos nossos inimigos.
 
-# sent_id = Aguiar1898:6:6:63
+# sent_id = Aguiar1898:7:2:64
 # text = TODO
-# text_orig = ― Paia rêra upé, Tahira luiri Espíritu-Santuiuiri.
+# text_orig = ― Paia rêra upé, Tahïra ïuïri Espíritu Santu ïuïri.
 # text_source = p. 29
-# text_por = ― Em nome do Pai, e do Filho, e do Espírito-Santo.
+# text_por = ― Em nome do Pai, e do Filho, e do Espírito Santo.
 
-# sent_id = Aguiar1898:6:7:64
+# sent_id = Aguiar1898:7:3:65
 # text = TODO
 # text_orig = ― lauê.
 # text_source = p. 29
 # text_por = ― Amém.
 
-# sent_id = Aguiar1898:7:1:63
+# sent_id = Aguiar1898:8:1:66
 # text = TODO
 # title_orig = IANÊ PAIA
 # title_por = PADRE-NOSSO 
-# text_orig = Ianê Paia, inè rê-icú uahá iuáca upé, ne rêra iu«muité; iúri nê iáraçáua ianê árape; iu-munhan ne remutàra iké iilhipe, mahi iuáca upé; ianê miapé ara-iaué remehen ianê arama uhihi ara; re-jperdnari -te ianê ualari, mahi ianê ia perduarí amúitá uatari; tehen re-xiari ianê iáari cecúpuxi kití; re-picirú ianê upãin mahãpuxi çui.
-# text_source = p. 30
+# text_orig = Ianê Paia, inè rê-icú uahá iuáca upé, ne rêra iu-muité; iúri nê iáraçáua ianê árape; iu-munhan ne remutàra iké ïuhïpe, mahi iuáca upé; ianê miapé ara-iaué remehen ianê arama uhihi ara; re-perdnari ianê uatari, mahi ianê ia perduari amùitá uatari; tehen re-xiari ianê iáari cecúpuxi kïtï; re-pïcïrú ianê upãin mahãpuxi çui.
+# text_source = p. 37
 # text_por = Pai nosso, que estás no Céu, santificado seja o teu nome; venha a nós o teu reino; seja feita a tua vontade, assim na terra como no Céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, assim como nós perdoamos a dívida dos outros; não nos deixes cair em tentação; mas livra-nos de todo o mal.
 
-# sent_id = Aguiar1898:7:2:64
+# sent_id = Aguiar1898:8:2:67
 # text = TODO
 # text_orig = Iauê.
-# text_source = p. 30
+# text_source = p. 37
 # text_por = Amém.
 
-# sent_id = Aguiar1898:7:3:65
+# sent_id = Aguiar1898:9:1:68
 # text = TODO
-# text_orig = Ave-Maria, ipura graça çui, ianê làra ne iruma; iu-mumehun-catú inó upãin cnnhan pitérape, iu-mumehun-catú iuhá nê maricá çui, Jesus.
-# text_source = p. 30
+# title_orig = AVE MARIA
+# title_por = AVE MARIA
+# text_orig = Ave-Maria, ipura graça çui, ianê Iàra ne iruma; iu-mumehun-catú iné upãin cunhan pïtérape, iu-mumehun-catú iuhá nê marica çui, Jesus.
+# text_source = p. 37
 # text_por = Ave-Maria, cheia de graça, o Senhor seja contigo; bendita és tu entre todas as mulheres, bendito é o fruto do teu ventre, Jesus.
 
-# sent_id = Aguiar1898:7:4:66
+# sent_id = Aguiar1898:9:2:69
 # text = TODO
-# text_orig = Santa Maria Tupana Manha reiururé ianérecê pecadori rupi, cuhiri, ianê manú ramé iuiri.
-# text_source = p. 30
+# text_orig = Santa Maria Tupana Manha reiururé ianérecê pecadori rupi, cuhïri, ianê manú ramé ïuïri.
+# text_source = p. 37
 # text_por = Santa Maria, Mãe de Deus, roga por nós pecadores, agora e na hora da nossa morte.
 
-# sent_id = Aguiar1898:7:5:67
+# sent_id = Aguiar1898:9:3:70
 # text = TODO
 # text_orig = Iauê.
-# text_source = p. 30
+# text_source = p. 37
 # text_por = Amém.
 
-# sent_id = Aguiar1898:8:1:68
+# sent_id = Aguiar1898:10:1:71
 # text = TODO
 # title_orig = XA-RUIARI TUPANA RECÊ
 # title_por = CREIO EM DEUS
@@ -434,43 +444,43 @@
 # text_source = p. 31
 # text_por = Creio em Deus, Pai todo poderoso, Criador do Céu e da terra.
 
-# sent_id = Aguiar1898:8:2:69
+# sent_id = Aguiar1898:10:2:72
 # text = TODO
 # text_orig = Xa-ruiari Jesu-Christu recê, iepénhun aé-Ralrira, Ianê Iara; mahiuahá iu acema Espirilu-Santu çui;
 # text_source = p. 31
 # text_por = Creio em Jesus Cristo, seu único Filho, Nosso Senhor, o qual foi concebido do Espírito Santo, nasceu de Maria Virgem;
 
-# sent_id = Aguiar1898:8:3:70
+# sent_id = Aguiar1898:10:3:73
 # text = TODO
 # text_orig = u-cenia Maria Virgem çui; u-purará uirpe tuixâua Poncio Pilatos; iumúitapúa curuçà recê; u-manu; aitá u-iulimaaé; ufuhiéinfernukiti;
 # text_source = p. 31
 # text_por = padeceu sob o poder de Poncio Pilatos; foi crucificado, morto e sepultado; desceu aos infernos;
 
-# sent_id = Aguiar1898:8:4:71
+# sent_id = Aguiar1898:10:4:74
 # text = TODO
 # text_orig = iuhiriana cequé, muçapiri ara riri, umanúaítá pitéraçui; u-iupiri iuáca kíti;
 # text_source = p. 31
 # text_por = ressuscitou dentre os mortos ao terceiro dia; subiu aos Céus; está assentado à direita de Deus Pai todo poderoso, de onde há de vir a julgar os vivos e os mortos.
 
-# sent_id = Aguiar1898:8:5:72
+# sent_id = Aguiar1898:10:5:75
 # text = TODO
 # text_orig = u-apika u-icú Tupana-Paiapucatú ruaki, mahâçui curi u-uri jurigari arama cequéaitá, umanúaitá.
 # text_source = p. 31
 # text_por = Creio no Espírito Santo; na Santa Igreja Católica; na comunhão dos Santos; na remissão dos pecados; na ressurreição da nossa carne; na vida eterna.
 
-# sent_id = Aguiar1898:8:6:73
+# sent_id = Aguiar1898:10:6:76
 # text = TODO
 # text_orig = Xa-ruiari Espiritu-Santu recê; Santa Igreja Catorica reco, Santuilâ iepéuaçúçáua recê; ianê pecaduitá remiçam recê;
 # text_source = p. 31
 # text_por = Creio no Espírito-Santo; na Santa Igreja Catholiea; na communhão dos Santos; na remissão dos peccados; na ressurreição da nossa carne; na vida eterna.
 
-# sent_id = Aguiar1898:8:7:74
+# sent_id = Aguiar1898:10:7:77
 # text = TODO
 # text_orig = lauê
 # text_source = p. 31
 # text_por = Amém.
 
-# sent_id = Aguiar1898:9:1:75
+# sent_id = Aguiar1898:11:1:78
 # text = TODO
 # title_orig = TUPANA MUNUÇÁUMTÁ
 # title_por = MANDAMENTOS DE DEUS
@@ -478,55 +488,55 @@
 # text_source = p. 32
 # text_por = 1. — Amarás a Deus de todo o teu coração, sobre todas as cousas.
 
-# sent_id = Aguiar1898:9:2:76
+# sent_id = Aguiar1898:11:2:79
 # text = TODO
 # text_orig = 2°. — Tehen re-cenôi Tupana rêra tenente.
 # text_source = p. 32
 # text_por = 2. — Não jurarás o nome de Deus em vão.
 
-# sent_id = Aguiar1898:9:3:77
+# sent_id = Aguiar1898:11:3:80
 # text = TODO
 # text_orig = 3°. — Re-nungaturú curi mituú, ara san^uitá.
 # text_source = p. 32
 # text_por = 3. — Guardarás domingos e dias santos.
 
-# sent_id = Aguiar1898:9:4:78
+# sent_id = Aguiar1898:11:4:81
 # text = TODO
 # text_orig = 4°. — Re-puçú curi ne paia, ne.
 # text_source = p. 32
 # text_por = 4. — Honrarás teu pae e tua mãe.
 
-# sent_id = Aguiar1898:9:5:79
+# sent_id = Aguiar1898:11:5:82
 # text = TODO
 # text_orig = 5°. — Tehen re-iucá.
 # text_source = p. 32
 # text_por = 5. — Não matarás.
 
-# sent_id = Aguiar1898:9:6:80
+# sent_id = Aguiar1898:11:6:83
 # text = TODO
 # text_orig = 6°. — Tehen re-munhã cecúpuxiçaua.
 # text_source = p. 32
-# text_por = 6. — Não commetterás deshonestidades.
+# text_por = 6. — Não cometerás deshonestidades.
 
-# sent_id = Aguiar1898:9:7:81
+# sent_id = Aguiar1898:11:7:84
 # text = TODO
 # text_orig = 7°. — Tehen re-munan.
 # text_source = p. 32
 # text_por = 7. — Não furtarás.
 
-# sent_id = Aguiar1898:9:8:82
+# sent_id = Aguiar1898:11:8:85
 # text = TODO
 # text_orig = 8°. — Tehen re-hinhin temente ne rapixára recê, inti púité iuri.
 # text_source = p. 32
 # text_por = 8. — Não levantarás falso contra o teu próximo, nem também mentiras.
 
-# sent_id = Aguiar1898:9:9:83
+# sent_id = Aguiar1898:11:9:86
 # text = TODO
 # text_orig = 9°. — Tehen re-Íucê ne rapixap, rimiricú.
 # text_source = p. 32
 # text_por = 9. — Não desejarás a mulher do teu próximo.
 
-# sent_id = Aguiar1898:9:10:84
+# sent_id = Aguiar1898:11:10:87
 # text = TODO
 # text_orig = 10°. — Tehen re-Íucê a m ú i tá mahã.
 # text_source = p. 32
