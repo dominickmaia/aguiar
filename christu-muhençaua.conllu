@@ -526,99 +526,91 @@
 
 # sent_id = Aguiar1898:11:11:85
 # text = TODO
-# text_orig = — Iatucaçaua rupi:
+# text_orig = — Iatucaçaua rupi: — Re-cahiçù curi Tupana ne pïá çûi, upãin mahã çui.
 # text_source = p. 43
-# text_por = — Em resumo:
+# text_por = — Em resumo: Amarás a Deus de todo o teu coração, sobre todas as cousas.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:11:12:86
 # text = TODO
-# text_orig = SANTA IGRÊJA MUNUÇAUAITÁ
+# text_orig = — Reçahiçú curi ne rapixára, mahi ne iaué-ten.
 # text_source = p. 43
-# text_por = Mandamentos da Santa Igreja 
+# text_por = — Amarás o próximo, como a ti mesmo.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:12:1:87
 # text = TODO
-# text_orig = Re-cenù curi missa téipauçape mïtuù, ara santu ramé.
+# title_orig = SANTA IGRÊJA MUNUÇAUAITÁ
+# title_por = MANDAMENTOS DA SANTA IGREJA
+# text_orig = 1°. — Re-cenù curi missa téipauçape mïtuù, ara santu ramé.
 # text_source = p. 43
-# text_por = Ouvirás missa inteira aos domingos e dias santos.
+# text_por = 1°. — Ouvirás missa inteira aos domingos e dias santos.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:12:2:88
 # text = TODO
-# text_orig = Re-iumumehun curi, nhúnpu iepé hï acaiû iaué iaué.
+# text_orig = 2°. — Re-iumumehun curi, nhúnpu iepé hï acaiû iaué iaué.
 # text_source = p. 43
-# text_por = Te confessarás, ao menos, uma vez cada anno.
+# text_por = 2°. — Te confessarás, ao menos, uma vez cada ano.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:12:3:89
 # text = TODO
-# text_orig = Re-iucuacû curi, Santa Igreja u munú ramé.
+# text_orig = 3°. — Re-iuúca-Tupana curi Paschoa rupi.
 # text_source = p. 43
-# text_por = 
+# text_por = 3°. — Comungarás pela Páscoa.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:12:4:90
 # text = TODO
-# text_orig =Re-iuúca-Tupana curi Paschoa rupi.
+# text_orig = 4°. — Re-iucuacû curi, Santa Igreja u munú ramé.
 # text_source = p. 43
-# text_por = Commungarás pela Paschoa.
+# text_por = 4°. — Jejuarás, quando manda a Santa Igreja.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:12:5:91
 # text = TODO
-# text_orig = Re-mehen curi Tupana putâua.
+# text_orig = 5°. — Re-mehen curi Tupana putâua.
 # text_source = p. 43
-# text_por = Pagarás os dizimo de Deus.
+# text_por = 5°. — Pagarás os dízimos de Deus.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13:1:92
 # text = TODO
-# text_orig = Mupïácatùçàua ne rapixára rupi
+# title_orig = MUPÏÀCATÙÇÀUA NE RAPIXÁRA RUPI
+# title_por = OBRAS DE MISERICÓRDIA A FAVOR DO PRÓXIMO
+# text_orig = — IANÈ RECÊ RUPI: 1°. — Rê-iupùi curi iumacïuaitá.
 # text_source = p.45
-# text_por = Obras de misericordia a favor do proximo
+# text_por = — AS CORPORAES: 1°. — Darás de comer a quem tem fome. 
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13:2:93
 # text = TODO
-# text_orig = Ianê recê rupi:
+# text_orig = 2°. — Rê-mehen curi ï ïhïcê uahá aità çupé.
 # text_source = p.45
-# text_por = As corporaes:
+# text_por = 2°. — Darás de beber a quem tem sede.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13:3:94
 # text = TODO
-# text_orig = Rê-iupùi curi iumacïuaitá.
-# text_source = p.45
-# text_por = Darás de comer a quem tem fome.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Rê-mehen curi ï ïhïcê uahá aità çupé.
-# text_source = p.45
-# text_por = Darás de beber a quem tem sêde.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Rê-muámámunê curi camixaïma uahá aitá.
+# text_orig = 3°. — Rê-muámámunê curi camixaïma uahá aitá.
 # text_source = p. 45
-# text_por = Vestirás os que estiverem nús.
+# text_por = 3°. — Vestirás os que estiverem nús.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13:4:95
 # text = TODO
-# text_orig = Rê-cicari curi, ipïtümú arama, maácïuêraita, u-icù camirica uahá ïuïri.
+# text_orig = 4°. — Rê-cicari curi, ipïtümú arama, maácïuêraita, u-icù camirica uahá ïuïri.
 # text_source = p. 45
-# text_por = Visitarás, para os alliviar, os enfermos e os que fazem opprimidos.
+# text_por = 4°. — Visitarás, para os aliviar, os enfermos e os que fazem oprimidos.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13:5:96
 # text = TODO
-# text_orig = Rê-mehen curi renáua ne ruca upé u-çaçau aitá çupé.
+# text_orig = 5°. — Rê-mehen curi renáua ne ruca upé u-çaçau aitá çupé.
 # text_source = p. 45
-# text_por = Darás pousada em tua casa aos peregrinos.
+# text_por = 5°. — Darás pousada em tua casa aos peregrinos.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13:6:97
 # text = TODO
-# text_orig = Rê-mucema curi nê-iaué uahá miaçúaçaua xii.
+# text_orig = 6°. — Rê-mucema curi nê-iaué uahá miaçúaçaua xii.
 # text_source = p. 45
-# text_por = Remirás os teus similhantes do captiveiro.
+# text_por = 6°. — Remirás os teus semilhantes do cativeiro.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13:7:98
 # text = TODO
-# text_orig = Re-iütïma curi u-manuaitá.
+# text_orig = 7°. — Re-iütïma curi u-manuaitá.
 # text_source = p. 45
-# text_por = Darás sepultura aos mortos.
+# text_por = 7°. — Darás sepultura aos mortos.
 
 # sent_id = Aguiar1898:x:x:x:
 # text = TODO
