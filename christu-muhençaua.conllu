@@ -700,185 +700,105 @@
 # text_source = p. 49
 # text_por = 7°. — Preguiça.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:15:1:113
 # text = TODO
-# text_orig = Cecúcatúaitá tupana-uàra
+# title_orig = CECÚCATÚAITÁ TUPANA-UÀRA
+# title_por = VIRTUDES THEOLOGAES
+# text_orig = 1°. — Ruíáriçaua.
 # text_source = p. 51
-# text_por = Virtudes theologaes
+# text_por = 1°. — Fé.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:15:2:114
 # text = TODO
-# text_orig = Ruíáriçaua.
+# text_orig = 2°. — Çarùçaua.
 # text_source = p. 51
-# text_por = Fé.
+# text_por = 2°. — Esperança.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:15:3:115
 # text = TODO
-# text_orig = Çarùçaua.
+# text_orig = 3°. — Caridadi.
 # text_source = p. 51
-# text_por = Esperança.
+# text_por = 3°. — Caridade.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:15:4:116
 # text = TODO
-# text_orig = Caridadi.
+# text_orig = — Ruiariçaua rupi, iá ruiari upãin çupi, Tupana u-mucámehen iané çupê uahâ.
 # text_source = p. 51
-# text_por = Caridade.
+# text_por = — Pela Fé, nós cremos todas as verdades, que Deus nos revelou.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:15:5:117
 # text = TODO
-# text_orig = Ruiariçaua rupi, iá ruiari upãin çupi, Tupana u-mucámehen iané çupê uahâ.
+# text_orig = — Çarùçáua rupi, iá çarú upãin mahán catù, Tupana u-mehen curi uahá ianê çupé.
 # text_source = p. 51
-# text_por = Pela Fé, nós cremos todas as verdades, que Deus nos revelou.
+# text_por = — Pela Esperança, nós esperamos todos os bens que Deus nos prometteu dar.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:15:6:118
 # text = TODO
-# text_orig = Çarùçáua rupi, iá çarú upãin mahán catù, Tupana u-mehen curi uahá ianê çupé.
+# text_orig = — Caridadi rupi, ià çahiçù Tupana u-pãin mahá çui, ianê rapixára, mahi iauè-ten. 
 # text_source = p. 51
-# text_por = Pela Esperança, nós esperamos todos os bens que Deus nos prometteu dar.
+# text_por = — Pela Caridade, nós amamos a Deus sobre todas as cousas, e a nosso proximo como a nós mesmos.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:16:1:119
 # text = TODO
-# text_orig = Caridadi rupi, ià çahiçù Tupana u-pãin mahá çui, ianê rapixára, mahi iauè-ten. 
-# text_source = p. 51
-# text_por = Pela Caridade, nós amamos a Deus sobre todas as cousas, e a nosso proximo como a nós mesmos.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Igreja sacramentuità
+# title_orig = IGREJA SACRAMENTUITÀ
+# title_por = SACRAMENTOS DA IGREJA
+# text_orig = 1°. — Cerucaçáua.
 # text_source = p. 53
-# text_por = Sacramentos da igreja
+# text_por = 1°. — Baptismo.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:16:2:120
 # text = TODO
-# text_orig = Cerucaçáua.
+# text_orig = 2°. — Çantá-çantáçaua.
 # text_source = p. 53
-# text_por = Baptismo.
+# text_por = 2°. — Confirmação.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:16:3:121
 # text = TODO
-# text_orig = Çantá-çantáçaua.
+# text_orig = 3°. — Uucaçaua-Tupana.
 # text_source = p. 53
-# text_por = Confirmação.
+# text_por = 3°. — Comunhão.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:16:4:122
 # text = TODO
-# text_orig = Uucaçaua-Tupana.
+# text_orig = 4°. — Iumumêhunçaua.
 # text_source = p. 53
-# text_por = Communhão.
+# text_por = 4°. — Confissão.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:16:5:123
 # text = TODO
-# text_orig = Iumumêhunçaua.
+# text_orig = 5°. — Iandi manú catú arama.
 # text_source = p. 53
-# text_por = Confissão.
+# text_por = 5°. — Extrema-Unção.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:16:6:124
 # text = TODO
-# text_orig = Iandi manú catú arama.
+# text_orig = 6°. — Pahimunhançaua.
 # text_source = p. 53
-# text_por = Extrema-Uncção.
+# text_por = 6°. — Ordem.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:16:7:125
 # text = TODO
-# text_orig = Pahimunhançaua.
+# text_orig = 7°. — Menaçaua.
 # text_source = p. 53
-# text_por = Ordem.
+# text_por = 7°. — Matrimônio.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:17:1:126
 # text = TODO
-# text_orig = Menaçaua.
-# text_source = p. 53
-# text_por = Matrimonio.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Ixè pecadori xâ-iu-mumêhun Tupana turuçùretê cupè;
+# title_orig = IXÈ PECADÕRI
+# title_por = EU PECADOR
+# text_orig = Ixè pecadori xâ-iu-mumêhun Tupana turuçùretê cupè; catúreté upãin ara Virgem Maria çupè; catùretè S. Miguéru Arcanjo çupè; catúreté S. João Batista çupé; catúreté Santu Apósturitá, S. Pêderu S. Pauru çupè, Santuitá upãin catú çupè; iné Pahi ïuïri çupè; mahárecé ixé xa-munhan cetá hï cecúpuxiçáua, xa-maité ramé, xa-hinhin ramè, xa-munhan ramé, ce remutara puxi recêuara, ce remutara puxireté rêcêuara, ce remutara puxireteana receuara.
 # text_source = p. 55
-# text_por = Eu peccador me confesso a Deus, todo poderoso;
+# text_por = Eu pecador me confesso a Deus, todo poderoso; à bem-aventurada sempre Virgem Maria; ao bem-aventurado S. Miguel Arcanjo; ao bem-aventurado S. João Baptista; aos Santos Apostolos S. Pedro e S. Paulo; a todos os Santos; e a vós Padre; porque pequei muitas vezes, por pensamento, palavra e obra, por minha culpa, minha grande culpa, minha máxima culpa.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:17:2:127
 # text = TODO
-# text_orig = catúreté upãin ara Virgem Maria çupè;
+# text_orig = Nharecê xâ-iururé-rurê catureté upãín ara Virgem Maria çupé; catureté S. Miguereu Arcanju çupé; caturetè S. João Batista çupè; caturetè Santu Apòsturuità S. Pederu, S. Pauru çupé; Santuitá upãin catú çupé; iné Pahi ïuïri çupé; pé-iururè arama cerupi Tupana Ianê Iára çupé.
 # text_source = p. 55
-# text_por = á bemaventurada sempre Virgem Maria;
+# text_por = Portanto peço e rogo à bem-aventurada sempre Virgem Maria; ao bem-aventurado S. Miguel Arcanjo; ao bem-aventurado S. João Baptista; aos Santos Apostolos S. Pedro e S. Paulo; a todos os Santos; e a vós Padre, que rogueis por mim a Deus Nosso Senhor.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:17:3:128
 # text = TODO
-# text_orig = catùretè S. Miguéru Arcanjo çupè;
-# text_source = p. 55
-# text_por = ao bemaventurado S. Miguel Arcanjo;
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = catúreté S. João Batista çupé;
-# text_source = p. 55
-# text_por = ao bemaventurado S. João Baptista;
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = catúreté Santu Apósturitá, S. Pêderu S. Pauru çupè, Santuitá upãin catú çupè;
-# text_source = p. 55
-# text_por = aos Santos Apostolos S. Pedro e S. Paulo; á todos os Santos;
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = iné Pahi ïuïri çupè;
-# text_source = p. 55
-# text_por = e a vós Padre;
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = mahárecé ixé xa-munhan cetá hï cecúpuxiçáua, xa-maité ramé, xa-hinhin ramè, xa-munhan ramé, ce remutara puxi recêuara, ce remutara puxireté rêcêuara, ce remutara puxireteana receuara.
-# text_source = p. 55
-# text_por = porque pequei muitas vezes, por pensamento, palavra e obra, por minha culpa, minha grande culpa, minha maxima culpa.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Nharecê xâ-iururé-rurê catureté upãín ara Virgem Maria çupé;
-# text_source = p. 55
-# text_por = Portanto peço e rogo á bemaventurada sempre Virgem Maria;
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = catureté S. Miguereu Arcanju çupé;
-# text_source = p. 55
-# text_por = ao bemaventurado S. Miguel Arcanjo;
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = caturetè S. João Batista çupè;
-# text_source = p. 55
-# text_por = ao bemaventurado S. João Baptista;
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = caturetè Santu Apòsturuità S. Pederu, S. Pauru çupé;
-# text_source = p. 55
-# text_por = aos Santos Apostolos S. Pedro e S. Paulo; 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Santuitá upãin catú çupé;
-# text_source = p. 55
-# text_por = a todos os Santos;
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = iné Pahi ïuïri çupé;
-# text_source = p. 55
-# text_por = e a vós Padre,
-
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig =pé-iururè arama cerupi Tupana Ianê Iára çupé.
-# text_source = p. 55
-# text_por = que rogueis por mim a Deus Nosso Senhor.
-
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Iaué
+# text_orig = Iaué.
 # text_source = p. 55
 # text_por = Amen. 
 
