@@ -568,145 +568,137 @@
 # text_source = p. 43
 # text_por = 5°. — Pagarás os dízimos de Deus.
 
-# sent_id = Aguiar1898:13:1:92
+# sent_id = Aguiar1898:13-1:1:92
 # text = TODO
-# title_orig = MUPÏÀCATÙÇÀUA NE RAPIXÁRA RUPI
-# title_por = OBRAS DE MISERICÓRDIA A FAVOR DO PRÓXIMO
-# text_orig = — IANÈ RECÊ RUPI: 1°. — Rê-iupùi curi iumacïuaitá.
+# title_orig = MUPÏÀCATÙÇÀUA NE RAPIXÁRA RUPI (IANÊ RECÊ RUPI):
+# title_por = OBRAS DE MISERICORDIA EM FAVOR DO PRÓXIMO (AS CORPORAES):
+# text_orig = 1°. — Rê-iupùi curi iumacïuaitá.
 # text_source = p.45
-# text_por = — AS CORPORAES: 1°. — Darás de comer a quem tem fome. 
+# text_por = 1°. — Darás de comer a quem tem fome. 
 
-# sent_id = Aguiar1898:13:2:93
+# sent_id = Aguiar1898:13-1:2:93
 # text = TODO
 # text_orig = 2°. — Rê-mehen curi ï ïhïcê uahá aità çupé.
 # text_source = p.45
 # text_por = 2°. — Darás de beber a quem tem sede.
 
-# sent_id = Aguiar1898:13:3:94
+# sent_id = Aguiar1898:13-1:3:94
 # text = TODO
 # text_orig = 3°. — Rê-muámámunê curi camixaïma uahá aitá.
 # text_source = p. 45
 # text_por = 3°. — Vestirás os que estiverem nús.
 
-# sent_id = Aguiar1898:13:4:95
+# sent_id = Aguiar1898:13-1:4:95
 # text = TODO
 # text_orig = 4°. — Rê-cicari curi, ipïtümú arama, maácïuêraita, u-icù camirica uahá ïuïri.
 # text_source = p. 45
 # text_por = 4°. — Visitarás, para os aliviar, os enfermos e os que fazem oprimidos.
 
-# sent_id = Aguiar1898:13:5:96
+# sent_id = Aguiar1898:13-1:5:96
 # text = TODO
 # text_orig = 5°. — Rê-mehen curi renáua ne ruca upé u-çaçau aitá çupé.
 # text_source = p. 45
 # text_por = 5°. — Darás pousada em tua casa aos peregrinos.
 
-# sent_id = Aguiar1898:13:6:97
+# sent_id = Aguiar1898:13-1:6:97
 # text = TODO
 # text_orig = 6°. — Rê-mucema curi nê-iaué uahá miaçúaçaua xii.
 # text_source = p. 45
 # text_por = 6°. — Remirás os teus semilhantes do cativeiro.
 
-# sent_id = Aguiar1898:13:7:98
+# sent_id = Aguiar1898:13-1:7:98
 # text = TODO
 # text_orig = 7°. — Re-iütïma curi u-manuaitá.
 # text_source = p. 45
 # text_por = 7°. — Darás sepultura aos mortos.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13-2:1:99
 # text = TODO
-# text_orig = Ianê anga rupi
+# title_orig = MUPÏÀCATÙÇÀUA NE RAPIXÁRA RUPI (IANÊ ANGA RUPI):
+# title_por = OBRAS DE MISERICORDIA EM FAVOR DO PRÓXIMO (AS ESPIRITUAES):
+# text_orig = 1°. — Re-munguetá curi catú arama.
 # text_source = p. 45
-# text_por = As espirituaes:
+# text_por =  1°. — Darás bom conselho.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13-2:2:100
 # text = TODO
-# text_orig = Re-munguetá curi catú arama.
-# text_source = p. 45
-# text_por = Darás bom conselho.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Re-muhen curi iacúaïmaitá.
+# text_orig = 2°. — Re-muhen curi iacúaïmaitá.
 # text_source = p. 47
-# text_por = Ensinarás aos ignorantes.
+# text_por = 2°. — Ensinarás aos ignorantes.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13-2:3:101
 # text = TODO
-# text_orig = Re-muçurï curi çacïárauaitá.
+# text_orig = 3°. — Re-muçurï curi çacïárauaitá.
 # text_source = p. 47
-# text_por = Consolarás os tristes.
+# text_por = 3°. — Consolarás os tristes.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13-2:4:102
 # text = TODO
-# text_orig = Re-nupá curi ne mira, uiuauhï ramé.
+# text_orig = 4°. — Re-nupá curi ne mira, uiuauhï ramé.
 # text_source = p. 47
-# text_por =Castigarás os teus, quando errarem.
+# text_por = 4°. — Castigarás os teus, quando errarem.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13-2:5:103
 # text = TODO
-# text_orig = Re-perduari curi mahã amuitá u-munhan iné arama.
+# text_orig = 5°. — Re-perduari curi mahã amuitá u-munhan iné arama.
 # text_source = p. 47
-# text_por = Perdoarás as offensas que os outros te fizerem.
+# text_por = 5°. — Perdoarás as offensas que os outros te fizerem.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13-2:6:104
 # text = TODO
-# text_orig = Re-pïtaçuca curi, catuçáua rupi, ianê rapixàra uiauhïçáua.
+# text_orig = 6°. — Re-pïtaçuca curi, catuçáua rupi, ianê rapixàra uiauhïçáua.
 # text_source = p. 47
-# text_por = Soffreràs com paciencia as fraquesas do teu proximo.
+# text_por = 6°. — Soffreràs com paciencia as fraquesas do teu proximo.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:13-2:7:105
 # text = TODO
-# text_orig = Re-iururé curi Tupana çupé cequèaitá u-manùaitá rupi.
+# text_orig = 7°. — Re-iururé curi Tupana çupé cequèaitá u-manùaitá rupi.
 # text_source = p. 47
-# text_por = Rogarás a Deus pelos vivos e defunctos.
+# text_por = 7°. — Rogarás a Deus pelos vivos e defunctos.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:14:1:106
 # text = TODO
-# text_orig = Angaipauaità-ipi'
+# title_orig = ANGAIPAUAITÀ-IPI'
+# title_por = PECADOS CAPITAIS
+# text_orig = 1°. — Iu-muíatéçáua.
 # text_source = p. 49
-# text_por = Peccados capitaes
+# text_por = 1°. — Soberba.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:14:2:107
 # text = TODO
-# text_orig = Iu-muíatéçáua.
+# text_orig = 2°. — Çacatêïmaçaua.
 # text_source = p. 49
-# text_por = Suberba.
+# text_por = 2°. — Avaresa.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:14:3:108
 # text = TODO
-# text_orig = Çacatêïmaçaua.
+# text_orig = 3°. — Cecúpuxiçáua.
 # text_source = p. 49
-# text_por = Avaresa.
+# text_por = 3°. — Impureza.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:14:4:109
 # text = TODO
-# text_orig = Cecúpuxiçáua.
+# text_orig = 4°. — Pïáíuaçaua.
 # text_source = p. 49
-# text_por = Impureza.
+# text_por = 4°. — Ira.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:14:5:110
 # text = TODO
-# text_orig = Pïáíuaçaua.
+# text_orig = 5°. — Tïáraçaua.
 # text_source = p. 49
-# text_por = Ira.
+# text_por = 5°. — Gula.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:14:6:111
 # text = TODO
-# text_orig = Tïáraçaua.
+# text_orig = 6°. — Muacïçaua.
 # text_source = p. 49
-# text_por = Gula.
+# text_por = 6°. — Inveja.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:14:7:112
 # text = TODO
-# text_orig = Muacïçaua.
+# text_orig = 7°. — Iatêïmaçaua.
 # text_source = p. 49
-# text_por = Inveja.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Iatêïmaçaua.
-# text_source = p. 49
-# text_por = Preguiça.
+# text_por = 7°. — Preguiça.
 
 # sent_id = Aguiar1898:x:x:x:
 # text = TODO
