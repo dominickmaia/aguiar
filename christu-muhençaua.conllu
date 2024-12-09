@@ -801,7 +801,7 @@
 # text = TODO
 # text_orig = — Iaué.
 # text_source = p. 55
-# text_por = — Amen. 
+# text_por = — Amém. 
 
 # sent_id = Aguiar1898:18:1:129
 # text = TODO
@@ -809,7 +809,7 @@
 # title_por = ATO DE CONTRIÇÃO
 # text_orig = — Ce Iára Jesu-Christu, Tupana retè, Apgaua reté, ce Criadori, ce Redentori, maharecê iné Tupana catúreteana, inéretè ianê upãin catú ià-çahiçú arama, ixè ce racïára-retè ce pecaduitá recê-uára, upãin mahan puxi cerecêuára-ten; ixè xa-iururé neçui re-perduari putari ixé, ne ruhï, ne umanú, ne curuçá rupi; ixë xa iucê reté, xa putari ce piá çui, inti-amúara, inè pïtïmùçaua irumo, xa-munhan curi mahã puxi nahá cerecê-uára; ixé xa-çahiçù curi iné ce requé çape.
 # text_source = p. 57
-# text_por = — Meu Senhor Jesus Cristo, Deus e Homem verdadeiro, meu Criador, meu Redentor, por serdes sumamente bom, e digno de ser de todos nós amado, eu tenho summa dôr de todos as ações más, que fiz por minha culpa; eu vos rogo vos digneis perdoar-me, pelo vosso sangue, pela vossa morte, pela vossa cruz; com o vosso auxílio, eu proponho firmemente, e quero de todo o coração, nunca mais cometer por minha culpa ações más; e vos hei de amar por toda a vida.
+# text_por = — Meu Senhor Jesus Cristo, Deus e Homem verdadeiro, meu Criador, meu Redentor, por serdes sumamente bom, e digno de ser de todos nós amado, eu tenho suma dôr de todos as ações más, que fiz por minha culpa; eu vos rogo vos digneis perdoar-me, pelo vosso sangue, pela vossa morte, pela vossa cruz; com o vosso auxílio, eu proponho firmemente, e quero de todo o coração, nunca mais cometer por minha culpa ações más; e vos hei de amar por toda a vida.
 
 # sent_id = Aguiar1898:18:2:130
 # text = TODO
@@ -821,7 +821,7 @@
 # text = TODO
 # text_orig = — Iaué.
 # text_source = p. 57
-# text_por = — Amen.
+# text_por = — Amém.
 
 # sent_id = Aguiar1898:19:1:132
 # text = TODO
@@ -859,7 +859,7 @@
 # text = TODO
 # text_orig = — Iaué.
 # text_source = p. 59
-# text_por = — Amen.
+# text_por = — Amém.
 
 # sent_id = Aguiar1898:19:6:138
 # text = TODO
@@ -873,13 +873,13 @@
 # title_por = O QUE SE DEVE FAZER, QUANDO SE ESTÁ PARA MORRER
 # text_orig = — Apgáua ô cunhan cerucana, u-mahácï reté ramé, u-cenhôi cari curi Pahí iu-mumêhun arama, iuúca Tupana ïuïri.
 # text_source = p. 61
-# text_por = — O homem ou mulher já baptizado, quando estiver muito doente, fará chamar o Padre para confessar-se e receber a communhão.
+# text_por = — O homem ou mulher já baptizado, quando estiver muito doente, fará chamar o Padre para confessar-se e receber a comunhão.
 
 # sent_id = Aguiar1898:20:2:140
 # text = TODO
 # text_orig = — 'Tiramé ahiqué Pahí, iururéruré curi Tupana çupé, cetá hï, u-perduari putari arama i cecupuxi upãin catú.
 # text_source = p. 61
-# text_por = — Se não houver Padre, deverá pedir e rogar a Deus, muitas vezes, se digne perdoar todos os seus peccados.
+# text_por = — Se não houver Padre, deverá pedir e rogar a Deus, muitas vezes, se digne perdoar todos os seus pecados.
 
 # sent_id = Aguiar1898:20:3:141
 # text = TODO
@@ -1257,266 +1257,158 @@
 
 # sent_id = Aguiar1898:22:1:201
 # text = TODO
-# text_orig = APGAUA ÀRI
+# title_orig = APGAUA ÀRI
+# title_por = QUEDA DO HOMEM
+# text_orig = — Buia iacù piri upãin çuúaitá çui.
 # text_source = p. 79
-# text_por = QUEDA DO HOMEM
+# text_por = — A serpente era o mais astuto de todos os animais.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:2:202
 # text = TODO
-# text_orig = Buia iacù piri upãin çuúaitá çui.
+# text_orig = — Aé u-hinhin cunhã çupè: — Mahárecê tahá Tupana umunú penhen çupè, inti'maran pé-ú upãin muïrá çui, çurï-renaua upé u-icú uahá?
 # text_source = p. 79
-# text_por = A serpente era o mais astuto de todos os animais.
+# text_por = — Ela disse a mulher: — Porque razão Deus vos ordenou, que não comesseis de todas as árvores, que estão no paraíso?
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:3:2023
 # text = TODO
-# text_orig = Aé u-hinhin cunhã çupè: Mahárecê tahá Tupana umunú penhen çupè, inti'maran pé-ú upãin muïrá çui, çurï-renaua upé u-icú uahá?
+# text_orig = — Cunhã u-çuaxara: — Muïraitá ïhà çui u-icù rurïrenaua upè nahá ianê iá-ú.
 # text_source = p. 79
-# text_por = Ela disse a mulher:
+# text_por = — A mulher respondeu: — Do fruto das árvores que estão no paraíso nós comemos.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:4:204
 # text = TODO
-# text_orig = 
+# text_orig = — Muïrá ïhá çui u-icù uahá rurï-renaua pïtéra upè, Tupana u-munú ianê çupé 'tiarama ia-pïcïca aé, 'tiarama araneïma iá-manú.
 # text_source = p. 79
-# text_por = Porque razão Deus vos ordenou, que não comesseis de todas as árvores, que estão no paraíso?
+# text_por = — Mas do fruto da árvore que está no meio do paraíso, Deus ordenou que não comessemos, nem o tocassemos, para por ventura não morrermos.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:5:205
 # text = TODO
-# text_orig = Cunhã u-çuaxara: 
-# text_source = p. 79
-# text_por = A mulher respondeu:
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Muïraitá ïhà çui u-icù rurïrenaua upè nahá ianê iá-ú.
-# text_source = p. 79
-# text_por = Do fruto das árvores que estão no paraíso nós comemos.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Muïrá ïhá çui u-icù uahá rurï-renaua pïtéra upè, Tupana u-munú ianê çupé 'tiarama ia-pïcïca aé, 'tiarama araneïma iá-manú.
-# text_source = p. 79
-# text_por = Mas do fruto da árvore que está no meio do paraíso, Deus ordenou que não comessemos, nem o tocassemos, para por ventura não morrermos.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Buia u-hinhin cunhã çupé:
+# text_orig = — Buia u-hinhin cunhã çupé: — Intimahan curi pè-manú.
 # text_source = p. 81
-# text_por = A serpente disse a mulher:
+# text_por = — A serpente disse à mulher: — Vós não morrereis.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:6:206
 # text = TODO
-# text_orig = Intimahan curi pè-manú.
+# text_orig = — Tupana u-quau inháan ara ramé pè-ú curi i-çui, penhen pé-iupirari curi pé reçá, penhen pé-pïtá curi tupanaitá iaué, pé-quau curi mahã catú, mahã puxi uahà.
 # text_source = p. 81
-# text_por = Vós não morrereis.
+# text_por = — Deus sabe, que no dia em que vós comerdes daquele fruto, se abrirão os vossos olhos, e sereis como uns deuses, conhecendo o bem e o mal.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:7:207
 # text = TODO
-# text_orig = Tupana u-quau inháan ara ramé pè-ú curi i-çui, penhen pé-iupirari curi pé reçá, penhen pé-pïtá curi tupanaitá iaué, pé-quau curi mahã catú, mahã puxi uahà.
+# text_orig = — Cunhã, nharecê, u-xipiá muïrá catú ú-arama, puranga reçá çupé, iucï catú-arama, u-pù iepé ïhá çui, u-ùana; u-mehen i-mena çupé, u-ùana uahá ïuïri.
 # text_source = p. 81
-# text_por = Deus sabe, que no dia em que vós comerdes daquele fruto, se abrirão os vossos olhos, e sereis como uns deuses, conhecendo o bem e o mal.
+# text_por = — A mulher, pois, viu que a árvore era boa para comer, formosa aos olhos, agradável ao desejo; tirou o fruto e comeu; e deu ao seu marido, o qual também comeu.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:8:208
 # text = TODO
-# text_orig = Cunhã, nharecê, u-xipiá muïrá catú ú-arama, puranga reçá çupé, iucï catú-arama, u-pù iepé ïhá çui, u-ùana; 
+# text_orig = — Aramé upãin-mucûin çupé iupirianai-reçá.
 # text_source = p. 81
-# text_por = A mulher, pois, viu que a árvore era boa para comer, formosa aos olhos, agradável ao desejo; tirou o fruto e comeu;
+# text_por = — Logo a ambos se abriram os olhos.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:9:209
 # text = TODO
-# text_orig = u-mehen i-mena çupé, u-ùana uahá ïuïri.
+# text_orig = — Aitá u-quau ramé u-icù camixaïma, aitá u-iupé, caháitá, iu-cêkёnau arama.
 # text_source = p. 81
-# text_por = e deu ao seu marido, o qual também comeu.
+# text_por = — Conhecendo eles que estavam nus, teceram folhas, para se cobrirem.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:10:210
 # text = TODO
-# text_orig = Aramé upãin-mucûin çupé iupirianai-reçá.
+# text_orig = — Aitá u-cenú ramé Tupana hinhinga, u-atá uahá rurï-renaua rupi, iandára riri iruçanga rupi, Adam i-rimiricu iruma u-iu-iumimi Tupana ruá çui, muïrá rurï-renaua pïtéra upé.
 # text_source = p. 81
-# text_por = Logo a ambos se abriram os olhos.
+# text_por = — Como eles ouvissem a voz de Deus, que passeiava pelo paraíso, depois de meio-dia pela fresca, Adão com sua mulher se esconderam da face de Deus, no meio das árvores do paraíso.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:11:211
 # text = TODO
-# text_orig = Aitá u-quau ramé u-icù camixaïma, aitá u-iupé, caháitá, iu-cêkёnau arama.
-# text_source = p. 81
-# text_por = Conhecendo eles que estavam nus, teceram folhas, para se cobrirem.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Aitá u-cenú ramé Tupana hinhinga, u-atá uahá rurï-renaua rupi, iandára riri iruçanga rupi, Adam i-rimiricu iruma u-iu-iumimi Tupana ruá çui, muïrá rurï-renaua pïtéra upé.
-# text_source = p. 81
-# text_por = Como eles ouvissem a voz de Deus, que passeiava pelo paraíso, depois de meio-dia pela fresca, Adão com sua mulher se esconderam da face de Deus, no meio das árvores do paraíso.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Tupana Ianê Iara u-cenôi Adam, u-hinhin aé çupé:
+# text_orig = — Tupana Ianê Iara u-cenôi Adam, u-hinhin aé çupé: — Mamé r'icú?
 # text_source = p. 83
-# text_por = Deus Nosso Senhor chamou por Adão, dizendo-lhe:
+# text_por = — Deus Nosso Senhor chamou por Adão, dizendo-lhe: — Onde estás?
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:12:212
 # text = TODO
-# text_orig = Mamé r'icú?
+# text_orig = — Adam u-çuaxara: — Xa-cenú ne hinhinga rurï-renáua upé, ixé xá-cïkïê, maharecê xá-icú camixaïma, ixé xá-iu-iu-mimi.
 # text_source = p. 83
-# text_por = Onde estás?
+# text_por = — Adão respondeu: — Eu ouvi a tua voz no paraíso tive medo, porque estava nu, e escondi-me.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:13:213
 # text = TODO
-# text_orig = Adam u-çuaxara:
+# text_orig = — Tupana u-hinhin aé çupé: — Auá tahá u-mucámehen iné camixaïma r'icú uahá, 'ti maharecê re-úana muïrá çui, ixé xa-munú uahá 'ti-arama re-ú?
 # text_source = p. 83
-# text_por = Adão respondeu:
+# text_por = — Deus disse-lhe: — Quem te indicou que estavas nu, senão o teres comido da árvore, que eu tinha mandado que não comesses?
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:14:214
 # text = TODO
-# text_orig = Xa-cenú ne hinhinga rurï-renáua upé, ixé xá-cïkïê, maharecê xá-icú camixaïma, ixé xá-iu-iu-mimi.
+# text_orig = — Adam u-çuaxára: — Cunhan, re-mehen uahá ce çupé ce irumuara uaram, u-mehen ce çupé muïrá çui; ixé xa-uana.
 # text_source = p. 83
-# text_por = Eu ouvi a tua voz no paraíso tive medo, porque estava nu, e escondi-me.
+# text_por = — Adão respondeu: — A mulher, que me destes para minha companheira, deu-me da árvore, e eu comi.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:15:215
 # text = TODO
-# text_orig = Tupana u-hinhin aé çupé:
+# text_orig = — Ianê Iara Tupana u-hinhin cunhâ çupé: — Mahá tahá re-munhan iaué?
 # text_source = p. 83
-# text_por = Deus disse-lhe:
+# text_por = — Deus Nosso Senhor disse à mulher: — Porque fizeste isto?
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:16:216
 # text = TODO
-# text_orig = Auá tahá u-mucámehen iné camixaïma r'icú uahá, 'ti maharecê re-úana muïrá çui, ixé xa-munú uahá 'ti-arama re-ú?
+# text_orig = — Aé u-çuaxára: — Buia u-ganani ixé; xa úana.
 # text_source = p. 83
-# text_por = Quem te indicou que estavas nu, senão o teres comido da árvore, que eu tinha mandado que não comesses?
+# text_por = — Ela respondeu: — A serpente enganou-me, e eu comi.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:17:217
 # text = TODO
-# text_orig = Adam u-çuaxára:
-# text_source = p. 83
-# text_por = Adão respondeu:
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Cunhan, re-mehen uahá ce çupé ce irumuara uaram, u-mehen ce çupé muïrá çui; ixé xa-uana.
-# text_source = p. 83
-# text_por = A mulher, que me destes para minha companheira, deu-me da árvore, e eu comi.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Ianê Iara Tupana u-hinhin cunhâ çupé:
-# text_source = p. 83
-# text_por = Deus Nosso Senhor disse a mulher.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Mahá tahá re-munhan iaué?
-# text_source = p. 83
-# text_por = Porque fizeste isto?
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Aé u-çuaxára:
-# text_source = p. 83
-# text_por = Ela respondeu:
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Buia u-ganani ixé; xa úana.
-# text_source = p. 83
-# text_por = A serpente enganou-me, e eu comi.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Tupana u-hinhin buia çupé:
+# text_orig = — Tupana u-hinhin buia çupé: — Maharecê re-munhan iaué, cequéaitá, çuúaitá upãin catú pïtêra çui, iné re-iumumêhun puxi curi, re-iucïki curi ne putiá árpe, re-ú curi ïuhï, ara-uёrá upé.
 # text_source = p. 85
-# text_por = Deus disse a serpente:
+# text_por = — Deus disse a serpente: — Pois que assim fizeste serás maldita entre todos os animais e bichos da terra; te arrastarás sobre o peito, comerás terra toda a tua vida.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:18:218
 # text = TODO
-# text_orig = Maharecê re-munhan iaué, cequéaitá, çuúaitá upãin catú pïtêra çui, iné re-iumumêhun puxi curi, re-iucïki curi ne putiá árpe, re-ú curi ïuhï, ara-uёrá upé.
+# text_orig = — Xa-inú curi ruïanhanaçáua iné cunhã pïtérape; ne memïraitá i-memiraitá pïtérape.
 # text_source = p. 85
-# text_por = Pois que assim fizeste serás maldita entre todos os animais e bichos da terra; te arrastarás sobre o peito, comerás terra toda a tua vida.
+# text_por = — Porei inimizade entre ti e a mulher, entre os teus filhos e os filhos dela.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:19:219
 # text = TODO
-# text_orig = Xa-inú curi ruïanhanaçáua iné cunhã pïtérape; ne memïraitá i-memiraitá pïtérape.
+# text_orig = — Aé u-mucururi curi ne acan.
 # text_source = p. 85
-# text_por = Porei inimizade entre ti e a mulher, entre os teus filhos e os filhos dela.
+# text_por = — Ela esmagará a tua cabeça.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:20:220
 # text = TODO
-# text_orig = Aé u-mucururi curi ne acan.
+# text_orig = — Iné re-munhan iuçana curi i-pïrupïtá 'ram.
 # text_source = p. 85
-# text_por = Ela esmagará a tua cabeça.
+# text_por = — Tu farás ciladas ao seu calcanhar
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:21:221
 # text = TODO
-# text_orig = Iné re-munhan iuçana curi i-pïrupïtá 'ram.
+# text_orig = — Cunhã çupé ïuïri u-hinhin: — Xa-munhan curi cetá ne puraráçaua, re-memïrari curi cacï iruma, re-pïtá curi apgáua remutara iurpe, aé curi ne iara.
 # text_source = p. 85
-# text_por = Tu farás ciladas ao seu calcanhar
+# text_por = — Também disse à mulher: — Eu multiplicarei os teus sofrimentos, parirás com dores, ficarás sujeita a vontade do homem, ele será teu senhor.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:22:222
 # text = TODO
-# text_orig = Cunhã çupé ïuïri u-hinhin:
+# text_orig = — Adam çupé u-hinhin ïuïri: — Maharecê re-cenú ne rimiricú hinhinga, re-úana muïrá çui, ti arama re-ú xa-munú uahá, ïuhï puxi curi iné çupé ne murauki upé, i-çui re-ú curi muraukï irumo ne ar-apura upé.
 # text_source = p. 85
-# text_por = Também disse a mulher:
+# text_por = — Disse também a Adão: — Porque deste ouvido a voz da tua mulher, comeste da árvore que eu tinha ordenado que não comesses, a terra te será adversa no teu trabalho, dela comerás mediante trabalho, durante toda a tua vida.
 
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Xa-munhan curi cetá ne puraráçaua, re-memïrari curi cacï iruma, re-pïtá curi apgáua remutara iurpe, aé curi ne iara.
-# text_source = p. 85
-# text_por = Eu multiplicarei os teus sofrimentos, parirás com dores, ficarás sujeita a vontade do homem, ele será teu senhor.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Adam çupé u-hinhin ïuïri:
-# text_source = p. 85
-# text_por = Disse também a Adão:
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = Maharecê re-cenú ne rimiricú hinhinga, re-úana muïrá çui, ti arama re-ú xa-munú uahá, ïuhï puxi curi iné çupé ne murauki upé, i-çui re-ú curi muraukï irumo ne ar-apura upé.
-# text_source = p. 85
-# text_por = Porque deste ouvido a voz da tua mulher, comeste da árvore que eu tinha ordenado que não comesses, a terra te será adversa no teu trabalho, dela comerás mediante trabalho, durante toda a tua vida.
-
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:23:223
 # text = Iwí ... kurí ... ... ... ... ;
-# text_orig = Ïuhï u-cïnhin curi ihú cetá iné recê;
+# text_orig = — Ïuhï u-cïnhin curi ihú cetá iné recê; re-ú curi ïuhï rïmïtara.
 # text_source = p. 87
-# text_por = A terra germinará espinhos contra ti;
+# text_por = — A terra germinará espinhos contra ti; comerás as plantas da terra.
 
-# sent_id = Aguiar1898:x:x:x:
-# text = ... kurí iwí ... . 
-# text_orig = re-ú curi ïuhï rïmïtara.
-# text_source = p. 87
-# text_por = comerás as plantas da terra.
-
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:24:224
 # text = Ne riái upé reú kurí miapé, ... ... kurí ... iwí, ... ... ... ... : (Aguiar, 87, adap)
-# text_orig = Ne ruá hãin upé re-ú curi miapé, té re-úiú curi re-iu-munhan ïuhï, maháçui xá uúca iné:
+# text_orig = — Ne ruá hãin upé re-ú curi miapé, té re-úiú curi re-iu-munhan ïuhï, maháçui xá uúca iné: ïuhï iné, ïuhï re-ieréu curi.
 # text_source = p. 87
-# text_por = Comerás o pão com o suor do teu rosto, até voltares a te fazeres terra, da qual eu tirei-te:
+# text_por = — Comerás o pão com o suor do teu rosto, até voltares a te fazeres terra, da qual eu tirei-te: terra és, e em terra te hás de tornar.
 
-# sent_id = Aguiar1898:x:x:x:
-# text = iwí ..., iwí ... kurí.
-# text_orig = ïuhï iné, ïuhï re-ieréu curi.
-# text_source = p. 87
-# text_por = terra és, e em terra te hás de tornar.
-
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:25:225
 # text = Adam usenuí rimirikú rera Eva, ... ... ... ... .
-# text_orig = Adam u-cenôi i-rimiricú rêra Eva, mahárecê upãin cequéuaitá manha.
+# text_orig = — Adam u-cenôi i-rimiricú rêra Eva, mahárecê upãin cequéuaitá manha.
 # text_source = p. 87
-# text_por = Adão chamou o nome da sua mulher Eva, por ser mãe de todos.
+# text_por = — Adão chamou o nome da sua mulher Eva, por ser mãe de todos.
 
-# sent_id = Aguiar1898:x:x:x:
+# sent_id = Aguiar1898:22:26:226
 # text = Pawasá-pe, Tupana ...musarú yepé Pisirusara. *
-# text_orig = Pauçape, Tupana u-muçarú iepé Pïcïrúçara.
+# text_orig = — Pauçape, Tupana u-muçarú iepé Pïcïrúçara.
 # text_source = p. 87
-# text_por = Finalmente, Deus fez esperar um Libertador.
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 83
-# text_por = 
-
-# sent_id = Aguiar1898:x:x:x:
-# text = TODO
-# text_orig = 
-# text_source = p. 83
-# text_por = 
-
-
+# text_por = — Finalmente, Deus fez esperar um Libertador.
