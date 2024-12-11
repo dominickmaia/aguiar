@@ -216,7 +216,7 @@
 # text_por = ― A Mãe de Deus ficou sempre virgem?
 
 # sent_id = Aguiar1898:3:8:36
-# text = TODO
+# text = ― Upitá.
 # text_orig = ― U-pïtá.
 # text_source = p. 29
 # text_por = ― Ficou.
@@ -228,7 +228,7 @@
 # text_por = ― Como?
 
 # sent_id = Aguiar1898:3:10:38
-# text = TODO
+# text = [Membirari] renuné virgem, [membirari] ramé virgem; [membirari] riré virgem. *
 # text_orig = ― Mèmürarí renunè virgem, mumürari ramé virgem; memürari riri virgem.
 # text_source = p. 29
 # text_por = ― Virgem antes do parto, virgem no parto, virgem depois do parto.
@@ -302,7 +302,7 @@
 # text_por = ― Para que?
 
 # sent_id = Aguiar1898:4:6:50
-# text = TODO
+# text =  ― 
 # text_orig = ― Ianê pïcïrù, salvari arama.
 # text_source = p. 31
 # text_por = ― Para nos remir e salvar.
@@ -1059,30 +1059,45 @@
 # text_orig = — Tupana u-hinhin ïuïri: — Ahiquè ï-çuiuara piraitá ïpe, uiráita ueuê uahá, ïnhï árpe, iuáça çantaçáua iúrpe.
 # text_source = p. 69
 # text_por = — Deus disse também: — Haja das águas peixes n'água, e pássaros que voem sobre a terra e debaixo do firmamento do céu.
+# text_orig_transcriber = Letícia Farias Nunes
+# text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:2:169
 # text = TODO
 # text_orig = — Quá iauê iu-munhan.
 # text_source = p. 69
 # text_por = — Assim se fez.
+# text_orig_transcriber = Letícia Farias Nunes
+# text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:3:170
 # text = TODO
 # text_orig = — Tupana u-xipiá mahã catú uahá.
 # text_source = p. 69
 # text_por = — Deus viu que era bom.
+# text_orig_transcriber = Letícia Farias Nunes
+# text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:4:171
 # text = TODO
 # text_orig = — U-mehen aitá çupé bençam, u-munú aitá çupé iu-muturuçú aram, iu-munhan cetá-arama.
 # text_source = p. 69
 # text_por = — Deu-lhes a benção, e ordenou-lhes que crescessem e se multiplicassem.
+# text_orig_transcriber = Letícia Farias Nunes
+# text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:5:172
 # text = TODO
 # text_orig = — Caruca coema ïuïri çui iu-munhã ara pu'
 # text_source = p. 69
 # text_por = — Da tarde e da manhã se fez o quinto dia.
+# text_orig_transcriber = Letícia Farias Nunes
+# text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:1:173
 # text = TODO
@@ -1377,12 +1392,14 @@
 # text_orig = — Iné re-munhan iuçana curi i-pïrupïtá 'ram.
 # text_source = p. 85
 # text_por = — Tu farás ciladas ao seu calcanhar
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:22:21:221
-# text = TODO
-# text_orig = — Cunhã çupé ïuïri u-hinhin: — Xa-munhan curi cetá ne puraráçaua, re-memïrari curi cacï iruma, re-pïtá curi apgáua remutara iurpe, aé curi ne iara.
+# text = Kunhã supé yuíri unheẽ: — Xamunhã kurí setá ne purarasawa, remembirari kurí sasí irũmu, repitá kurí apigawa rimutara wírupi, aé kurí ne yara.
+# text_orig = Cunhã çupé ïuïri u-hinhin: — Xa-munhan curi cetá ne puraráçaua, re-memïrari curi cacï iruma, re-pïtá curi apgáua remutara iurpe, aé curi ne iara.
 # text_source = p. 85
-# text_por = — Também disse à mulher: — Eu multiplicarei os teus sofrimentos, parirás com dores, ficarás sujeita a vontade do homem, ele será teu senhor.
+# text_por = Também disse à mulher: — Eu multiplicarei os teus sofrimentos, parirás com dores, ficarás sujeita a vontade do homem, ele será teu senhor.
+# text_modernizer = Dominick Maia Alexandre
 
 # sent_id = Aguiar1898:22:22:222
 # text = TODO
