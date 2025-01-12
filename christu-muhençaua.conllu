@@ -397,24 +397,29 @@
 # text_por = ― Mediante o preço do sangue de Jesus Cristo, e fazendo da nossa parte o que Deus manda.
 
 # sent_id = Aguiar1898:7:1:63
-# text = TODO
+# title = KURUSÁ RANGAWA.
 # title_orig = CURUÇÁ-RANGÀUA.
 # title_por = SINAL DA CRUZ.
+# text = ― Santa Kurusá rangawa rupí, yané pisirú Tupana, yané Yara, yané ruayanasawa.
 # text_orig = ― Santa Curuçá rangáua rupi, ianè pïcïrú Tupana, ianê Iara, ianê ruîanhana.
 # text_source = p. 35
 # text_por = ― Pelo sinal da Santa Cruz, livre-nos Deus, Nosso Senhor, dos nossos inimigos.
+# text_modernizer = Letícia Farias Nunes
+# title_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:7:2:64
-# text = TODO
+# text = ― Paya rera upé, Taíra yuíri Espírito Santo yuíri.
 # text_orig = ― Paia rêra upé, Tahïra ïuïri Espíritu Santu ïuïri.
 # text_source = p. 35
 # text_por = ― Em nome do Pai, e do Filho, e do Espírito Santo.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:7:3:65
-# text = TODO
+# text = ― Yawé.
 # text_orig = ― Iaué.
 # text_source = p. 35
 # text_por = ― Amém.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:8:1:66
 # text = TODO
