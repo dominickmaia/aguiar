@@ -172,6 +172,7 @@
 # text_orig = ― Aramé, iepénhun Tupana reté, muçapïri pessôa aitá recê?
 # text_source = p. 27
 # text_por = ― Então, é um só Deus verdadeiro, em três pessoas distintas?
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:15:26
 # text = TODO
@@ -184,6 +185,7 @@
 # text_orig = ― Mahá tahá quá mysteriu rêra?
 # text_source = p. 27
 # text_por = ― Qual é o nome deste mistério?
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:17:28
 # text = TODO
@@ -192,12 +194,14 @@
 # text_por = ― Mistério da Santíssima Trindade.
 
 # sent_id = Aguiar1898:3:1:29
-# text = TODO
+# title = TUPANA RAÍRA ... ... ... 
 # title_orig = TUPANA RAHÏRA IANÉ RUQUÈRA IRUMO
 # title_por = INCARNAÇÃO DO FILHO DE DEUS
+# text = ― ...-... musapiri pessoa pitera ... ...-... apigawa? *
 # text_orig = ― Mahi-uahá muçapïri pessôa pïtéra çui iu-munhan apgaua?
 # text_source = p. 27
 # text_por = ― Qual das três pessoas se fez homem?
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:3:2:30
 # text = TODO
@@ -254,10 +258,11 @@
 # text_por = ― Virgem antes do parto, virgem no parto, virgem depois do parto.
 
 # sent_id = Aguiar1898:3:11:39
-# text = TODO
+# text = ― Maã-taá rera Tupana-Raíra ... ... Apigawa? *
 # text_orig = ― Mahá-tahá rêra Tupana-Rahïra iumunhan uahá Apgaua?
 # text_source = p. 29
 # text_por = ― Qual é o nome do Filho de Deus feito homem?
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:3:12:40
 # text = TODO
