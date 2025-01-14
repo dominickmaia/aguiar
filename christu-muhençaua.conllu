@@ -58,7 +58,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:1:9:9
-# text = ― ... ..., iwí-pe, upaĩ rupí. *
+# text = ― Iwaka upé, iwí-pe, upaĩ rupí. *
 # text_orig = ― Iuáca upé, ïuhïpe, upãin rupi.
 # text_source = p. 23
 # text_por = ― No Céu, na terra, e em todo o lugar.
@@ -77,10 +77,10 @@
 # text_por = ― Um puro espírito, todo poderoso, nosso Criador, e nosso Senhor.
 
 # sent_id = Aguiar1898:2:1:12
-# title = TUPANA ... ... ... 
+# title = TUPANA YEPÉSAWA MUSAPIRISAWA RESÉ *
 # title_orig = TUPANA IEPÉÇÁUA MUÇAPÏRÍÇAUA RECÊ
 # title_por = DEUS UNO E TRINO
-# text = ... ... taá aikwéu Tupana resé?
+# text = ― Muíri pessoa taá aikwéu Tupana resé? *
 # text_orig = ― Munhïre pessôa tahá ahiqué Tupana recê? 
 # text_source = p. 25
 # text_por = ― Quantas pessoas há em Deus?
@@ -94,40 +94,46 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:3:15
-# text = TODO
+# text = ― Maawá taá-itá? *
 # text_orig = ― Mahiuhá tahá aitá?
 # text_source = p. 25
-# text_por = ― Quais são elas? 
+# text_por = ― Quais são elas?
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:4:16
-# text = TODO
+# text = ― Paya, Taíra, ...-... . *
 # text_orig = ― Paia, Tahïra, Espiritu-Santu.
 # text_source = p. 25
 # text_por = ― Pai, Filho, Espírito Santo.
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:5:16
-# text = TODO
+# text = ― Paya Tupana? *
 # text_orig = ― Paia Tupana? 
 # text_source = p. 25
 # text_por = ― O Pai é Deus?
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:6:17
-# text = TODO
+# text =  ― Aé; Paya Tupana. *
 # text_orig = ― Aé; Paia Tupana.
 # text_source = p. 25
-# text_por = ― Sim; o Pai é Deus. 
+# text_por = ― Sim; o Pai é Deus.
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:7:18
-# text = TODO
+# text =  ― Taíra Tupana? *
 # text_orig = ― Tahïra Tupana?
 # text_source = p. 25
 # text_por = ― O Filho é Deus?
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:8:19
-# text = TODO
+# text = ― Aé; Taíra Tupana. *
 # text_orig = ― Aé; Tahïra Tupana.
 # text_source = p. 25
 # text_por = ― Sim; o Filho é Deus.
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:9:20
 # text = TODO
