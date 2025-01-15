@@ -194,105 +194,119 @@
 # text_por = ― Mistério da Santíssima Trindade.
 
 # sent_id = Aguiar1898:3:1:29
-# title = TUPANA RAÍRA ... ... ... 
+# text = ― Maí waá musapiri pessoa pitera suí iumunhã apigawa.
+# title = TUPANA RAÍRA YANÉ RUKWERA IRUMU
 # title_orig = TUPANA RAHÏRA IANÉ RUQUÈRA IRUMO
 # title_por = INCARNAÇÃO DO FILHO DE DEUS
-# text = ― ...-... musapiri pessoa pitera ... ...-... apigawa? *
-# text_orig = ― Mahi-uahá muçapïri pessôa pïtéra çui iu-munhan apgaua?
+# text_orig = Mahi-uahá muçapïri pessôa pïtéra çui iu-munhan apgaua?
 # text_source = p. 27
 # text_por = ― Qual das três pessoas se fez homem?
-# text_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:2:30
-# text = TODO
+# text = ― Tupana Raíra.
 # text_orig = ― Tupana Rahïra.
 # text_source = p. 27
 # text_por = ― O Filho de Deus.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:3:31
-# text = TODO
+# text = ― Maí taá Tupana raíra iumunhã apigawa?
 # text_orig = ― Mahi-tahá Tupana Rahïra iumunhã apgáua?
 # text_source = p. 29
 # text_por = ― Como o Filho de Deus se fez homem?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:4:32
-# text = TODO
+# text = ― Espírito Santu umunhã. *
 # text_orig = ― Espiritu-Santu u-munhan.
 # text_source = p. 29
 # text_por = ― Por obra do Espírito-Santo.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:5:33
-# text = TODO
+# text = ― Mamé taá?
 # text_orig = ― Mamé-tahá?
 # text_source = p. 29
 # text_por = ― Onde?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:6:34
-# text = TODO
+# text = ― Maria Virgem marika upé.
 # text_orig = ― Maria Virgem marica upé.
 # text_source = p. 29
 # text_por = ― No ventre de Maria Virgem.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:7:35
-# text = TODO
+# text = ― Tupana Manha upitá upa~i* ara upé Virgem?
 # text_orig = ― Tupana-Manha u-pïtá upãin ara upé Virgem?
 # text_source = p. 29
 # text_por = ― A Mãe de Deus ficou sempre virgem?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:8:36
 # text = ― Upitá.
 # text_orig = ― U-pïtá.
 # text_source = p. 29
 # text_por = ― Ficou.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:9:37
-# text = TODO
+# text = ― Maí taá?
 # text_orig = ― Mahi-tahá?
 # text_source = p. 29
 # text_por = ― Como?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:10:38
-# text = [Membirari] renuné virgem, [membirari] ramé virgem; [membirari] riré virgem. *
+# text = ― Mèmürarí renuné virgem, mumürari ramé virgem; memürari riri virgem.
 # text_orig = ― Mèmürarí renunè virgem, mumürari ramé virgem; memürari riri virgem.
 # text_source = p. 29
 # text_por = ― Virgem antes do parto, virgem no parto, virgem depois do parto.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:11:39
-# text = ― Maã-taá rera Tupana-Raíra ... ... Apigawa? *
+# text = ― Maã taá rera Tupana Raíra yumunhã waá Apigawa?
 # text_orig = ― Mahá-tahá rêra Tupana-Rahïra iumunhan uahá Apgaua?
 # text_source = p. 29
 # text_por = ― Qual é o nome do Filho de Deus feito homem?
-# text_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:12:40
-# text = TODO
+# text = ― Jesu Christu.
 # text_orig = ― Jesú-Christu.
 # text_source = p. 29
 # text_por = ― Jesus Cristo.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:13:41
-# text = TODO
+# text = ― Jesu Christu Tupana reté, Apigawa reté?
 # text_orig = ― Jesú-Christu Tupana reté, Apgáua reté?
 # text_source = p. 29
 # text_por = ― Jesus Cristo é verdadeiro Deus e verdadeiro Homem?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:14:42
-# text = TODO
+# text = ― Aré. Jesu Christu Tupana reté, Apigawa reté.
 # text_orig = ― Aé. Jesú-Christu Tupana reté, Apgaua reté.
 # text_source = p. 29
 # text_por = ― Sim, Jesus Cristo é verdadeiro Deus e verdadeiro Homem.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:15:43
-# text = TODO
+# text = ― Maã taá rera kwá mysteriu?
 # text_orig = ― Maha-tahá rêra quá mysteriu?
 # text_source = p. 29
 # text_por = ― Qual é o nome deste mistério?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:16:44
-# text = TODO
+# text = ― Incarnaçam, mysteriu; amurupí, Tupana Raíra yané rukera irumu.
 # text_orig = ― Incarnaçam, mysteriu; amú rupi, Tupana-Rahïra ianê ruquéra irumo.
 # text_source = p. 29
 # text_por = ― Mistério da Incarnação; n'outros termos, o Filho de Deus com a nossa carne.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:4:1:45
 # text = TODO
