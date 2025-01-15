@@ -309,92 +309,120 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:4:1:45
-# text = TODO
+# text = ― Mamé taá Jesu Christu umanú?
+# title = Maí Jesu Christu 
 # title_orig = MAHI JESU-CHRISTU U-PÍCÍRÜIANÊ
 # title_por = COMO JESUS CHRISTO NOS REMIU
 # text_orig = ― Mamè-tahà Jesu-Christu umanú?
 # text_source = p. 31
 # text_por = ― Onde Jesus Christo morreu?
+# text_sec = ― Mamé taá Jesu Christu umanú?
+# text_por_sec = ― Onde Jesus Christo morreu?
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:4:2:46
-# text = TODO
+# text = ― Kurusá upé.
 # text_orig = ― Curuçà upé.
 # text_source = p. 31
 # text_por = ― Na cruz.
+# text_sec = ― Kurusá upé.
+# text_por_sec = ― Na cruz.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:4:3:47
-# text = TODO
+# text = ― Awá rupí?
 # text_orig = ― Auà rupi?
 # text_source = p. 31
 # text_por = ― Por quem?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:4:4:48
-# text = TODO
+# text = ― Yané rupí.
 # text_orig = ― Ianê rupi.
 # text_source = p. 31
 # text_por = ― Por nós.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:4:5:49
-# text = TODO
+# text = ― Marama taá?
 # text_orig = ― Mah'arama tahà?
 # text_source = p. 31
 # text_por = ― Para que?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:4:6:50
-# text =  ― 
+# text =  ― Yané pisirú, salvari arama.
 # text_orig = ― Ianê pïcïrù, salvari arama.
 # text_source = p. 31
 # text_por = ― Para nos remir e salvar.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:5:1:51
-# text = TODO
+# text = ― Marama taá Tupana Yané Yara umunhã yané?
+# title = MARAMA TUPANA UMUNHÃ YANÉ
 # title_orig = MAH'ARAMA TUPANA U-MUNHÃN IANÉ
 # title_por = DO FIM PARA QUE NOS CREOU DEUS
 # text_orig = ― Mah'arama tahà Tupana Ianè Iàra u-munhan ianê?
 # text_source = p. 33
 # text_por = ― Para que Deus Nosso Senhor nos criou?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:5:2:52
-# text = TODO
+# text = ― Yakwáu arama aé, yasaisú arama aé, yamunhã arama simutara iké iwí-pe, ara yawé kurí.
 # text_orig = ― Ià-quau arama aè, ià-çahiçù arama aè, ià-munhan arama ce mutára ikè ïuhïpe, ara iauè curi.
 # text_source = p. 33
 # text_por = ― Para o conhecermos, para amá-lo, para fazer sua vontade n'este mundo, enquanto vivermos.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:5:3:53
-# text = TODO
+# text = ― Yamanú rirí?
 # text_orig = ― Iá-manù riri?
 # text_source = p. 33
 # text_por = ― E depois que morrermos?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:5:4:54
-# text = TODO
+# text = ― Yapituú reté arama, yané ruri arama apa~in ara iwaka upé, Tupana Yané Yara ruakí.
 # text_orig = ― Iá-pïtïhú-retê arama, ianê rurï arama upàin ara iuaca upé, Tupana Ianê Iara ruakï.
 # text_source = p. 33
 # text_por = ― Para descansarmos de todo, para gozarmos eternamente no Céu, junto a Deus Nosso Senhor.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:5:5:55
-# text = TODO
+# text = ― Aramé, yané rikwé iké, yamanu rirí yané rikwé será?
 # text_orig = ― Aramè, ianê requè ikè, iámanù riri ianê requè cerá?
 # text_source = p. 33
 # text_por = ― Então aqui temos uma vida, e depois da nossa morte teremos outra?
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:5:6:56
-# text = TODO
+# text = ― Yawé t~e. Yané rikwé iwí-pe; yané rikwé yamanú rirí. *
 # text_orig = ― Iauè-ten. Ianê requé ïuhïpe; ianê requé ia-manú riri.
 # text_source = p. 33
 # text_por = ― É verdade. Temos uma vida na terra, e outra depois da morte.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:5:7:57
-# text = TODO
+# text = ― Yamanú ramé, maã kití yasú?
 # text_orig = ― Ià manú ramé, mahá-kïtï iáçù?
 # text_source = p. 33
 # text_por = ― Quando morrermos, para onde vamos?
+# text_sec = ― Yamanú ramé, makití yasú?
+# text_por_sec = ― Quando morremos, para onde vamos?
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:5:8:58
-# text = TODO
+# text = ― Mari katú iwaka kití, mira puxi yurupariratá kití.
 # text_orig = ― Mira catú iuaca kïtï, mira puxi iurupariratá kïtï.
 # text_source = p. 33
 # text_por = ― Os bons vão para o Céu, e os maus para o inferno.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:6:1:59
 # text = TODO
