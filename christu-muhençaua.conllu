@@ -928,44 +928,51 @@
 # text_por = — Amém.
 
 # sent_id = Aguiar1898:19:1:132
-# text = TODO
+# text = — Intí awá [u-yu-salvari] kwáu tiramé yumuseruka. *
+# title = SERUKA UMANÚ RAMÉ
 # title_orig = CERUCA U-MANÚ RAMÉ
 # title_por = BAPTISMO EM ARTIGO DE MORTE
 # text_orig = — Intiauá oiu-salvari quau 'tiramé iu-muceruca.
 # text_source = p. 59
 # text_por = — Ninguém se salva, sem baptizar-se.
+# text_modernizer = Letícia Farias Nunes
 
-# sent_id = Aguiar1898:19:1:133
-# text = TODO
+# sent_id = Aguiar1898:19:2:133
+# text = Seraíma-itá maasiwera apigawa u kunhã, u manú putari uikú kurí ramé, usikari kurí yumuseruka, uruyari ramé Jesu Christu resé, uputari reté ramé.
 # text_orig = Cêraïmaitá maacïuêra apgaua ô cunhã, u manú putari u-icú curi ramé, u-cicari curi iu-muceruca, u-ruiari ramé Jesu-Christu recê, u-putari reté ramé.
 # text_source = p. 59
 # text_por = Os pagãos doentes, homem ou mulher, quando estiverem para morrer, devem procurar baptizar-se, se crerem em Jesus Cristo, e o quiserem sem constrangimento.
+# text_modernizer = Letícia Farias Nunes
 
-# sent_id = Aguiar1898:19:2:134
-# text = TODO
+# sent_id = Aguiar1898:19:3:134
+# text = Mira useruka kurí yuíri taína-itá, kurum~i u kunhatãi, yakwaíma-itá i kweré pá renuné.
 # text_orig = Mira u-ceruca curi ïuïri tainaitá, curumî ô cunhantan, iacúaïmaitá icuiri-pá renoné.
 # text_source = p. 59
 # text_por = Deve-se tambem baptizar as creanças, meninos ou meninas, sem uso de razão, antes que entrem em agonia.
+# text_modernizer = Letícia Farias Nunes
 
-# sent_id = Aguiar1898:19:3:135
-# text = TODO
+# sent_id = Aguiar1898:19:4:135
+# text = Yamuseruka arama, yasenúi yepé Paí; tiramé aikwé Paí yasenúi yepé amú mira ukwáu museruka waá.
 # text_orig = Iá mucêruca arama, iá cenôi iepé Pahi; 'tiramé ahiqué Pahi iácenôi iepé amú mira u-quau mucêruca uahá.
 # text_source = p. 59
 # text_por = Para baptizar chama-se um Padre; se não há Padre, chama-se outra pessoa que saiba baptizar.
+# text_modernizer = Letícia Farias Nunes
 
-# sent_id = Aguiar1898:19:4:136
-# text = TODO
+# sent_id = Aguiar1898:19:5:136
+# text = Museruka aram, yepé mira uyusena i paraná suí, u igarapé, u ... suí seraíma akanga árupi, unheẽ kwayé: Ixé xa [baptisari] iné Paya rera upé, Taíra yuíri, Espiritu Santu yuíri.
 # text_orig = Muceruca arama, iepé mira u-iucena ï paraná çui, ô igarapè, ô ïreçâ çui cêraïma acanga arpe, u-hinhin quáhi: Ixé xa baptisari iné Paia rera upé, Tuhïra ïuïre, Espiritu-Santu ïuïri.
 # text_source = p. 59
 # text_por = Para baptizar, a pessoa derrama água do rio, ou do ribeiro, ou da fonte sobre a cabeça do pagão dizendo assim: Eu te baptizo em nome do Padre, e do Filho, e do Espírito Santo.
+# text_modernizer = Letícia Farias Nunes
 
-# sent_id = Aguiar1898:19:5:137
-# text = TODO
+# sent_id = Aguiar1898:19:6:137
+# text = — Yawé.
 # text_orig = — Iaué.
 # text_source = p. 59
 # text_por = — Amém.
+# text_modernizer = Letícia Farias Nunes
 
-# sent_id = Aguiar1898:19:6:138
+# sent_id = Aguiar1898:19:7:138
 # text = TODO
 # text_orig = — Mira u-iucena ramé ï acángua arpe, uhinbin u-icû cuhïri-ten hïnhïngaita.
 # text_source = p. 61
