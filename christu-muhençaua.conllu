@@ -735,86 +735,101 @@
 # text_por = 7°. — Rogarás a Deus pelos vivos e defunctos.
 
 # sent_id = Aguiar1898:14:1:106
-# text = TODO
+# text = 1°. — Yumuwarixí. *
+# title = ANGAIPAWA-ITÁ IPÍ (Aguiar, 49)
 # title_orig = ANGAIPAUAITÀ-IPI'
 # title_por = PECADOS CAPITAIS
 # text_orig = 1°. — Iu-muíatéçáua.
 # text_source = p. 49
 # text_por = 1°. — Soberba.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:14:2:107
-# text = TODO
+# text = 2°. — Sakatiimasawa.
 # text_orig = 2°. — Çacatêïmaçaua.
 # text_source = p. 49
 # text_por = 2°. — Avaresa.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:14:3:108
-# text = TODO
+# text = 3°. — Siku-puxisawa.
 # text_orig = 3°. — Cecúpuxiçáua.
 # text_source = p. 49
 # text_por = 3°. — Impureza.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:14:4:109
-# text = TODO
+# text = 4°. — Piaiwasawa.
 # text_orig = 4°. — Pïáíuaçaua.
 # text_source = p. 49
 # text_por = 4°. — Ira.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:14:5:110
-# text = TODO
+# text = 5°. — Tiarasawa.
 # text_orig = 5°. — Tïáraçaua.
 # text_source = p. 49
 # text_por = 5°. — Gula.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:14:6:111
-# text = TODO
+# text = 6°. — Muasisawa.
 # text_orig = 6°. — Muacïçaua.
 # text_source = p. 49
 # text_por = 6°. — Inveja.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:14:7:112
-# text = TODO
+# text = 7°. — Atiimasawa.
 # text_orig = 7°. — Iatêïmaçaua.
 # text_source = p. 49
 # text_por = 7°. — Preguiça.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:15:1:113
-# text = TODO
+# text = 1°. — Ruyarisawa.
+# title = SIKÚ-KATÚ... TUPANA...
 # title_orig = CECÚCATÚAITÁ TUPANA-UÀRA
 # title_por = VIRTUDES THEOLOGAES
 # text_orig = 1°. — Ruíáriçaua.
 # text_source = p. 51
 # text_por = 1°. — Fé.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:15:2:114
-# text = TODO
+# text = 2°. — Sarusawa.
 # text_orig = 2°. — Çarùçaua.
 # text_source = p. 51
 # text_por = 2°. — Esperança.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:15:3:115
-# text = TODO
+# text = 3°. — Caridadi. (Aisupawa) *
 # text_orig = 3°. — Caridadi.
 # text_source = p. 51
 # text_por = 3°. — Caridade.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:15:4:116
-# text = TODO
+# text = — Ruyarisawa rupí, yaruyari upa~i supí, Tupana umukame~e yané supé waá. *
 # text_orig = — Ruiariçaua rupi, iá ruiari upãin çupi, Tupana u-mucámehen iané çupê uahâ.
 # text_source = p. 51
 # text_por = — Pela Fé, nós cremos todas as verdades, que Deus nos revelou.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:15:5:117
-# text = TODO
+# text = — Sarusawa rupí, yasaru upa~i  maã katú, Tupana ume~e kuri waá yané supé. *
 # text_orig = — Çarùçáua rupi, iá çarú upãin mahán catù, Tupana u-mehen curi uahá ianê çupé.
 # text_source = p. 51
-# text_por = — Pela Esperança, nós esperamos todos os bens que Deus nos prometteu dar.
+# text_por = — Pela Esperança, nós esperamos todos os bens que Deus nos prometeu dar.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:15:6:118
-# text = TODO
+# text = — Caridadi rupí, yasaisú Tupana upa~i maã suí, yané rapixara, maí yawé t~e. *
 # text_orig = — Caridadi rupi, ià çahiçù Tupana u-pãin mahá çui, ianê rapixára, mahi iauè-ten. 
 # text_source = p. 51
 # text_por = — Pela Caridade, nós amamos a Deus sobre todas as cousas, e a nosso proximo como a nós mesmos.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:16:1:119
 # text = TODO
