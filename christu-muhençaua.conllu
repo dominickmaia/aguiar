@@ -959,7 +959,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:19:5:136
-# text = Museruka aram, yepé mira uyusena i paraná suí, u igarapé, u ... suí seraíma akanga árupi, unheẽ kwayé: Ixé xa [baptisari] iné Paya rera upé, Taíra yuíri, Espiritu Santu yuíri.
+# text = Museruka aram, yepé mira uyusena i paraná suí, u igarapé, u [ií-rukena] suí seraíma akanga árupi, unheẽ kwayé: Ixé xa [baptisari] iné Paya rera upé, Taíra yuíri, Espiritu Santu yuíri. *
 # text_orig = Muceruca arama, iepé mira u-iucena ï paraná çui, ô igarapè, ô ïreçâ çui cêraïma acanga arpe, u-hinhin quáhi: Ixé xa baptisari iné Paia rera upé, Tuhïra ïuïre, Espiritu-Santu ïuïri.
 # text_source = p. 59
 # text_por = Para baptizar, a pessoa derrama água do rio, ou do ribeiro, ou da fonte sobre a cabeça do pagão dizendo assim: Eu te baptizo em nome do Padre, e do Filho, e do Espírito Santo.
@@ -973,10 +973,11 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:19:7:138
-# text = TODO
-# text_orig = — Mira u-iucena ramé ï acángua arpe, uhinbin u-icû cuhïri-ten hïnhïngaita.
+# text = — [Mairamé] uyusena ramé i akanga árupi, unhe~e uikú kuíri t~e nheenga-itá. *
+# text_orig = — Mira u-iucena ramé ï acángua arpe, uhinhin u-icû cuhïri-ten hïnhïngaita.
 # text_source = p. 61
 # text_por = — Quando se derrama a água sobre a cabeça, vai-se dizendo, ao mesmo tempo, as palavras.
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:20:1:139
 # text = TODO
@@ -1005,7 +1006,7 @@
 # text_por = — Para confessar-se, não esperará que já esteja para morrer.
 
 # sent_id = Aguiar1898:20:5:143
-# text = TODO
+# text = I kweré pá renundé uwatari reté yuíri maasiwera supé yandí uanú katú arama "sacramento". (Aguiar, 61, adap.) 
 # text_orig = — Icuhiri-pá renoné uatari-reté uïri mahacïuêra çupè iandi u-maïnû catù arama Sacramentu.
 # text_source = p. 61
 # text_por = — Antes d'agonia, tambem é mui necessário ao doente o Sacramento da Extrema-Unção.
