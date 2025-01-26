@@ -1311,7 +1311,11 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:20:5:143
-# text = I kweré pá renundé uwatari reté yuíri maasiwera supé yandí uanú katú arama "sacramento". (Aguiar, 61, adap.) 
+# text_sec = I kweré pá renundé uwatari reté yuíri maasiwera supé yandí uanú katú arama "sacramento". (Aguiar, 61, adap.)
+# text_por_sec = Antes da completa extenuação, também é muito necessário ao doente o Sacramento do óleo para bem morrer (ou seja, o Sacramento da "Extrema-unção").
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# text =  
 # text_orig = — Icuhiri-pá renoné uatari-reté uïri mahacïuêra çupè iandi u-maïnû catù arama Sacramentu.
 # text_source = p. 61
 # text_por = — Antes d'agonia, tambem é mui necessário ao doente o Sacramento da Extrema-Unção.
@@ -1396,12 +1400,17 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:21-2:3:153
-# text = TODO
+# text_sec = Tupana umusera santasawa supé iwaka, [...].
+# text_por_sec = Deus chamou o firmamento de céu, [...].
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# text = Tupana umusera santasawa supé iwaka, ... ... ... waá.
 # text_orig = Tupana u-mucêra çantaçáua çupè iuáca, puranga çukira iá xipiá uahá.
 # text_source = p. 65
 # text_por = Deus chamou o firmamento céu, o belo azul que nós vemos.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:21-2:4:154
 # text = TODO
@@ -1488,20 +1497,30 @@
 # text_por_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-4:3:164
+# text_sec = Tupana umunhã mukũi werawasú: turusú piri waá, kurasí, ara pukusawa arama; kwaíra piri waá, yasí, pituna ramé arama.
+# text_por_sec = Deus fez dois grandes luzeiros: o maior, o Sol, para a duração do dia o menor, a Lua, para o período da noite.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text = TODO
 # text_orig = Tupana u-munhan mucuin uëráuaçú: turuçúpiri, cuaracï, ara pucuçáua arama, coahira-piri, iacï, pïtuna ramé arama.
 # text_source = p. 67
 # text_por = Deus fez dois grandes luzeiros; o maior, o sol, para o correr do dia, e o menor, a lua, para quando for noite.
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:21-4:4:165
+# text_sec = Umunhã yasí-mirĩ-itá yuíri, usinipuka arama iwí árupi.
+# text_por_sec = Fez também as estrelas, para luzirem sobre a terra.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text = TODO
 # text_orig = U-munhan iacïmiritá ïuïri, u-cenêpïca ïubï árape.
 # text_source = p. 67
 # text_por = Fez também estrelas, para luzirem sobre a terra.
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:21-4:5:166
 # text = TODO
