@@ -1136,7 +1136,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:16:6:124
-# text = 6°. — Paímaãsawa. *
+# text = 6°. — Paímunhãsawa.
 # text_orig = 6°. — Pahimunhançaua.
 # text_source = p. 53
 # text_por = 6°. — Ordem.
@@ -1431,7 +1431,8 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:21-3:1:155
-# text = TODO
+# text = Tupana unheẽ. — Yumatirí yepé nhũ tenawa upé [ïaitá] uikú waá iwaka wírupi; usema ukara kití yuí tikanga. *
+# title = UPAĨ MAÃ MUNHÃSAWA (ARA MUSAPIRI)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA MUÇAPÏRI)
 # title_por = CRIAÇÃO DO MUNDO (TERCEIRO DIA)
 # text_orig = Tupana uhinhin. — Iu-matïri iepènhun tenana upé ïaitá u-icú uahá iuáca iurpe; u-cema ucára kïti ïuhï ticanga.
@@ -1439,79 +1440,89 @@
 # text_por = Deus disse: — Reúnam-se em um só lugar as águas que estão debaixo do céu; saia fora a terra enxuta.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-3:2:156
-# text = TODO
+# text = Kwá yawé yumunhã.
 # text_orig = Quá iaué iu-munhan.
 # text_source = p. 65
 # text_por = Assim se fez.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-3:3:157
-# text = TODO
+# text = Tupana uxipiá maã katú waá.
 # text_orig = Tupana u-xipiá mahã catú uahá.
 # text_source = p. 65
 # text_por = Deus viu que era bom.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-3:4:158
-# text = TODO
+# text = Tupana unheẽ yuí supé: — Remusinhĩ retitema yakira umeẽ waá sanha, mirá-itá umeẽ waá iwá.
 # text_orig = Tupana uhinhin ïuhï çupé: — Re-mucïnhin rïmïtëma iakïra, umehen uahá çanha, muïráitá u-mehen uahá ïuhá.
 # text_source = p. 65
 # text_por = Deus disse à terra: — Germina plantas verdes, que dêem sementes, e árvores que dêem frutos.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-3:5:159
-# text = TODO
+# text = Kwá yawé yumunhã.
 # text_orig = Quá iaué iu-munhan.
 # text_source = p. 67
 # text_por = Assim se fez.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-3:6:160
-# text = TODO
+# text = Tupana uxipiá maã katú waá.
 # text_orig = Tupana u-xipiá mahã catú uahá.
 # text_source = p. 67
 # text_por = Deus viu que era bom.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-3:7:161
-# text = TODO
+# text = Karuka koẽma suí yumunhã ara musapiri.
 # text_orig = Caruca coema ïuïri çui iu-munhãn ara muçapïri.
 # text_source = p. 67
 # text_por = Da tarde e da manhã se fez o terceiro dia.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-4:1:162
-# text = TODO
+# text = Tupana unheẽ: — Yumunhã iwaka santasawa upé werá-itá, umuĩ arama pituna suí; ara-itá, akayú-itá supé rangawa arama; usinipuka arama iwaka santasawa upé; umukandéa iwí arama.
+# title = UPAĨ MAÃ MUNHÃSAWA (ARA IRUNDÍ)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA IRUNDI)
 # title_por = CRIAÇÃO DO MUNDO (QUARTO DIA)
-# text_orig = Tupana u-hinhin: — Iu-munhan iuáca cantaçáua upè uëráitá, u-muhin arama ára pïtuna çui; araitá, acaiúaitá çupé rangáua arama; u-cenèpïca arama ïuáca çantaçáua upè; u-mucandêa ïuhï arama. 
-# text_source = p. 69
-# text_por = Deus disse também: — Haja das águas peixes n'água, e pássaros que voem sobre a terra e debaixo do firmamento do céu. 
+# text_orig = Tupana u-hinhin: — Iu-munhan iuáca çantaçáua upè uëráitá, u-muhin arama ára pïtuna çui; araitá, acaiúaitá çupé rangáua arama; u-cenèpïca arama ïuáca çantaçáua upè; u-mucandêa ïuhï arama. 
+# text_source = p. 67
+# text_por = Deus disse: — Façam-se no firmamento do céu luzeiros, para dividirem o dia da noite, para sinal dos dias e dos anos, para brilharem no firmamento do ceu, e para alumiarem a terra. 
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-4:2:163
-# text = TODO
+# text = Kwá yawé yumunhã.
 # text_orig = Quá iaué iu-munhan.
 # text_source = p. 67
 # text_por = Assim se fez.
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-4:3:164
 # text_sec = Tupana umunhã mukũi werawasú: turusú piri waá, kurasí, ara pukusawa arama; kwaíra piri waá, yasí, pituna ramé arama.
 # text_por_sec = Deus fez dois grandes luzeiros: o maior, o Sol, para a duração do dia o menor, a Lua, para o período da noite.
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
-# text = TODO
+# text = Tupana umunhã mukũi werawasú: turusú piri, kwarasí, ara pukusawa arama, kwaíra piri, yasí, pituna ramé arama. 
 # text_orig = Tupana u-munhan mucuin uëráuaçú: turuçúpiri, cuaracï, ara pucuçáua arama, coahira-piri, iacï, pïtuna ramé arama.
 # text_source = p. 67
 # text_por = Deus fez dois grandes luzeiros; o maior, o sol, para o correr do dia, e o menor, a lua, para quando for noite.
@@ -1533,23 +1544,26 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:21-4:5:166
-# text = TODO
+# text = Tupana uxipiá maã katú waá.
 # text_orig = Tupana u-xipiá mahã catú uahá.
 # text_source = p. 67
 # text_por = Deus viu que era bom.
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-4:5:167
-# text = TODO
+# text = Karuka koẽma suí yumunhã ara irundí.
 # text_orig = Caruca coema ïuïri çui iu-munhan ara irundi.
 # text_source = p. 67
 # text_por = Da tarde e da manhã se fez o quarto dia.
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:1:168
 # text = TODO
+# title = UPAĨ MAÃ MUNHÃSAWA (ARA PÚ)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA PU')
 # title_por = CRIAÇÃO DO MUNDO (QUINTO DIA)
 # text_orig = Tupana u-hinhin ïuïri: — Ahiquè ï-çuiuara piraitá ïpe, uiráita ueuê uahá, ïnhï árpe, iuáça çantaçáua iúrpe.
