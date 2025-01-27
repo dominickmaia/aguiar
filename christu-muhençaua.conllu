@@ -1332,7 +1332,11 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:21-1:1:145
-# text = TODO
+# text_sec = Yupirungawa ramé Tupana umunhã iwaka, iwí yuíri. (Aguiar, 63, adap.)
+# text_por_sec = No princípio criou Deus o Céu e a terra.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# text = Yupirungawa ramé Tupana umunhã iwaka iwí yuíri.
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (IRA IEPÉ)
 # title_por = CRIAÇÃO DO MUNDO (PRIMEIRO DIA)
 # text_orig = Iupïrungáua ramé Tupana u-munhan iuaca ïhnï ïuïri.
@@ -1340,46 +1344,52 @@
 # text_por = No princípio criou Deus o Céu e a terra.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-1:2:146
-# text = TODO
+# text = Iwí tipáu, ti rẽ urikú umaã maã, pituna páu upaĩ rupí, Tupana peyusawa [iu-reracô ií-itá árupi].*
 # text_orig = Ïuhi 'ti-pau, 'tirain u-ricú mahan-mahan, pïtuna-pau u-pãin rupi, Tupana pêiuçáua iu-reracô ï-aïtá arpe.
 # text_source = p. 63
 # text_por = A terra estava vazia, ainda não tinha cousa alguma, em toda a parte as trevas; o espírito de Deus era levado sobre as águas.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-1:3:147
-# text = TODO
+# text = Unheẽ Tupana: — Yumunhã kandéa; kandéa yumunhã.
 # text_orig = U-hinhin Tupana: — Iu-munhan candêa; candêa iu-munhan.
 # text_source = p. 63
 # text_por = Disse Deus: — Faça-se a luz; e a luz foi feita.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-1:4:148
-# text = TODO
+# text = Tupana uxipiá kandéa katú waá: umuĩ kandéa pituna suí.
 # text_orig = Tupana u-xipiá candêa catú uahá: u-muhin candêa pïtuna çui.
 # text_source = p. 63
 # text_por = Deus viu que a luz era boa; dividiu a luz das trevas.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-1:5:149
-# text = TODO
+# text = Tupana umusera kandéa supé ara, amú supé pituna.
 # text_orig = Tupana u-mucera candêa çupè ara, amú çupé pïtuna.
 # text_source = p. 63
 # text_por = Deus chamou a luz dia e as trevas noite.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-1:6:150
-# text = TODO
+# text = Karuka koẽma yuíri suí yumunhã yepé.
 # text_orig = Caruca coema ïuïri çui iu-munhan ara iepé.
 # text_source = p. 63
 # text_por = Da tarde e da manhã se fez o primeiro dia.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-2:1:151
 # text = TODO
