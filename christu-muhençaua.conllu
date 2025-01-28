@@ -11,7 +11,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:1:2:2
-# text = - Tupana Yané Yara. *
+# text = ― Tupana Yané Yara. *
 # text_orig = ― Tupana Ianè Iara.
 # text_source = p. 23
 # text_por = ― Deus Nosso Senhor.
@@ -38,13 +38,13 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:1:5:5
-# text = ― ... ... ... ..., ... ... ?
+# text = ― Aikwé será amú Tupana, kwá suí?
 # text_orig = ― Ahiqué cerá amú Tupana, quá çui?
 # text_source = p. 23
 # text_por = ― Poderá haver outro Deus, que não seja esse?
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
-# text_modernizer = Alana Melo Gama
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:1:6:6
 # text = TODO
@@ -1553,7 +1553,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-4:5:167
-# text = Karuka koẽma suí yumunhã ara irundí.
+# text = Karuka koẽma yuíri suí yumunhã ara irundí.
 # text_orig = Caruca coema ïuïri çui iu-munhan ara irundi.
 # text_source = p. 67
 # text_por = Da tarde e da manhã se fez o quarto dia.
@@ -1562,7 +1562,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:1:168
-# text = TODO
+# text = Tupana unheẽ yuíri: ― Aikwé i suiwara pira-itá ií upé, wira-itá wewé waá, iwí árupi, iwaka kantasawa wírupi.
 # title = UPAĨ MAÃ MUNHÃSAWA (ARA PÚ)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA PU')
 # title_por = CRIAÇÃO DO MUNDO (QUINTO DIA)
@@ -1574,7 +1574,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:2:169
-# text = TODO
+# text = Kwá yawé yumunhã.
 # text_orig = Quá iauê iu-munhan.
 # text_source = p. 69
 # text_por = Assim se fez.
@@ -1583,7 +1583,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:3:170
-# text = TODO
+# text = Tupana uxipiá maã katú waá.
 # text_orig = Tupana u-xipiá mahã catú uahá.
 # text_source = p. 69
 # text_por = Deus viu que era bom.
@@ -1592,7 +1592,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:4:171
-# text = TODO
+# text = Umeẽ aintá supé bençam, umunú aintá supé yumuturusú arama, yumunhã setá arama.
 # text_orig = U-mehen aitá çupé bençam, u-munú aitá çupé iu-muturuçú aram, iu-munhan cetá-arama.
 # text_source = p. 69
 # text_por = Deu-lhes a benção, e ordenou-lhes que crescessem e se multiplicassem.
@@ -1601,8 +1601,8 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:5:172
-# text = TODO
-# text_orig = Caruca coema ïuïri çui iu-munhã ara pu'
+# text = Karuka koẽma yuíri suí yumunhã ara pú.
+# text_orig = Caruca coema ïuïri çui iu-munhã ara pu'.
 # text_source = p. 69
 # text_por = Da tarde e da manhã se fez o quinto dia.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1618,6 +1618,7 @@
 # text_por = Deus também disse a terra: — Produza seres viventes, animais que andem, e se arrastem pela terra, animais de todas as espécies.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:2:174
 # text = TODO
@@ -1626,6 +1627,7 @@
 # text_por = Assim se fez.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:3:175
 # text = TODO
@@ -1634,6 +1636,7 @@
 # text_por = Deus viu que era bom.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:4:176
 # text = TODO
@@ -1642,6 +1645,7 @@
 # text_por = Deus disse: — Façamos o homem a nossa imagem e semelhança; para dominar os peixes do mar, os pássaros do céu e todas as espécies de animais.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:5:177
 # text = TODO
@@ -1650,6 +1654,7 @@
 # text_por = Deus criou o homem a sua imagem: a sua imagem e semelhança Deus o fez, homem e mulher criou-os.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:6:178
 # text = TODO
@@ -1658,6 +1663,7 @@
 # text_por = Deus deu-lhes a benção, e disse-lhes depois: Crescei e multiplicai-vos, enchei a terra, possua-a, sujeita-a a vossa vontade, sede senhores dos peixes, dos pássaros, e de todos os animais que se movem sobre a terra.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:7:179
 # text = TODO
@@ -1666,6 +1672,7 @@
 # text_por = Deus disse-lhes: — Eis que eu vos dei todas as cousas, que existem sobre a terra, para a vossa alimentação.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:8:180
 # text = TODO
@@ -1674,6 +1681,7 @@
 # text_por = Deus viu que tudo o que tinha feito, era muito bom.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:9:181
 # text = TODO
@@ -1682,6 +1690,7 @@
 # text_por = Da tarde e da manhã se fez o sexto dia.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:1:182
 # text = TODO
