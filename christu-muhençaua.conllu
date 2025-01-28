@@ -1383,7 +1383,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-1:6:150
-# text = Karuka koẽma yuíri suí yumunhã yepé.
+# text = Karuka kuẽma yuíri suí yumunhã yepé.
 # text_orig = Caruca coema ïuïri çui iu-munhan ara iepé.
 # text_source = p. 63
 # text_por = Da tarde e da manhã se fez o primeiro dia.
@@ -1488,7 +1488,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-3:7:161
-# text = Karuka koẽma suí yumunhã ara musapiri.
+# text = Karuka kuẽma suí yumunhã ara musapiri.
 # text_orig = Caruca coema ïuïri çui iu-munhãn ara muçapïri.
 # text_source = p. 67
 # text_por = Da tarde e da manhã se fez o terceiro dia.
@@ -1553,7 +1553,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-4:5:167
-# text = Karuka koẽma yuíri suí yumunhã ara irundí.
+# text = Karuka kuẽma yuíri suí yumunhã ara irundí.
 # text_orig = Caruca coema ïuïri çui iu-munhan ara irundi.
 # text_source = p. 67
 # text_por = Da tarde e da manhã se fez o quarto dia.
@@ -1601,7 +1601,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-5:5:172
-# text = Karuka koẽma yuíri suí yumunhã ara pú.
+# text = Karuka kuẽma yuíri suí yumunhã ara pú.
 # text_orig = Caruca coema ïuïri çui iu-munhã ara pu'.
 # text_source = p. 69
 # text_por = Da tarde e da manhã se fez o quinto dia.
@@ -1610,7 +1610,8 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:1:173
-# text = TODO
+# text = Tupana unheẽ yuíri iwí supé: — Remusema ne suí maã sikwé-itá, suú-itá watá waá, yusikí ,waá iwí rupí, suú upaĩ katú.
+# title = UPAĨ MAÃ MUNHÃSAWA (ARA PÚ-YEPÉ)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA PU-EPÉ)
 # title_por = CRIAÇÃO DO MUNDO (SEXTO DIA)
 # text_orig = Tupana u-hinhin ïuïri ïuhi çupé: — Re-mucema ne çui mahã cequéaitá, çuùaitá u-atá uahá, iucêquï uahá ïuhï rupi, çuu' upãin catú.
@@ -1621,7 +1622,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:2:174
-# text = TODO
+# text = Kwá yawé yumunhã.
 # text_orig = Quá iaué iu-munhan.
 # text_source = p. 69
 # text_por = Assim se fez.
@@ -1630,7 +1631,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:3:175
-# text = TODO
+# text = Tupana uxipiá maã katú waá.
 # text_orig = Tupana u-xipiá mahã catú uahá.
 # text_source = p. 69
 # text_por = Deus viu que era bom.
@@ -1639,8 +1640,8 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:4:176
-# text = TODO
-# text_orig = Tupana u hinhin: — Ia-munhan mira ianê rangáua iaué uahá: íara curi arama paraná piráitá, iuáca uiráitá, çuú upàin catú u-icú uahá ïuhïpe.
+# text = Tupana unheẽ: — Yamunhã mira yané rangawa yawé waá; yara kurí arama paraná pirá-itá, iwáka wira-itá, suú upaĩ katú uikú waá iwí-pe.
+# text_orig = Tupana u hinhin: — Ia-munhan mira ianê rangáua iaué uahá; íara curi arama paraná piráitá, iuáca uiráitá, çuú upàin catú u-icú uahá ïuhïpe.
 # text_source = p. 71
 # text_por = Deus disse: — Façamos o homem a nossa imagem e semelhança; para dominar os peixes do mar, os pássaros do céu e todas as espécies de animais.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1648,7 +1649,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:5:177
-# text = TODO
+# text = Tupana umunhã mira i rangawa yawé waá: i rangawa yawé waá Tupana umunhã aé: apigawa i kunhã umunhã aintá.
 # text_orig = Tupana u-munhan mira i-rangáua iaué uahá: i-rangáua iaué uahá Tupana u-munhan aé: apgáua i cunhan u-munhan aitá.
 # text_source = p. 71
 # text_por = Deus criou o homem a sua imagem: a sua imagem e semelhança Deus o fez, homem e mulher criou-os.
@@ -1657,7 +1658,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:6:178
-# text = TODO
+# text = Tupana umunhẽ aintá supé bençam, unheẽ arirí: Penhẽ pemuturusú, penhẽ peyumunhã setá, penhẽ pepurakari iwí, penhẽ perikú aé, pé remutara yawé waá, penhẽ peyumunhã yara, wira-itá, upaĩ suú kataka waá iwí arupí yuíri.
 # text_orig = Tupana u-mehen aitá çupé bençam, u-hinhin ariri: Pehen pè-muturuçú, penhen pe-iu-munhan cetá, penhen pé-puracari ïuhï, penhen pe-ricù aé, pè remutara iaué uahá, penhen pé-iu-munhan piraitá iára, uiraitá, upãin çuu' cataca uahá ïuhï arpe ïuïri.
 # text_source = p. 71
 # text_por = Deus deu-lhes a benção, e disse-lhes depois: Crescei e multiplicai-vos, enchei a terra, possua-a, sujeita-a a vossa vontade, sede senhores dos peixes, dos pássaros, e de todos os animais que se movem sobre a terra.
@@ -1666,7 +1667,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:7:179
-# text = TODO
+# text = Tupana unheẽ aintá supé: — Aikwé ixé xameẽ waá [pé] supé upaĩ maã, uikú waá iwí arupí, penhẽ timbiú arama.*
 # text_orig = Tupana u-hinhin aitá çupé: — Ahiqué ixé xa mehen uahá pé çupé upãin mahã, u-icú uahá ïuhï árpe, pehen timiû arama.
 # text_source = p. 71
 # text_por = Deus disse-lhes: — Eis que eu vos dei todas as cousas, que existem sobre a terra, para a vossa alimentação.
@@ -1675,7 +1676,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:8:180
-# text = TODO
+# text = Tupana uxipiá upaĩ maã umunhã waá katú reté.
 # text_orig = Tupana u-xipiá u-pãin mahã u-munhan uahá catu-reté.
 # text_source = p. 71
 # text_por = Deus viu que tudo o que tinha feito, era muito bom.
@@ -1684,7 +1685,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:9:181
-# text = TODO
+# text = Karuka kuẽma yuíri suí yumunhã ara pú-yepé.
 # text_orig = Caruca coema ïuïri çui iu-munhan ara 'pu-iepé.
 # text_source = p. 73
 # text_por = Da tarde e da manhã se fez o sexto dia.
