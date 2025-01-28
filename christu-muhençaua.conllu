@@ -1694,7 +1694,8 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:1:182
-# text = TODO
+# text = Kwá yawé yupawa ana iwaka iwí yuíri munhãsawa, i purangawa-itá irumu.
+# title = UPAĨ MAÃ MUNHÃSAWA (ARA PÚ-MUKŨI)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA PU'-MUCUIN)
 # title_por = CRIAÇÃO DO MUNDO (SÉTIMO DIA)
 # text_orig = Quá iaué iu-páuana iuáca ïuhï ïuïri munhançáua, i-purangáuaitá iruma.
@@ -1702,62 +1703,78 @@
 # text_por = Assim acabou-se a criação do céu e da terra, com todas as suas belezas.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:2:183
-# text = TODO
+# text_sec = Tupana umbawa ana i munhãsawa umunhã waá, ara pú-mukũi upé. (Aguiar, 73, adap.)
+# text_por_sec = Deus acabou a criação que fez, no sétimo dia.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# text = Tupana upawa ana i munhãsawa umunhã waá ara pú-mukuĩ upé.
 # text_orig = Tupana u-páuana i-munhançáua u-munhan uahá ara pu-mucûin upé.
 # text_source = p. 73
 # text_por = Deus acabou a criação de tudo o que fez no sétimo dia.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:3:184
-# text = TODO
+# text = Upituú nhaã ara [rapatê] upé, upaĩ maã suí umunhã waá. *
 # text_orig = U-pïtïhú nhã 'ara rapatê upé, upãin mahã çui u-munhan uahá.
 # text_source = p. 73
 # text_por = Descansou naquele mesmo dia de toda a obra que tinha feito.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:4:185
-# text = TODO
+# text = Umueté aé, maãresé uxari upaĩ i munhãsawa suí.
 # text_orig = U-muitè aé, maharecê u-xiari upãin i-munhançáua çui.
 # text_source = p. 73
 # text_por = Santificou-o, porque cessara de toda a sua obra.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:5:186
-# text = TODO
+# text = Kwá yawé iwaka, iwí yupirungawa.
 # text_orig = Qua iaué iuáca, ïuhï iupïrungaua.
 # text_source = p. 73
 # text_por = Assim foi o princípio do céu e da terra.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:6:187
-# text = TODO
+# text = Tupana umunhã apigawa iwí tuyuka suí; upeyú i ruá resé yepé rikwé peyusawa; yumunhã apigawa urikú anga rikwé waá.
 # text_orig = Tupana u-munhan apgáua ïuhï tuiúca çui; u-pêiú i-ruá recê iepé requè pêiuçáua; iu-munhan apgáua u-ricú anga requé uahá.
 # text_source = p. 73
 # text_por = Formou Deus o homem do limo da terra; soprou-lhe no rosto um sopro de vida, e foi feito o homem dotdo de alma viva.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:7:188
-# text = TODO
-# text_orig = Ianê lara Tupana iupïrungáua çui-ué u-mumuranga iepé rurirenáua, mamé u-inú apgáua, aé u-munhan uahá.
+# text = Yané Yara Tupana yupirungawa suiwé umumuranga yepé ruri renawa, mamé uinú apigawa, aé umunhã waá. *
+# text_orig = Ianê Iara Tupana iupïrungáua çui-ué u-mumuranga iepé rurirenáua, mamé u-inú apgáua, aé u-munhan uahá.
 # text_source = p. 73
 # text_por = Deus nosso Senhor desde o princípio tinha aformoseado um jardim, onde colocou o homem que ele tinha formado.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:8:189
-# text = TODO
+# text_sec = Yané Yara Tuapana umusinhĩ-kari iwí suí panhẽ mirá puranga waá sesá supé, [...]. (Aguiar, 75, adap.)
+# text_por_sec = Nosso Senhor Deus fez brotar da terra todas as árvores belas à vista, [...].
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
+# text = Yané Yara Tupana umusinhĩ kari iwí suí upaĩ muirá puranga sesá supé, maú arama katú; rikwé muirá ruri renawa pitera upé yuíri, katusawa puxisawa yakwasara, yepé muirá yuíri.
 # text_orig = Ianê Iara Tupana u mucïnhin cari ïuhï çui upãin muïrá puranga ceçá çupé, mahû arama catú; requé-muïrá rurï-renáua pïtéra upé ïuïri, catuçáua puxiçáua iacúaçara iepé muïrá ïuïri.
 # text_source = p. 75
 # text_por = Deus Nosso Senhor tinha feito produzir da terra todas as árvores belas á vista, boas para comer, também a árvore da vida no meio do paraíso, e a árvore da ciência do bem e do mal.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:9:190
 # text = TODO
