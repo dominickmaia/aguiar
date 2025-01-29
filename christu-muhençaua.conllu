@@ -1783,6 +1783,7 @@
 # text_por = Deste lugar de delícias saia um rio para irrigá-lo; este rio dividia-se em quatro canais.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:10:191
 # text = Aramé Tupana upisika apigawa, uinú ruri renawa upé, umuraukí, unungaturú arama arupí.
@@ -1791,6 +1792,7 @@
 # text_por = Então Deus tomou o homem, colocou-o no paraíso para nele trabalhar, e guardá-lo.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:11:192
 # text = Umunú aé supé, unheẽ: — Reú upaĩ [çucïrenáua] muirá suí; katasawa puxisawa muirá suí teẽ reú kurí. *
@@ -1799,6 +1801,7 @@
 # text_por = Deu-lhe esta ordem, dizendo: — Come de todas as árvores do paraíso; mas da árvore do bem e do mal não comerás.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:12:193
 # text = — Ara ramé reú kurí, umanú suí remanú kurí.
@@ -1807,62 +1810,70 @@
 # text_por = — No dia em que dela comeres morrerás de morte.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:13:194
-# text = Unheẽ yuíri Yané Yara Tupana: — Nti katú apigawa uikú anhũ, yamunhã aé supé yepé pitimusawa [irangawa] yawé waá. *
+# text = Unheẽ yuíri Yané Yara Tupana: — Intí katú apigawa uikú anhũ, yamunhã aé supé yepé pitimusawa [irangawa] yawé waá. *
 # text_orig = U hinhin ïuïri Ianê Iara Tupana: — Inti catú apgáua u-icù anhun, iá-munhan aé çupé iepé pïtïmuçaua irangaua iaué uahá.
 # text_source = p. 75
 # text_por = Disse também Deus Nosso Senhor: — Não é bom que o homem esteja só, façamos-lhe um adjutório que lhe seja semelhante.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:14:195
-# text = TODO
-# text_orig = Tupana iuri cari upãin ïuhï çuu, upãin ináca uirá Adam kïtï, u-xipiá arama mahátahá rêra u-cenôi ramêmu aitá, nharêcêuára mahi u-cenôi ramêmu, quá iaué aitá rêra.
+# text = Tupana yuri kari upaĩ iwí suú, upaĩ iwaka wirá Adam kití, uxipiá arama maã taá rera usenúi [ramêmu] aintá, [nharêcêuára] maí usenúi [ramêmu], kwá yawé aintá rera. *
+# text_orig = Tupana iuri cari upãin ïuhï çuu, upãin iuáca uirá Adam kïtï, u-xipiá arama mahátahá rêra u-cenôi ramêmu aitá, nharêcêuára mahi u-cenôi ramêmu, quá iaué aitá rêra.
 # text_source = p. 77
 # text_por = Deus fez vir todos os animais da terra, e todas as aves do céu a presença de Adão, para ver por que nome os chamaria, porquanto como os chamasse, assim seriam seus nomes.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:15:196
-# text = TODO
+# text = Adam usenúi i rera-itá rupí upaĩ maã sikwé, yepé yepé, upaĩ iwaka wewesara, upaĩ iwí suú watasara yuíri.
 # text_orig = Adam u-cenôi irêraitá rupi upãin mahã cequé, iepé iepé, upãin iuáca uéuêuçára, upãin ïuhï çuú u-atáçara ïuïri.
 # text_source = p. 77
 # text_por = Adão chamou por seus nomes todos os animais, todos os voadores do céu, e todos os bichos que andam na terra.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:16:197
-# text = TODO
+# text = Yawé katú, Adam intí wasema intí mamé yepé pitimusawa, i rangawa yawé waá.
 # text_orig = Iaué catú, Adam inti u-acema intimamé iepè pïtïmuçáua, i-rangaua iauè uahá.
 # text_source = p. 77
 # text_por = Contudo, Adão não achava em parte alguma um adjutório semelhante a si.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:17:198
-# text = TODO
+# text = Tupana maá resé umeẽ Adam supé yepé ripusí; aé ukiri ramé, Tupana uyuuka yepé i rukanga, upurakari rukwera irumu rikuyara.
 # text_orig = Tupana mahârecê u-mehen Adam çupé iepé repucï; aé u-kéri ramé, Tupana u-iúca iepé i-ruçanga, u-ipuracari ruquera iruma recuiara.
 # text_source = p. 77
 # text_por = Deus por essa razão deu a Adão um sono, e, enquanto ele dormia, Deus tirou uma das suas costelas, e encheu o lugar de carne em substituição.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:18:199
-# text = TODO
+# text = Adam rukangakwera suí Yané Yana Tupana umunhã kunhã; urasú aé Adam supé.
 # text_orig = Adam ruçangaquera çui Ianê Iara Tupana u-munhan cunhan; u-iraçô aè Adam çupé.
 # text_source = p. 77
 # text_por = Da costela de Adão Deus Nosso Senhor fez a mulher; e a levou a Adão.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:19:200
-# text = TODO
-# text_orig = Adão u-hinhin: — Quá cuhïri cãoêra cê cãoêraitá çui, çuquera ce ruquerauara çui; maharecê apgáua u-xiari curi ne paia ne manha; ìu-matiri curi ne rimiricù iruma; mucûin curi iepènhun ruquera upé.
+# text = Adam unheẽ: — Kwá kuíri kãwera se kãwera-itá suí, sukwera se rukwerawara suí; maã resé apigawa uxari kurí ne paya ne manha; yumatirí kurí ne rimirikú irumu; mukũi kurí yepénhũ rukwera upé.
+# text_orig = Adam u-hinhin: — Quá cuhïri cãoêra cê cãoêraitá çui, çuquera ce ruquerauara çui; maharecê apgáua u-xiari curi ne paia ne manha; ìu-matiri curi ne rimiricù iruma; mucûin curi iepènhun ruquera upé.
 # text_source = p. 79
 # text_por = Adão disse: — Eis agora é o osso dos meus ossos, e a carne da minha carne; por essa razão o homem deixará o seu pai e a sua mãe; se unirá a sua mulher; serão dois em uma só carne.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:22:1:201
 # text = TODO
