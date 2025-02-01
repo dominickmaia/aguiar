@@ -47,13 +47,13 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:1:6:6
-# text = TODO
+# text = ― Intí ana!
 # text_orig = ― Intiana!
 # text_source = p. 23
 # text_por = ― De maneira alguma!
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
-# text_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:1:7:7
 # text = ― Yepé nhũ Tupana reté. *
@@ -176,20 +176,22 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:9:20
-# text = TODO
+# text = ― Espírito Santu Tupana?
 # text_orig = ― Espiritu-Santu Tupana?
 # text_source = p. 25
 # text_por = ― O Espírito Santo é Deus?
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:2:10:21
-# text = TODO
+# text = ― Aé. Espírito Santu Tupana.
 # text_orig = ― Aé. Espiritu-Santu Tupana.
 # text_source = p. 25
 # text_por = ― Sim. O Espírito Santo é Deus.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:2:11:22
 # text = ― Aramé musapiri tupana-itá? *
@@ -201,12 +203,13 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:12:23
-# text = TODO
+# text = ― Ti ana!
 # text_orig = ― 'Tiana!
 # text_source = p. 25
 # text_por = ― Não!
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:2:13:24
 # text = ― Musapiri pessoa-itá, yepé... Tupana reté. *
@@ -227,12 +230,13 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:15:26
-# text = TODO
+# text = ― Yawé tẽ. Yepé nhũ Tupana reté, musapiri pessoa aintá resé.
 # text_orig = ― Iaué-ten. Iepénhun Tupana reté, muçapiri pessoa aitá recê.
 # text_source = p. 27
 # text_por = ― Assim mesmo. Um só Deus verdadeiro, em três pessoas distintas.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:2:16:27
 # text = ― Maã taá ... ... ... ?
@@ -282,7 +286,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:4:32
-# text = ― Espírito Santu umunhã. *
+# text = ― Espírito Santu umunhã.
 # text_orig = ― Espiritu-Santu u-munhan.
 # text_source = p. 29
 # text_por = ― Por obra do Espírito-Santo.
@@ -612,22 +616,25 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:8:1:66
-# text = TODO
+# text = Yané Paya, iné reikú waá iwaka upé, ne rera yumuité; yuri ne yarasawa yané árupi; yumunhã ne remutara iké iwí-pe, maí iwaka upé; yané miapé ara yawé remeẽ yané arama uií ara; reperduari yané watari, maí yané yaperduari amú-itá watari; teẽ rexari yané [iaari] sikú-puxi kití; repisirú yané upaĩ maã puxi suí.
+# title = YANÉ PAYA
 # title_orig = IANÊ PAIA
 # title_por = PADRE-NOSSO 
-# text_orig = Ianê Paia, inè rê-icú uahá iuáca upé, ne rêra iu-muité; iúri nê iáraçáua ianê árape; iu-munhan ne remutàra iké ïuhïpe, mahi iuáca upé; ianê miapé ara-iaué remehen ianê arama uhihi ara; re-perdnari ianê uatari, mahi ianê ia perduari amùitá uatari; tehen re-xiari ianê iáari cecúpuxi kïtï; re-pïcïrú ianê upãin mahãpuxi çui.
+# text_orig = Ianê Paia, inè rê-icú uahá iuáca upé, ne rêra iu-muité; iúri nê iáraçáua ianê árape; iu-munhan ne remutàra iké ïuhïpe, mahi iuáca upé; ianê miapé ara-iaué remehen ianê arama uhihi ara; re-perduari ianê uatari, mahi ianê ia perduari amùitá uatari; tehen re-xiari ianê iáari cecúpuxi kïtï; re-pïcïrú ianê upãin mahãpuxi çui.
 # text_source = p. 37
 # text_por = Pai nosso, que estás no Céu, santificado seja o teu nome; venha a nós o teu reino; seja feita a tua vontade, assim na terra como no Céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, assim como nós perdoamos a dívida dos outros; não nos deixes cair em tentação; mas livra-nos de todo o mal.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:8:2:67
-# text = TODO
+# text = Yawé.
 # text_orig = Iaué.
 # text_source = p. 37
 # text_por = Amém.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:9:1:68
 # text = TODO
@@ -1195,7 +1202,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:18:2:130
-# text = TODO
+# text = — Yawé ixé xasarú ne misericordia resé.
 # text_orig = — Iaué ixè xa-çarú ne misericordia recê.
 # text_source = p. 57
 # text_por = — Assim eu o espero da vossa misericórdia.
@@ -1203,7 +1210,7 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:18:3:131
-# text = TODO
+# text = — Yawé.
 # text_orig = — Iaué.
 # text_source = p. 57
 # text_por = — Amém.
@@ -1211,7 +1218,7 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:19:1:132
-# text = — Intí awá [u-yu-salvari] kwáu tiramé yumuseruka. *
+# text = — Intí awá uyusalvari] kwáu tiramé yumuseruka.
 # title = SERUKA UMANÚ RAMÉ
 # title_orig = CERUCA U-MANÚ RAMÉ
 # title_por = BAPTISMO EM ARTIGO DE MORTE
