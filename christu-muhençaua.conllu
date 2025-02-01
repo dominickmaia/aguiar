@@ -577,7 +577,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:6:4:62
-# text = Jesu Christu ruí rikuyara, yamunhã Tupana [u-munu] waá, yané suí. *
+# text = Jesu Christu ruí rikuyara, yamunhã Tupana umunú waá, yané suí.
 # text_orig = ― Jesu-Christu ruhï recuiára, iá-munhãn Tupana u-munu uahá, ianê çui.
 # text_source = p. 35
 # text_por = ― Mediante o preço do sangue de Jesus Cristo, e fazendo da nossa parte o que Deus manda.
@@ -637,7 +637,8 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:9:1:68
-# text = TODO
+# text = Ave Maria, i pura graça suí, yané Yara ne irumu; yumumeú katú iné upaĩ kunhã pitérupi, yumumú katí iwá ne marika suí, Jesus.
+# title = AVE MARIA
 # title_orig = AVE MARIA
 # title_por = AVE MARIA
 # text_orig = Ave-Maria, ipura graça çui, ianê Iàra ne iruma; iu-mumehun-catú iné upãin cunhan pïtérape, iu-mumehun-catú iuhá nê marica çui, Jesus.
@@ -645,25 +646,29 @@
 # text_por = Ave-Maria, cheia de graça, o Senhor seja contigo; bendita és tu entre todas as mulheres, bendito é o fruto do teu ventre, Jesus.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:9:2:69
-# text = TODO
+# text = Santa Maria Tupana Manha reyurure yané resé pecadori rupí, kuíri manú ramé yuíri.
 # text_orig = Santa Maria Tupana Manha reiururé ianérecê pecadori rupi, cuhïri, ianê manú ramé ïuïri.
 # text_source = p. 37
 # text_por = Santa Maria, Mãe de Deus, roga por nós pecadores, agora e na hora da nossa morte.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:9:3:70
-# text = TODO
+# text = Yawé.
 # text_orig = Iauê.
 # text_source = p. 37
 # text_por = Amém.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:10:1:71
-# text = TODO
+# text = Xaruyari Tupana Paya resé, turusú reté, munhangara iwaka, iwí.
+# title = XARUYARI TUPANA RESÉ
 # title_orig = XA-RUIARI TUPANA RECÊ
 # title_por = CREIO EM DEUS
 # text_orig = Xa-ruiari Tupana Paia recê, turuçúreté, munhangara iuaca, ïuhï.
@@ -673,15 +678,15 @@
 # text_por_modernizer = Davi Sampaio Santos
 
 # sent_id = Aguiar1898:10:2:72
-# text = TODO
-# text_orig = Xa-ruiari Jesu-Christu recê, iepenhun aé-Rahïra, Ianê Iara; mahiuahá iu acema Espiritu-Santu çui; u-cema Maria Virgem çui; u-purará uirpe tuixáua Poncio Pilatos; iumúitapúa curuçá recê; u-manu; aitá u-iutïma aé; uïnhië infernu kïtï; iuhiriana cequé, muçapïri ara riri, umanùaítá pïtéra çui; u-iupiri iuáca kïtï;u-apïka u-icù Tupana-Paia pucatú ruakï, mahâçui curi u-uri jurigari arama cequéaitá, umanúaitá.
+# text = Xaruyari Jesu Christu resé, yepe yepé nhũ aé Raíra, Yané Yara; maí waá [yuasema] Espiritu Santu suí; usema Maria Virgem suí; uparará wírupi tuixawa Poncio Pilatos; yumuítapuá kurusá resé; umanú; aintá uyutima aé; uwiyé infernu kití; yuíri ana sikwé, musapiri ara rirí, umanú-itá pitera suí; uyupiri iwaka kití; uwapika uikú Tupana Paya apekatú ruakí, maã suí kurí uyuri jugari arama sikwé aintá, umanú aintá.
+# text_orig = Xa-ruiari Jesu-Christu recê, iepenhun aé-Rahïra, Ianê Iara; mahiuahá iu acema Espiritu-Santu çui; u-cema Maria Virgem çui; u-purará uirpe tuixáua Poncio Pilatos; iumúitapúa curuçá recê; u-manu; aitá u-iutïma aé; uïnhië infernu kïtï; iuhiriana cequé, muçapïri ara riri, umanùaítá pïtéra çui; u-iupiri iuáca kïtï; u-apïka u-icù Tupana-Paia pucatú ruakï, mahâçui curi u-uri jurigari arama cequéaitá, umanúaitá.
 # text_source = p. 39
 # text_por = Creio em Jesus Cristo, seu único Filho, Nosso Senhor, o qual foi concebido do Espírito Santo, nasceu de Maria Virgem; padeceu sob o poder de Pôncio Pilatos; foi crucificado, morto e sepultado; desceu aos infernos; ressuscitou dentre os mortos ao terceiro dia; subiu aos Céus; está assentado à direita de Deus Pai todo poderoso, de onde há de vir a julgar os vivos e os mortos.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 
 # sent_id = Aguiar1898:10:3:73
-# text = TODO
+# text = Xaruyari Espitiru Santu resé; Santa Igreja Catorica rikú, Santu-itá yepewasúsawa resé; yané pecadu-itá remiçam resé; sikwé sapé yané rukwera yuíri kurí; yané rikwé eterna resé.
 # text_orig = Xa-ruiari Espiritu-Santu recê; Santa Igreja Catorica reco, Santuitá iepéuaçúçáua recê; ianê pecaduitá remiçam recê; cequé çape ianê ruquéra iuhiri curi; ianê requé eterna recê.
 # text_source = p. 39
 # text_por = Creio no Espírito-Santo; na Santa Igreja Católica; na comunhão dos Santos; na remissão dos pecados; na ressurreição da nossa carne; na vida eterna.
@@ -689,7 +694,7 @@
 # text_por_modernizer = Davi Sampaio Santos
 
 # sent_id = Aguiar1898:10:4:74
-# text = TODO
+# text = Yawé.
 # text_orig = Iaué.
 # text_source = p. 39
 # text_por = Amém.
@@ -1440,7 +1445,7 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:21-3:1:155
-# text = Tupana unheẽ. — Yumatirí yepé nhũ tenawa upé [ïaitá] uikú waá iwaka wírupi; usema ukara kití yuí tikanga. *
+# text = Tupana unheẽ. — Yumatirí yepé nhũ tenawa upé [ïaitá] uikú waá iwaka wírupi; usema ukara kití iwí tikanga. *
 # title = UPAĨ MAÃ MUNHÃSAWA (ARA MUSAPIRI)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA MUÇAPÏRI)
 # title_por = CRIAÇÃO DO MUNDO (TERCEIRO DIA)
@@ -1470,7 +1475,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-3:4:158
-# text = Tupana unheẽ yuí supé: — Remusinhĩ retitema yakira umeẽ waá sanha, mirá-itá umeẽ waá iwá.
+# text = Tupana unheẽ iwí supé: — Remusinhĩ retitema yakira umeẽ waá sanha, mirá-itá umeẽ waá iwá.
 # text_orig = Tupana uhinhin ïuhï çupé: — Re-mucïnhin rïmïtëma iakïra, umehen uahá çanha, muïráitá u-mehen uahá ïuhá.
 # text_source = p. 65
 # text_por = Deus disse à terra: — Germina plantas verdes, que dêem sementes, e árvores que dêem frutos.
