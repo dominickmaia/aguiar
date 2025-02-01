@@ -248,7 +248,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:17:28
-# text = TODO
+# text = Santissima Trindadi-mysteriu.
 # text_orig = ― Santissima Trindadi-mysteriu.
 # text_source = p. 27
 # text_por = ― Mistério da Santíssima Trindade.
@@ -805,6 +805,7 @@
 # text_por = — Em resumo: Amarás a Deus de todo o teu coração, sobre todas as cousas.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:11:12:86
 # text = — Resaisú kurí ne rapixara, maí ne yawé tẽ.
@@ -813,9 +814,11 @@
 # text_por = — Amarás o próximo, como a ti mesmo.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:12:1:87
-# text = TODO
+# text = 1°. — Resenú kurí misa tẽ pawasawa mituú, ara santu ramé.
+# title = SANTA IGREJA MUNUSAWA-ITÁ
 # title_orig = SANTA IGRÊJA MUNUÇAUAITÁ
 # title_por = MANDAMENTOS DA SANTA IGREJA
 # text_orig = 1°. — Re-cenù curi missa téipauçape mïtuù, ara santu ramé.
@@ -823,22 +826,25 @@
 # text_por = 1°. — Ouvirás missa inteira aos domingos e dias santos.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:12:2:88
-# text = TODO
+# text = 2°. — Reyumuméu kurí, nhũ pu yepé í akayú yawé yawé.
 # text_orig = 2°. — Re-iumumehun curi, nhúnpu iepé hï acaiû iaué iaué.
 # text_source = p. 43
 # text_por = 2°. — Te confessarás, ao menos, uma vez cada ano.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:12:3:89
-# text = TODO
+# text = 3°. — Reyuuka-Tupana kurí Paschoa rupí.
 # text_orig = 3°. — Re-iuúca-Tupana curi Paschoa rupi.
 # text_source = p. 43
 # text_por = 3°. — Comungarás pela Páscoa.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:12:4:90
 # text = Reyukwakú kurí Santa Igreja umundú ramé. (Aguiar, 43, adap.)
@@ -859,7 +865,8 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-1:1:92
-# text = TODO
+# text = 1°. — Reyupúi kurí yumasisawa-itá.
+# title = MUPIAKATÚSAWA INÉ RAPIXARA RUPÍ (YANÉ RESÉ RUPÍ):
 # title_orig = MUPÏÀCATÙÇÀUA NE RAPIXÁRA RUPI (IANÊ RECÊ RUPI):
 # title_por = OBRAS DE MISERICORDIA EM FAVOR DO PRÓXIMO (AS CORPORAES):
 # text_orig = 1°. — Rê-iupùi curi iumacïuaitá.
@@ -867,6 +874,7 @@
 # text_por = 1°. — Darás de comer a quem tem fome.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:13-1:2:93
 # text = 2°. — Re-meẽ kurí i waá aintá supé. *
@@ -878,12 +886,13 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-1:3:94
-# text = TODO
+# text = 3°. — Remuamundéu kurí kamixá-ima waá aintá.
 # text_orig = 3°. — Rê-muámámunê curi camixaïma uahá aitá.
 # text_source = p. 45
 # text_por = 3°. — Vestirás os que estiverem nús.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:13-1:4:95
 # text = Resikari kurí, repitimú arama aintá, maasiwera-itá uikú kamirika waá yuíri. (Aguiar, 45, adap.)
@@ -922,7 +931,8 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:1:99
-# text = TODO
+# text = 1°. — Remungitá kurí katú arama.
+# title = MUPIAKATÚSAWA INÉ RAPIXARA RUPÍ (YANÉ ANGA RUPÍ):
 # title_orig = MUPÏÀCATÙÇÀUA NE RAPIXÁRA RUPI (IANÊ ANGA RUPI):
 # title_por = OBRAS DE MISERICORDIA EM FAVOR DO PRÓXIMO (AS ESPIRITUAES):
 # text_orig = 1°. — Re-munguetá curi catú arama.
@@ -930,6 +940,7 @@
 # text_por = 1°. — Darás bom conselho.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:13-2:2:100
 # text = 2°. — Re-mué kurí yakwaíma-itá. *
@@ -1129,7 +1140,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:16:3:121
-# text = TODO *
+# text = 3°. — Yuukasawa-Tupana.
 # text_orig = 3°. — Uucaçaua-Tupana.
 # text_source = p. 53
 # text_por = 3°. — Comunhão.
@@ -1359,6 +1370,7 @@
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
 # text = Yupirungawa ramé Tupana umunhã iwaka iwí yuíri.
+# title = UPAĨ MAÃ MUNHÃSAWA (ARA YEPÉ)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (IRA IEPÉ)
 # title_por = CRIAÇÃO DO MUNDO (PRIMEIRO DIA)
 # text_orig = Iupïrungáua ramé Tupana u-munhan iuaca ïhnï ïuïri.
@@ -1414,7 +1426,8 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-2:1:151
-# text = TODO
+# text = Tupana unheẽ yuíri: — Yumunhã santasawa ií-itá pitérupi; umuí ií-itá [ikiti] amú-itá suí. *
+# title = UPAĨ MAÃ MUNHÃSAWA (ARA MUKŨI)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA MUCÚIN)
 # title_por = CRIAÇÃO DO MUNDO (SEGUNDO DIA)
 # text_orig = Tupana u-hinhin ïuïri: — Iu-munhan çantaçáua ïaitá pïtérape; u-muhin ïaitá ikïtï amúitá çui.
@@ -1422,14 +1435,16 @@
 # text_por = Deus disse também: — Faça-se o firmamento no meio das águas, e devida as águas das águas.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-2:2:152
-# text = TODO
+# text = Kwá yawé yumunhã.
 # text_orig = Quá iaué iu-munhan.
 # text_source = p. 65
 # text_por = Assim se fez.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-2:3:153
 # text_sec = Tupana umusera santasawa supé iwaka, [...].
@@ -1445,15 +1460,16 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:21-2:4:154
-# text = TODO
+# text = Karuka kuẽma yuíri suí yumunhã ara mukũi,
 # text_orig = Caruca coema ïuïri çui iu-munhan ara mucûin.
 # text_source = p. 65
 # text_por = Da tarde e da manhã se fez o segundo dia.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-3:1:155
-# text = Tupana unheẽ. — Yumatirí yepé nhũ tenawa upé [ïaitá] uikú waá iwaka wírupi; usema ukara kití iwí tikanga. *
+# text = Tupana unheẽ. — Yumatirí yepé nhũ tenawa upé ií-itá uikú waá iwaka wírupi; usema ukara kití iwí tikanga. *
 # title = UPAĨ MAÃ MUNHÃSAWA (ARA MUSAPIRI)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA MUÇAPÏRI)
 # title_por = CRIAÇÃO DO MUNDO (TERCEIRO DIA)
@@ -1557,13 +1573,13 @@
 # text_por_sec = Fez também as estrelas, para luzirem sobre a terra.
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
-# text = TODO
-# text_orig = U-munhan iacïmiritá ïuïri, u-cenêpïca ïubï árape.
+# text = Umunhã yasí-mirĩ-itá yuíri, usinipuka iwí arupí.
+# text_orig = U-munhan iacïmiritá ïuïri, u-cenêpïca ïuhï árape.
 # text_source = p. 67
 # text_por = Fez também estrelas, para luzirem sobre a terra.
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
-# text_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-4:5:166
 # text = Tupana uxipiá maã katú waá.
