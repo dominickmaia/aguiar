@@ -676,6 +676,7 @@
 # text_por = Creio em Deus, Pai todo poderoso, Criador do Céu e da terra.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:10:2:72
 # text = Xaruyari Jesu Christu resé, yepe yepé nhũ aé Raíra, Yané Yara; maí waá [yuasema] Espiritu Santu suí; usema Maria Virgem suí; uparará wírupi tuixawa Poncio Pilatos; yumuítapuá kurusá resé; umanú; aintá uyutima aé; uwiyé infernu kití; yuíri ana sikwé, musapiri ara rirí, umanú-itá pitera suí; uyupiri iwaka kití; uwapika uikú Tupana Paya apekatú ruakí, maã suí kurí uyuri jugari arama sikwé aintá, umanú aintá.
@@ -684,6 +685,7 @@
 # text_por = Creio em Jesus Cristo, seu único Filho, Nosso Senhor, o qual foi concebido do Espírito Santo, nasceu de Maria Virgem; padeceu sob o poder de Pôncio Pilatos; foi crucificado, morto e sepultado; desceu aos infernos; ressuscitou dentre os mortos ao terceiro dia; subiu aos Céus; está assentado à direita de Deus Pai todo poderoso, de onde há de vir a julgar os vivos e os mortos.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:10:3:73
 # text = Xaruyari Espitiru Santu resé; Santa Igreja Catorica rikú, Santu-itá yepewasúsawa resé; yané pecadu-itá remiçam resé; sikwé sapé yané rukwera yuíri kurí; yané rikwé eterna resé.
@@ -692,6 +694,7 @@
 # text_por = Creio no Espírito-Santo; na Santa Igreja Católica; na comunhão dos Santos; na remissão dos pecados; na ressurreição da nossa carne; na vida eterna.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:10:4:74
 # text = Yawé.
@@ -700,6 +703,7 @@
 # text_por = Amém.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:11:1:75
 # title = TUPANA MUNDUSAWA-ITÁ (Aguiar, 41, adap.)
@@ -741,36 +745,40 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:11:5:79
-# text = TODO
+# text = 5°. — Teẽ reyuká.
 # text_orig = 5°. — Tehen re-iucá.
 # text_source = p. 41
 # text_por = 5°. — Não matarás.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:11:6:80
-# text = TODO
+# text = 6°. — Teẽ remunhã sikú-puxisawa.
 # text_orig = 6°. — Tehen re-munhã cecùpuxiçaua.
 # text_source = p. 41
 # text_por = 6°. — Não cometerás deshonestidades.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:11:7:81
-# text = TODO
+# text = 7°. — Teẽ remunã.
 # text_orig = 7°. — Tehen re-munan.
 # text_source = p. 41
 # text_por = 7°. — Não furtarás.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:11:8:82
-# text = TODO
+# text = 8°. — Teẽ renheẽ teẽnte ne rapixara resé, intí puité yuri.
 # text_orig = 8°. — Tehen re-hinhin tehente ne rapixara recê, inti puité iuri.
 # text_source = p. 41
 # text_por = 8°. — Não levantarás falso contra o teu próximo, nem também mentiras.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:11:9:83
 # text = Te reyusé ne rapixara rimirikú. (Aguiar, 41, adap.)
@@ -791,15 +799,15 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:11:11:85
-# text = TODO
-# text_orig = — Iatucaçaua rupi: — Re-cahiçù curi Tupana ne pïá çûi, upãin mahã çui.
+# text = — Yatukasawa rupí: — Resaisú kurí Tupana ne piá suí, upaĩ maã suí.
+# text_orig = — Iatucaçaua rupi: — Re-çahiçù curi Tupana ne pïá çûi, upãin mahã çui.
 # text_source = p. 43
 # text_por = — Em resumo: Amarás a Deus de todo o teu coração, sobre todas as cousas.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 
 # sent_id = Aguiar1898:11:12:86
-# text = TODO
+# text = — Resaisú kurí ne rapixara, maí ne yawé tẽ.
 # text_orig = — Reçahiçú curi ne rapixára, mahi ne iaué-ten.
 # text_source = p. 43
 # text_por = — Amarás o próximo, como a ti mesmo.
