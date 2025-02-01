@@ -718,28 +718,40 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:11:2:76
-# text = Te resenúi Tupana rera tenhuntu. (Aguiar, 41, adap.)
+# text = 2°. — Te resenúi Tupana rera tenhuntu. (Aguiar, 41, adap.)
 # text_orig = 2°. — Tehen re-cenôi Tupana rêra tehente.
 # text_source = p. 41
 # text_por = 2°. — Não jurarás o nome de Deus em vão.
+# text_sec = Te resenúi Tupana rera tenhuntu. (Aguiar, 41, adap.)
+# text_por_sec =  
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:11:3:77
-# text = Remungaturú kurí mituú, ara santu-itá. (Aguiar, 41, adap)
+# text = 3°. — Remungaturú kurí mituú, ara santu-itá. (Aguiar, 41, adap)
 # text_orig = 3°. — Re-nungaturù curi mituú, ara santuitá.
 # text_source = p. 41
 # text_por = 3°. — Guardarás domingos e dias santos.
+# text_sec = Remungaturú kurí mituú, ara santu-itá. (Aguiar, 41, adap)
+# text_por_sec =  
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:11:4:78
-# text = Repusú kurí ne paya, ne manha. (Aguiar, 41, adap.)
+# text =  4°. — Repusú kurí ne paya, ne manha. (Aguiar, 41, adap.)
 # text_orig = 4°. — Re-puçú curi ne paia, ne manha.
 # text_source = p. 41
 # text_por = 4°. — Honrarás teu pai e tua mãe.
+# text_sec = Repusú kurí ne paya, ne manha. (Aguiar, 41, adap.)
+# text_por_sec =  
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -790,10 +802,14 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:11:10:84
-# text = Te reyusé amú-itá maã. (Aguiar, 41, adap.)
+# text = 10°. — Te reyusé amú-itá maã. (Aguiar, 41, adap.)
 # text_orig = 10°. — Tehen re-íucë amúitá mahã.
 # text_source = p. 41
 # text_por = 10°. — Não cubiçarás os bens alheios.
+# text_sec = Te reyusé amú-itá maã. (Aguiar, 41, adap.)
+# text_por_sec =  
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -847,10 +863,14 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:12:4:90
-# text = Reyukwakú kurí Santa Igreja umundú ramé. (Aguiar, 43, adap.)
+# text = 4°. — Reyukwakú kurí Santa Igreja umundú ramé. (Aguiar, 43, adap.)
 # text_orig = 4°. — Re-iucuacû curi, Santa Igreja u munú ramé.
 # text_source = p. 43
 # text_por = 4°. — Jejuarás, quando manda a Santa Igreja.
+# text_sec = Reyukwakú kurí Santa Igreja umundú ramé. (Aguiar, 43, adap.)
+# text_por_sec =  
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -895,10 +915,14 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:13-1:4:95
-# text = Resikari kurí, repitimú arama aintá, maasiwera-itá uikú kamirika waá yuíri. (Aguiar, 45, adap.)
+# text =  4°. — Resikari kurí, repitimú arama aintá, maasiwera-itá uikú kamirika waá yuíri. (Aguiar, 45, adap.)
 # text_orig = 4°. — Rê-cicari curi, ipïtümú arama, maácïuêraita, u-icù camirica uahá ïuïri.
 # text_source = p. 45
 # text_por = 4°. — Visitarás, para os aliviar, os enfermos e os que fazem oprimidos.
+# text_sec = Resikari kurí, repitimú arama aintá, maasiwera-itá uikú kamirika waá yuíri. (Aguiar, 45, adap.)
+# text_por_sec = 
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -917,6 +941,10 @@
 # text_orig = 6°. — Rê-mucema curi nê-iaué uahá miaçúaçaua xii.
 # text_source = p. 45
 # text_por = 6°. — Remirás os teus semelhantes do cativeiro.
+# text_sec = Remusemu kurí ne yawé waá miasuasawa suí. (Aguiar, 45, adap.)
+# text_por_sec = 
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -1003,6 +1031,10 @@
 # text_orig = 1°. — Iu-muíatéçáua.
 # text_source = p. 49
 # text_por = 1°. — Soberba.
+# text_sec = 
+# text_por_sec = 
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
@@ -2110,7 +2142,7 @@
 # text_modernizer = Dominick Maia Alexandre
 
 # sent_id = Aguiar1898:22:22:222
-# text = Adam supé unheẽ yuíri: — Maãresé resenú ne rimirikú nheenga, reú... muirá suí, ti arama reú xamunú waá, iwí puxi kurí iné supé ne murakí upé, ... reú kurí murakí irumu ne ... upé.
+# text = Adam supé unheẽ yuíri: — Maãresé resenú ne rimirikú nheenga, reú... muirá suí, ti arama reú xamunú waá, iwí puxi kurí iné supé ne murakí upé, i suí reú kurí murakí irumu ne arapura upé.
 # text_orig = Adam çupé u-hinhin ïuïri: — Maharecê re-cenú ne rimiricú hinhinga, re-úana muïrá çui, ti arama re-ú xa-munú uahá, ïuhï puxi curi iné çupé ne murauki upé, i-çui re-ú curi muraukï irumo ne ar-apura upé.
 # text_source = p. 85
 # text_por = Disse também a Adão: — Porque deste ouvido a voz da tua mulher, comeste da árvore que eu tinha ordenado que não comesses, a terra te será adversa no teu trabalho, dela comerás mediante trabalho, durante toda a tua vida.
