@@ -11,7 +11,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:1:2:2
-# text = ― Tupana Yané Yara. *
+# text = ― Tupana Yané Yara.
 # text_orig = ― Tupana Ianè Iara.
 # text_source = p. 23
 # text_por = ― Deus Nosso Senhor.
@@ -20,7 +20,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:1:3:3
-# text = ― Awá taá umunhã yané? *
+# text = ― Awá taá umunhã yané?
 # text_orig = ― Auá taha u-munhã ianê?
 # text_source = p. 23
 # text_por = ― Quem nos criou a nós?
@@ -56,7 +56,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:1:7:7
-# text = ― Yepé nhũ Tupana reté. *
+# text = ― Yepé nhũ Tupana reté.
 # text_orig = ― Iepénhun Tupana reté.
 # text_source = p. 23
 # text_por = ― Há um só Deus verdadeiro.
@@ -65,7 +65,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:1:8:8
-# text = ― Mamé taá uikú Tupana? *
+# text = ― Mamé taá uikú Tupana?
 # text_orig = ― Mamé tahá u-icú Tupana?
 # text_source = p. 23
 # text_por = ― Onde está Deus?
@@ -74,7 +74,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:1:9:9
-# text = ― Iwaka upé, iwí-pe, upaĩ rupí. *
+# text = ― Iwaka upé, iwí-pe, upaĩ rupí.
 # text_orig = ― Iuáca upé, ïuhïpe, upãin rupi.
 # text_source = p. 23
 # text_por = ― No Céu, na terra, e em todo o lugar.
@@ -109,10 +109,10 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:1:12
-# title = TUPANA YEPÉSAWA MUSAPIRISAWA RESÉ *
+# title = TUPANA YEPÉSAWA MUSAPIRISAWA RESÉ
 # title_orig = TUPANA IEPÉÇÁUA MUÇAPÏRÍÇAUA RECÊ
 # title_por = DEUS UNO E TRINO
-# text = ― Muíri pessoa taá aikwéu Tupana resé? *
+# text = ― Muíri pessoa taá aikwéu Tupana resé?
 # text_orig = ― Munhïre pessôa tahá ahiqué Tupana recê? 
 # text_source = p. 25
 # text_por = ― Quantas pessoas há em Deus?
@@ -148,7 +148,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:5:16
-# text = ― Paya Tupana? *
+# text = ― Paya Tupana?
 # text_orig = ― Paia Tupana? 
 # text_source = p. 25
 # text_por = ― O Pai é Deus?
@@ -157,7 +157,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:6:17
-# text = ― Aé; Paya Tupana. *
+# text = ― Aé; Paya Tupana.
 # text_orig = ― Aé; Paia Tupana.
 # text_source = p. 25
 # text_por = ― Sim; o Pai é Deus.
@@ -166,7 +166,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:7:18
-# text = ― Taíra Tupana? *
+# text = ― Taíra Tupana?
 # text_orig = ― Tahïra Tupana?
 # text_source = p. 25
 # text_por = ― O Filho é Deus?
@@ -175,7 +175,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:8:19
-# text = ― Aé; Taíra Tupana. *
+# text = ― Aé; Taíra Tupana.
 # text_orig = ― Aé; Tahïra Tupana.
 # text_source = p. 25
 # text_por = ― Sim; o Filho é Deus.
@@ -202,7 +202,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:2:11:22
-# text = ― Aramé musapiri tupana-itá? *
+# text = ― Aramé musapiri tupana-itá?
 # text_orig = ― Aramé muçapïri tupanaitá?
 # text_source = p. 25
 # text_por = ― Então são três deuses?
@@ -321,7 +321,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:3:7:35
-# text = ― Tupana Manha upitá upaĩ* ara upé Virgem?
+# text = ― Tupana Manha upitá upaĩ ara upé Virgem?
 # text_orig = ― Tupana-Manha u-pïtá upãin ara upé Virgem?
 # text_source = p. 29
 # text_por = ― A Mãe de Deus ficou sempre virgem?
@@ -524,7 +524,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:5:6:56
-# text = ― Yawé tẽ. Yané rikwé iwí-pe; yané rikwé yamanú rirí. *
+# text = ― Yawé tẽ. Yané rikwé iwí-pe; yané rikwé yamanú rirí.
 # text_orig = ― Iauè-ten. Ianê requé ïuhïpe; ianê requé ia-manú riri.
 # text_source = p. 33
 # text_por = ― É verdade. Temos uma vida na terra, e outra depois da morte.
@@ -567,7 +567,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:6:2:60
-# text = ― Tiana! Uwatari reté uruyari rẽ, useruka rẽ. *
+# text = ― Tiana! Uwatari reté uruyari rẽ, useruka rẽ.
 # text_orig = ― 'Tiana! Uatarireté u-ruiari rain, u-ceruca rain.
 # text_source = p. 35
 # text_por = ― Absolutamente não! É necessário crer e baptizar-se.
@@ -576,7 +576,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:6:3:61
-# text = ― Maí taá yakwáu [ia-uhikí] iwaka upé? *
+# text = ― Maí taá yakwáu [ia-uhikí] iwaka upé?
 # text_orig = ― Mahi-tahá iá quau ia-uhikí iuáca upé?
 # text_source = p. 35
 # text_por = ― Como podemos alcançar o Céu?
@@ -909,7 +909,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:13-1:2:93
-# text = 2°. — Re-meẽ kurí i waá aintá supé. *
+# text = 2°. — Re-meẽ kurí i waá aintá supé.
 # text_orig = 2°. — Rê-mehen curi ï ïhïcê uahá aità çupé.
 # text_source = p.45
 # text_por = 2°. — Darás de beber a quem tem sede.
@@ -962,7 +962,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-1:7:98
-# text = 7°. — Reyutima kurí umanú waá-itá. *
+# text = 7°. — Reyutima kurí umanú waá-itá.
 # text_orig = 7°. — Re-iütïma curi u-manuaitá.
 # text_source = p. 45
 # text_por = 7°. — Darás sepultura aos mortos.
@@ -983,7 +983,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:13-2:2:100
-# text = 2°. — Re-mué kurí yakwaíma-itá. *
+# text = 2°. — Re-mué kurí yakwaíma-itá.
 # text_orig = 2°. — Re-muhen curi iacúaïmaitá.
 # text_source = p. 47
 # text_por = 2°. — Ensinarás aos ignorantes.
@@ -992,7 +992,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:3:101
-# text =  3°. — Remusurí kurí sasiara(sa)wa-itá. *
+# text =  3°. — Remusurí kurí sasiara(sa)wa-itá.
 # text_orig = 3°. — Re-muçurï curi çacïárauaitá.
 # text_source = p. 47
 # text_por = 3°. — Consolarás os tristes.
@@ -1001,7 +1001,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:4:102
-# text =  4°. — Re-nupá kurí ne mira, uyawí ramé. *
+# text =  4°. — Renupá kurí ne mira, uyawí ramé.
 # text_orig = 4°. — Re-nupá curi ne mira, uiuauhï ramé.
 # text_source = p. 47
 # text_por = 4°. — Castigarás os teus, quando errarem.
@@ -1010,7 +1010,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:5:103
-# text = 5°. — Re-... kurí maã amu-itá umunhã iné arama. 
+# text = 5°. — Reperduari kurí maã amu-itá umunhã iné arama. 
 # text_orig = 5°. — Re-perduari curi mahã amuitá u-munhan iné arama.
 # text_source = p. 47
 # text_por = 5°. — Perdoarás as ofensas que os outros te fizerem.
@@ -1028,12 +1028,13 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:7:105
-# text = 7°. — Re-
+# text = 7°. — Re... kurí Tupana supé ...itá umanú...itá 
 # text_orig = 7°. — Re-iururé curi Tupana çupé cequèaitá u-manùaitá rupi.
 # text_source = p. 47
-# text_por = 7°. — Rogarás a Deus pelos vivos e defunctos.
+# text_por = 7°. — Rogarás a Deus pelos vivos e defuntos.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
+# text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:14:1:106
 # text = 1°. — Yumuwarixí.
@@ -1154,7 +1155,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:15:6:118
-# text = — Caridadi rupí, yasaisú Tupana upaĩ maã suí, yané rapixara, maí yawé tẽ. *
+# text = — Caridadi rupí, yasaisú Tupana upaĩ maã suí, yané rapixara, maí yawé tẽ.
 # text_orig = — Caridadi rupi, ià çahiçù Tupana u-pãin mahá çui, ianê rapixára, mahi iauè-ten. 
 # text_source = p. 51
 # text_por = — Pela Caridade, nós amamos a Deus sobre todas as cousas, e a nosso proximo como a nós mesmos.
@@ -1164,7 +1165,7 @@
 
 # sent_id = Aguiar1898:16:1:119
 # text = 1°. — Serukasawa.
-# title = IGREJA SACRAMENTUITA *
+# title = IGREJA SACRAMENTUITA
 # title_orig = IGREJA SACRAMENTUITÀ
 # title_por = SACRAMENTOS DA IGREJA
 # text_orig = 1°. — Cerucaçáua.
@@ -1229,7 +1230,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:17:1:126
-# text = — Ixé pecadori xayumumeú Tupana turusú reté supé; katú reté upaĩ ara Virgem Maria supé; katú reté S. Migueru Arcanjo supé; katú reté S. João Batista supé; katú reté Santu Apósturitá, S. Pêderu S. Pauru supé, Santu-itá upaĩn katú supé; iné Paí yuíri supé; maã resé ixé xamunhã setá í siku-puxisawa, xamaité ramé, xanheẽ ramé, xamunhã ramé, se rimutara puxí resewara, se rimutara puxí reté resewara, se rimutara puxí retana resewara. *
+# text = — Ixé pecadori xayumumeú Tupana turusú reté supé; katú reté upaĩ ara Virgem Maria supé; katú reté S. Migueru Arcanjo supé; katú reté S. João Batista supé; katú reté Santu Apósturitá, S. Pêderu S. Pauru supé, Santu-itá upaĩn katú supé; iné Paí yuíri supé; maã resé ixé xamunhã setá í siku-puxisawa, xamaité ramé, xanheẽ ramé, xamunhã ramé, se rimutara puxí resewara, se rimutara puxí reté resewara, se rimutara puxí retana resewara.
 # title = IXÉ PECADORI
 # title_orig = IXÈ PECADÕRI
 # title_por = EU PECADOR
@@ -1325,7 +1326,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:19:5:136
-# text = Museruka aram, yepé mira uyusena i paraná suí, u igarapé, u [ií-rukena] suí seraíma akanga árupi, unheẽ kwayé: Ixé xa [baptisari] iné Paya rera upé, Taíra yuíri, Espiritu Santu yuíri. *
+# text = Museruka aram, yepé mira uyusena i paraná suí, u igarapé, u [ií-rukena] suí seraíma akanga árupi, unheẽ kwayé: Ixé xa [baptisari] iné Paya rera upé, Taíra yuíri, Espiritu Santu yuíri.
 # text_orig = Muceruca arama, iepé mira u-iucena ï paraná çui, ô igarapè, ô ïreçâ çui cêraïma acanga arpe, u-hinhin quáhi: Ixé xa baptisari iné Paia rera upé, Tuhïra ïuïre, Espiritu-Santu ïuïri.
 # text_source = p. 59
 # text_por = Para baptizar, a pessoa derrama água do rio, ou do ribeiro, ou da fonte sobre a cabeça do pagão dizendo assim: Eu te baptizo em nome do Padre, e do Filho, e do Espírito Santo.
@@ -1513,7 +1514,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-3:1:155
-# text = Tupana unheẽ. — Yumatirí yepé nhũ tenawa upé ií-itá uikú waá iwaka wírupi; usema ukara kití iwí tikanga. *
+# text = Tupana unheẽ. — Yumatirí yepé nhũ tenawa upé ií-itá uikú waá iwaka wírupi; usema ukara kití iwí tikanga.
 # title = UPAĨ MAÃ MUNHÃSAWA (ARA MUSAPIRI)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA MUÇAPÏRI)
 # title_por = CRIAÇÃO DO MUNDO (TERCEIRO DIA)
@@ -1904,7 +1905,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:14:195
-# text = Tupana yuri kari upaĩ iwí suú, upaĩ iwaka wirá Adam kití, uxipiá arama maã taá rera usenúi [ramêmu] aintá, [nharêcêuára] maí usenúi [ramêmu], kwá yawé aintá rera. *
+# text = Tupana yuri kari upaĩ iwí suú, upaĩ iwaka wirá Adam kití, uxipiá arama maã taá rera usenúi [ramêmu] aintá, [nharêcêuára] maí usenúi [ramêmu], kwá yawé aintá rera.
 # text_orig = Tupana iuri cari upãin ïuhï çuu, upãin iuáca uirá Adam kïtï, u-xipiá arama mahátahá rêra u-cenôi ramêmu aitá, nharêcêuára mahi u-cenôi ramêmu, quá iaué aitá rêra.
 # text_source = p. 77
 # text_por = Deus fez vir todos os animais da terra, e todas as aves do céu a presença de Adão, para ver por que nome os chamaria, porquanto como os chamasse, assim seriam seus nomes.
@@ -2179,7 +2180,7 @@
 # text_sec = — Ne riái upé reú kurí miapé [...] (Aguiar, 87, adap)
 # text_por_sec =  
 # text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
