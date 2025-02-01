@@ -122,7 +122,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:3:15
-# text = ― Maawá taá-itá? *
+# text = ― Maawá taá-itá?
 # text_orig = ― Mahiuhá tahá aitá?
 # text_source = p. 25
 # text_por = ― Quais são elas?
@@ -131,7 +131,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:4:16
-# text = ― Paya, Taíra, ...-... . *
+# text = ― Paya, Taíra, Espiritu-Santu.
 # text_orig = ― Paia, Tahïra, Espiritu-Santu.
 # text_source = p. 25
 # text_por = ― Pai, Filho, Espírito Santo.
@@ -212,7 +212,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:2:13:24
-# text = ― Musapiri pessoa-itá, yepé... Tupana reté. *
+# text = ― Musapiri pessoa-itá, yepé nhũ Tupana reté.
 # text_orig = ― Muçapïri pessôa aitá, iepénhun Tupana-reté.
 # text_source = p. 25
 # text_por = ― São três pessoas distintas, e um só Deus verdadeiro.
@@ -221,7 +221,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:14:25
-# text = ― Aramé, yepé... Tupana reté, musapiri pessoa-itá resé? *
+# text = ― Aramé, yepé nhũ Tupana reté, musapiri pessoa-itá resé?
 # text_orig = ― Aramé, iepénhun Tupana reté, muçapïri pessôa aitá recê?
 # text_source = p. 27
 # text_por = ― Então, é um só Deus verdadeiro, em três pessoas distintas?
@@ -239,7 +239,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:2:16:27
-# text = ― Maã taá ... ... ... ?
+# text = ― Maã taá kwá mysteriu rera?
 # text_orig = ― Mahá tahá quá mysteriu rêra?
 # text_source = p. 27
 # text_por = ― Qual é o nome deste mistério?
@@ -904,7 +904,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-1:5:96
-# text = 5°. — Re-meẽ kurí renawa ne ruka upé ... aintá supé.
+# text = 5°. — Remeẽ kurí renawa ne ruka upé usasawa aintá supé.
 # text_orig = 5°. — Rê-mehen curi renáua ne ruca upé u-çaçau aitá çupé.
 # text_source = p. 45
 # text_por = 5°. — Darás pousada em tua casa aos peregrinos.
@@ -922,7 +922,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-1:7:98
-# text = 7°. — Re-yutima kurí umanú waá-itá. *
+# text = 7°. — Reyutima kurí umanú waá-itá. *
 # text_orig = 7°. — Re-iütïma curi u-manuaitá.
 # text_source = p. 45
 # text_por = 7°. — Darás sepultura aos mortos.
@@ -952,7 +952,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:3:101
-# text =  3°. — Re-musurí kurí ... .
+# text =  3°. — Remusurí kurí sasiara(sa)wa-itá. *
 # text_orig = 3°. — Re-muçurï curi çacïárauaitá.
 # text_source = p. 47
 # text_por = 3°. — Consolarás os tristes.
@@ -970,7 +970,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:5:103
-# text = 5°. — Re-... kurí maã amu-itá ... ... ... . 
+# text = 5°. — Re-... kurí maã amu-itá ... iné arama. 
 # text_orig = 5°. — Re-perduari curi mahã amuitá u-munhan iné arama.
 # text_source = p. 47
 # text_por = 5°. — Perdoarás as offensas que os outros te fizerem.
@@ -979,7 +979,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:6:104
-# text = 6°. — Re-... kurí, ... ..., yané ... ... .
+# text = 6°. — Re... kurí, ... ..., yané ... ... .
 # text_orig = 6°. — Re-pïtaçuca curi, catuçáua rupi, ianê rapixàra uiauhïçáua.
 # text_source = p. 47
 # text_por = 6°. — Soffreràs com paciencia as fraquesas do teu proximo.
