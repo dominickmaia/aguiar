@@ -87,6 +87,10 @@
 # text_orig = ― Auá tahá aé Tupana?
 # text_source = p. 23
 # text_por = ― Quem é esse Deus?
+# text_sec = ― Awá taá aé Tupana? (Aguiar, 23, adap.)
+# text_por_sec =  
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -96,6 +100,10 @@
 # text_orig = ― Iepé anga-reté, turuçú-reté, ianê munhangara, ianê Iára.
 # text_source = p. 23
 # text_por = ― Um puro espírito, todo poderoso, nosso Criador, e nosso Senhor.
+# text_sec = ― Yepé anga reté, turusú reté, yané munhangara, yané yara. (Aguiar, 23, adap.)
+# text_por_sec =  
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -707,12 +715,16 @@
 
 # sent_id = Aguiar1898:11:1:75
 # title = TUPANA MUNDUSAWA-ITÁ (Aguiar, 41, adap.)
-# text = Resaisú kurí Tupana ne piá suí, panhẽ maã suí. (Aguiar, 41, adap.)
+# text = 1°. — Resaisú kurí Tupana ne piá suí, panhẽ maã suí. (Aguiar, 41, adap.)
 # title_orig = TUPANA MUNUÇÁUAITÁ
 # title_por = MANDAMENTOS DE DEUS
 # text_orig = 1°. — Re-çahiçú curi Tupãna ne pïá çui, upãin mahã çui.
 # text_source = p. 41
-# text_por = 1°. — Amarás a Deus de todo o teu coração, sobre todas as cousas.
+# text_por = 1°. — Amarás a Deus de todo o teu coração, sobre todas as cousas. 
+# text_sec = Resaisú kurí Tupana ne piá suí, panhẽ maã suí. (Aguiar, 41, adap.)
+# text_por_sec =  
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -1588,14 +1600,14 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-4:3:164
-# text_sec = Tupana umunhã mukũi werawasú: turusú piri waá, kurasí, ara pukusawa arama; kwaíra piri waá, yasí, pituna ramé arama.
-# text_por_sec = Deus fez dois grandes luzeiros: o maior, o Sol, para a duração do dia o menor, a Lua, para o período da noite.
-# text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
 # text = Tupana umunhã mukũi werawasú: turusú piri, kwarasí, ara pukusawa arama, kwaíra piri, yasí, pituna ramé arama. 
 # text_orig = Tupana u-munhan mucuin uëráuaçú: turuçúpiri, cuaracï, ara pucuçáua arama, coahira-piri, iacï, pïtuna ramé arama.
 # text_source = p. 67
 # text_por = Deus fez dois grandes luzeiros; o maior, o sol, para o correr do dia, e o menor, a lua, para quando for noite.
+# text_sec = Tupana umunhã mukũi werawasú: turusú piri, kurasí, ara pukusawa arama; kwaíra piri waá, yasí, pituna ramé arama.
+# text_por_sec = Deus fez dois grandes luzeiros: o maior, o Sol, para a duração do dia o menor, a Lua, para o período da noite.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -2160,10 +2172,14 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:22:24:224
-# text = — Ne riái upé reú kurí miapé, ... ... kurí reyumunhã iwí, ... ... ... iné: iwí iné, iwí reyeréu kurí. (Aguiar, 87, adap)
+# text = — Ne riái upé reú kurí miapé, ... ... kurí reyumunhã iwí, ... ... ... iné: iwí iné, iwí reyeréu kurí.
 # text_orig = — Ne ruá hãin upé re-ú curi miapé, té re-úiú curi re-iu-munhan ïuhï, maháçui xá uúca iné: ïuhï iné, ïuhï re-ieréu curi.
 # text_source = p. 87
 # text_por = — Comerás o pão com o suor do teu rosto, até voltares a te fazeres terra, da qual eu tirei-te: terra és, e em terra te hás de tornar.
+# text_sec = — Ne riái upé reú kurí miapé [...] (Aguiar, 87, adap)
+# text_por_sec =  
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
