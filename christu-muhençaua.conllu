@@ -979,10 +979,10 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:6:104
-# text = 6°. — Repitasuka kurí, katusawa rupí, yané ... ... .
+# text = 6°. — Repitasuka kurí, katusawa rupí, yané rapixara ... .
 # text_orig = 6°. — Re-pïtaçuca curi, catuçáua rupi, ianê rapixàra uiauhïçáua.
 # text_source = p. 47
-# text_por = 6°. — Soffreràs com paciência as fraquezas do teu próximo.
+# text_por = 6°. — Sofrerás com paciência as fraquezas do teu próximo.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -996,7 +996,7 @@
 # text_por_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:14:1:106
-# text = 1°. — Yumuwarixí. *
+# text = 1°. — Yumuwarixí.
 # title = ANGAIPAWA-ITÁ IPÍ (Aguiar, 49)
 # title_orig = ANGAIPAUAITÀ-IPI'
 # title_por = PECADOS CAPITAIS
@@ -1092,7 +1092,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:15:4:116
-# text = — Ruyarisawa rupí, yaruyari upaĩ supí, Tupana umukameẽ yané supé waá. *
+# text = — Ruyarisawa rupí, yaruyari upaĩ supí, Tupana umukameẽ yané supé waá.
 # text_orig = — Ruiariçaua rupi, iá ruiari upãin çupi, Tupana u-mucámehen iané çupê uahâ.
 # text_source = p. 51
 # text_por = — Pela Fé, nós cremos todas as verdades, que Deus nos revelou.
@@ -1101,7 +1101,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:15:5:117
-# text = — Sarusawa rupí, yasaru upaĩ maã katú, Tupana umeẽ kuri waá yané supé. *
+# text = — Sarusawa rupí, yasaru upaĩ maã katú, Tupana umeẽ kuri waá yané supé.
 # text_orig = — Çarùçáua rupi, iá çarú upãin mahán catù, Tupana u-mehen curi uahá ianê çupé.
 # text_source = p. 51
 # text_por = — Pela Esperança, nós esperamos todos os bens que Deus nos prometeu dar.
@@ -1381,7 +1381,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-1:2:146
-# text = Iwí tipáu, ti rẽ urikú umaã maã, pituna páu upaĩ rupí, Tupana peyusawa [iu-reracô ií-itá árupi].*
+# text = Iwí tipáu, ti rẽ urikú umaã maã, pituna páu upaĩ rupí, Tupana peyusawa [iu-reracô ií-itá árupi].
 # text_orig = Ïuhi 'ti-pau, 'tirain u-ricú mahan-mahan, pïtuna-pau u-pãin rupi, Tupana pêiuçáua iu-reracô ï-aïtá arpe.
 # text_source = p. 63
 # text_por = A terra estava vazia, ainda não tinha cousa alguma, em toda a parte as trevas; o espírito de Deus era levado sobre as águas.
@@ -1426,7 +1426,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-2:1:151
-# text = Tupana unheẽ yuíri: — Yumunhã santasawa ií-itá pitérupi; umuí ií-itá [ikiti] amú-itá suí. *
+# text = Tupana unheẽ yuíri: — Yumunhã santasawa ií-itá pitérupi; umuí ií-itá [ikiti] amú-itá suí.
 # title = UPAĨ MAÃ MUNHÃSAWA (ARA MUKŨI)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA MUCÚIN)
 # title_por = CRIAÇÃO DO MUNDO (SEGUNDO DIA)
@@ -1705,7 +1705,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-6:7:179
-# text = Tupana unheẽ aintá supé: — Aikwé ixé xameẽ waá [pé] supé upaĩ maã, uikú waá iwí arupí, penhẽ timbiú arama.*
+# text = Tupana unheẽ aintá supé: — Aikwé ixé xameẽ waá [pé] supé upaĩ maã, uikú waá iwí arupí, penhẽ timbiú arama.
 # text_orig = Tupana u-hinhin aitá çupé: — Ahiqué ixé xa mehen uahá pé çupé upãin mahã, u-icú uahá ïuhï árpe, pehen timiû arama.
 # text_source = p. 71
 # text_por = Deus disse-lhes: — Eis que eu vos dei todas as cousas, que existem sobre a terra, para a vossa alimentação.
@@ -1757,7 +1757,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:3:184
-# text = Upituú nhaã ara [rapatê] upé, upaĩ maã suí umunhã waá. *
+# text = Upituú nhaã ara [rapatê] upé, upaĩ maã suí umunhã waá.
 # text_orig = U-pïtïhú nhã 'ara rapatê upé, upãin mahã çui u-munhan uahá.
 # text_source = p. 73
 # text_por = Descansou naquele mesmo dia de toda a obra que tinha feito.
@@ -1793,7 +1793,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:7:188
-# text = Yané Yara Tupana yupirungawa suiwé umumuranga yepé ruri renawa, mamé uinú apigawa, aé umunhã waá. *
+# text = Yané Yara Tupana yupirungawa suiwé umumuranga yepé ruri renawa, mamé uinú apigawa, aé umunhã waá.
 # text_orig = Ianê Iara Tupana iupïrungáua çui-ué u-mumuranga iepé rurirenáua, mamé u-inú apgáua, aé u-munhan uahá.
 # text_source = p. 73
 # text_por = Deus nosso Senhor desde o princípio tinha aformoseado um jardim, onde colocou o homem que ele tinha formado.
@@ -1833,7 +1833,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:11:192
-# text = Umunú aé supé, unheẽ: — Reú upaĩ [çucïrenáua] muirá suí; katasawa puxisawa muirá suí teẽ reú kurí. *
+# text = Umunú aé supé, unheẽ: — Reú upaĩ [çucïrenáua] muirá suí; katasawa puxisawa muirá suí teẽ reú kurí.
 # text_orig = U-munù aé çupé, u hinhin: — Re-ú upãin çucïrenáua muirá çui; catuçáua puxiçáua muïrá çui tehen re ú curi. 
 # text_source = p. 75
 # text_por = Deu-lhe esta ordem, dizendo: — Come de todas as árvores do paraíso; mas da árvore do bem e do mal não comerás.
@@ -1851,7 +1851,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:13:194
-# text = Unheẽ yuíri Yané Yara Tupana: — Intí katú apigawa uikú anhũ, yamunhã aé supé yepé pitimusawa [irangawa] yawé waá. *
+# text = Unheẽ yuíri Yané Yara Tupana: — Intí katú apigawa uikú anhũ, yamunhã aé supé yepé pitimusawa [irangawa] yawé waá.
 # text_orig = U hinhin ïuïri Ianê Iara Tupana: — Inti catú apgáua u-icù anhun, iá-munhan aé çupé iepé pïtïmuçaua irangaua iaué uahá.
 # text_source = p. 75
 # text_por = Disse também Deus Nosso Senhor: — Não é bom que o homem esteja só, façamos-lhe um adjutório que lhe seja semelhante.
@@ -2110,7 +2110,7 @@
 # text_modernizer = Dominick Maia Alexandre
 
 # sent_id = Aguiar1898:22:22:222
-# text = Adam supé unheẽ yuíri: — Maãresé resenú ne rimirikú nheenga, reú... ... suí, ti arama reú ... waá, iwí ... kurí iné supé ne .... ...,
+# text = Adam supé unheẽ yuíri: — Maãresé resenú ne rimirikú nheenga, reú... muirá suí, ti arama reú xamunú waá, iwí puxi kurí iné supé ne murakí upé, ... reú kurí murakí irumu ne ... upé.
 # text_orig = Adam çupé u-hinhin ïuïri: — Maharecê re-cenú ne rimiricú hinhinga, re-úana muïrá çui, ti arama re-ú xa-munú uahá, ïuhï puxi curi iné çupé ne murauki upé, i-çui re-ú curi muraukï irumo ne ar-apura upé.
 # text_source = p. 85
 # text_por = Disse também a Adão: — Porque deste ouvido a voz da tua mulher, comeste da árvore que eu tinha ordenado que não comesses, a terra te será adversa no teu trabalho, dela comerás mediante trabalho, durante toda a tua vida.
@@ -2128,7 +2128,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:22:24:224
-# text = — Ne riái upé reú kurí miapé, ... ... kurí reyumunhã iwí, ... ... ... iné: iwí iné, iwí ... kurí. (Aguiar, 87, adap)
+# text = — Ne riái upé reú kurí miapé, ... ... kurí reyumunhã iwí, ... ... ... iné: iwí iné, iwí reyeréu kurí. (Aguiar, 87, adap)
 # text_orig = — Ne ruá hãin upé re-ú curi miapé, té re-úiú curi re-iu-munhan ïuhï, maháçui xá uúca iné: ïuhï iné, ïuhï re-ieréu curi.
 # text_source = p. 87
 # text_por = — Comerás o pão com o suor do teu rosto, até voltares a te fazeres terra, da qual eu tirei-te: terra és, e em terra te hás de tornar.
