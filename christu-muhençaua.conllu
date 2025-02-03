@@ -1019,7 +1019,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:6:104
-# text = 6°. — Repitasuka kurí, katusawa rupí, yané rapixara ... .
+# text = 6°. — Repitasuka kurí, katusawa rupí, yané rapixara uyawísawa.
 # text_orig = 6°. — Re-pïtaçuca curi, catuçáua rupi, ianê rapixàra uiauhïçáua.
 # text_source = p. 47
 # text_por = 6°. — Sofrerás com paciência as fraquezas do teu próximo.
@@ -1028,7 +1028,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-2:7:105
-# text = 7°. — Reyururé kurí Tupana supé ...itá umanú...itá 
+# text = 7°. — Reyururé kurí Tupana supé sikwé-itá umanú-itá rupí.
 # text_orig = 7°. — Re-iururé curi Tupana çupé cequèaitá u-manùaitá rupi.
 # text_source = p. 47
 # text_por = 7°. — Rogarás a Deus pelos vivos e defuntos.
@@ -1108,7 +1108,7 @@
 
 # sent_id = Aguiar1898:15:1:113
 # text = 1°. — Ruyarisawa.
-# title = SIKÚ-KATÚ... TUPANA...
+# title = SIKÚ-KATÚ-ITÁ TUPANAWARA
 # title_orig = CECÚCATÚAITÁ TUPANA-UÀRA
 # title_por = VIRTUDES THEOLOGAES
 # text_orig = 1°. — Ruíáriçaua.
@@ -1260,12 +1260,16 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:18:1:129
-# text = Se Yara Jesus Cristo, Tupana reté, apigawa reté, ... ..., ... ..., ... ... Tupana ..., ... yané ... (Aguiar, 57, adap.)
+# text = Se Yara Jesus Cristo, Tupana reté, apigawa reté, se Criadori, se Redentori, maãresé iné Tupana ..., ... yané ... ... .... .... ... ... ... ... ... ... ... ... ...
 # title_orig = ANGA ÇACÍÇÀUA
 # title_por = ATO DE CONTRIÇÃO
 # text_orig = — Ce Iára Jesu-Christu, Tupana retè, Apgaua reté, ce Criadori, ce Redentori, maharecê iné Tupana catúreteana, inéretè ianê upãin catú ià-çahiçú arama, ixè ce racïára-retè ce pecaduitá recê-uára, upãin mahan puxi cerecêuára-ten; ixè xa-iururé neçui re-perduari putari ixé, ne ruhï, ne umanú, ne curuçá rupi; ixë xa iucê reté, xa putari ce piá çui, inti-amúara, inè pïtïmùçaua irumo, xa-munhan curi mahã puxi nahá cerecê-uára; ixé xa-çahiçù curi iné ce requé çape.
 # text_source = p. 57
 # text_por = — Meu Senhor Jesus Cristo, Deus e Homem verdadeiro, meu Criador, meu Redentor, por serdes sumamente bom, e digno de ser de todos nós amado, eu tenho suma dôr de todos as ações más, que fiz por minha culpa; eu vos rogo vos digneis perdoar-me, pelo vosso sangue, pela vossa morte, pela vossa cruz; com o vosso auxílio, eu proponho firmemente, e quero de todo o coração, nunca mais cometer por minha culpa ações más; e vos hei de amar por toda a vida.
+# text_sec = Se Yara Jesus Cristo, Tupana reté, apigawa reté, se Criadori, se Redentori, maãresé iné Tupana ..., ... yané ... (Aguiar, 57, adap.)
+# text_por_sec = 
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -1492,14 +1496,14 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-2:3:153
+# text = Tupana umusera santasawa supé iwaka, puranga ... xipiá waá.
+# text_orig = Tupana u-mucêra çantaçáua çupè iuáca, puranga çukira iá xipiá uahá.
+# text_source = p. 65
+# text_por = Deus chamou o firmamento céu, o belo azul que nós vemos.
 # text_sec = Tupana umusera santasawa supé iwaka, [...].
 # text_por_sec = Deus chamou o firmamento de céu, [...].
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
-# text = Tupana umusera santasawa supé iwaka, ... ... ... waá.
-# text_orig = Tupana u-mucêra çantaçáua çupè iuáca, puranga çukira iá xipiá uahá.
-# text_source = p. 65
-# text_por = Deus chamou o firmamento céu, o belo azul que nós vemos.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -2186,7 +2190,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:22:25:225
-# text = Adam usenuí rimirikú rera Eva, maãresé upaĩ ...-itá manha.
+# text = Adam usenuí rimirikú rera Eva, maãresé upaĩ sikwé-itá manha.
 # text_orig = Adam u-cenôi i-rimiricú rêra Eva, mahárecê upãin cequéuaitá manha.
 # text_source = p. 87
 # text_por = Adão chamou o nome da sua mulher Eva, por ser mãe de todos.
