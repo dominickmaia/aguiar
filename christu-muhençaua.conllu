@@ -83,27 +83,27 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:1:10:10
-# text = ― Awá taá aé Tupana? (Aguiar, 23, adap.)
+# text = ― Awá taá aé Tupana?
 # text_orig = ― Auá tahá aé Tupana?
 # text_source = p. 23
 # text_por = ― Quem é esse Deus?
-# text_sec = ― Awá taá aé Tupana? (Aguiar, 23, adap.)
-# text_por_sec = TODO
+# text_sec = ― Awá taá aé Tupana?
+# text_por_sec = Quem é esse Deus?
 # text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:1:11:11
-# text = ― Yepé anga reté, turusú reté, yané munhangara, yané yara. (Aguiar, 23, adap.)
+# text = ― Yepé anga reté, turusú reté, yané munhangara, yané yara.
 # text_orig = ― Iepé anga-reté, turuçú-reté, ianê munhangara, ianê Iára.
 # text_source = p. 23
 # text_por = ― Um puro espírito, todo poderoso, nosso Criador, e nosso Senhor.
-# text_sec = ― Yepé anga reté, turusú reté, yané munhangara, yané yara. (Aguiar, 23, adap.)
-# text_por_sec = TODO
+# text_sec = ― Yepé anga reté, turusú reté, yané munhangara, yané yara.
+# text_por_sec = Um puro espérito, todo poderoso, nosso Criador e nosso Senhor.
 # text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -956,7 +956,7 @@
 # text_sec = Remusemu kurí ne yawé waá miasuasawa suí. (Aguiar, 45, adap.)
 # text_por_sec = TODO
 # text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -2181,8 +2181,8 @@
 # text_orig = — Ne ruá hãin upé re-ú curi miapé, té re-úiú curi re-iu-munhan ïuhï, maháçui xá uúca iné: ïuhï iné, ïuhï re-ieréu curi.
 # text_source = p. 87
 # text_por = — Comerás o pão com o suor do teu rosto, até voltares a te fazeres terra, da qual eu tirei-te: terra és, e em terra te hás de tornar.
-# text_sec = — Ne riái upé reú kurí miapé [...] (Aguiar, 87, adap)
-# text_por_sec = TODO
+# text_sec = — Ne riái upé reú kurí miapé [...]
+# text_por_sec = Com teu suor comerás o pão [...]
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
