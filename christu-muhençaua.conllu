@@ -722,7 +722,7 @@
 # text_source = p. 41
 # text_por = 1°. — Amarás a Deus de todo o teu coração, sobre todas as cousas. 
 # text_sec = Resaisú kurí Tupana ne piá suí, panhẽ maã suí. (Aguiar, 41, adap.)
-# text_por_sec = TODO
+# text_por_sec = Amarás a Deus de coração, sobre todas as coisas.
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
@@ -748,7 +748,7 @@
 # text_source = p. 41
 # text_por = 3°. — Guardarás domingos e dias santos.
 # text_sec = Remungaturú kurí mituú, ara santu-itá. (Aguiar, 41, adap)
-# text_por_sec = TODO
+# text_por_sec = Guardarás domingos e dias santos.
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
@@ -880,7 +880,7 @@
 # text_source = p. 43
 # text_por = 4°. — Jejuarás, quando manda a Santa Igreja.
 # text_sec = Reyukwakú kurí Santa Igreja umundú ramé. (Aguiar, 43, adap.)
-# text_por_sec = TODO
+# text_por_sec = Jejuarás quando manda a Santa Igreja.
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -932,9 +932,9 @@
 # text_source = p. 45
 # text_por = 4°. — Visitarás, para os aliviar, os enfermos e os que fazem oprimidos.
 # text_sec = Resikari kurí, repitimú arama aintá, maasiwera-itá uikú kamirika waá yuíri. (Aguiar, 45, adap.)
-# text_por_sec = TODO
+# text_por_sec = Visitarás, para os aliviar, os enfermos e o que estiver oprimido.
 # text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -949,12 +949,12 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:13-1:6:97
-# text =  6°. — Remusemu kurí ne yawé waá miasuasawa suí. (Aguiar, 45, adap.)
+# text =  6°. — Remusemu kurí ne yawé waá miasuasawa suí.
 # text_orig = 6°. — Rê-mucema curi nê-iaué uahá miaçúaçaua xii.
 # text_source = p. 45
 # text_por = 6°. — Remirás os teus semelhantes do cativeiro.
-# text_sec = Remusemu kurí ne yawé waá miasuasawa suí. (Aguiar, 45, adap.)
-# text_por_sec = TODO
+# text_sec = Remusemu kurí ne yawé waá miasuasawa suí.
+# text_por_sec = Remirás os teus semelhantes do cativeiro.
 # text_sec_source = Avila (2021)
 # text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
