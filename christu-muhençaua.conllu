@@ -730,7 +730,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:11:2:76
-# text = 2°. — Te resenúi Tupana rera tenhuntu.
+# text = 2°. — Teẽ resenúi Tupana rera tenhuntu.
 # text_orig = 2°. — Tehen re-cenôi Tupana rêra tehente.
 # text_source = p. 41
 # text_por = 2°. — Não jurarás o nome de Deus em vão.
@@ -763,7 +763,7 @@
 # text_sec = Repusú kurí ne paya, ne manha.
 # text_por_sec = Honrarás teu pai e tua mãe.
 # text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -909,7 +909,7 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:13-1:2:93
-# text = 2°. — Remeẽ kurí i waá aintá supé.
+# text = 2°. — Remeẽ kurí i ... waá aintá supé.
 # text_orig = 2°. — Rê-mehen curi ï ïhïcê uahá aità çupé.
 # text_source = p.45
 # text_por = 2°. — Darás de beber a quem tem sede.
@@ -1392,14 +1392,14 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:20:5:143
-# text_sec = I kweré pá renundé uwatari reté yuíri maasiwera supé yandí uanú katú arama "sacramento".
-# text_por_sec = Antes da completa extenuação, também é muito necessário ao doente o Sacramento do óleo para bem morrer (ou seja, o Sacramento da "Extrema-unção").
-# text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
 # text = — I kweré pá renundé uwatari reté yuíri maasiwera supé yandí umanú katú arama Sacramentu.
 # text_orig = — Icuhiri-pá renoné uatari-reté uïri mahacïuêra çupè iandi u-maïnû catù arama Sacramentu.
 # text_source = p. 61
 # text_por = — Antes d'agonia, tambem é mui necessário ao doente o Sacramento da Extrema-Unção.
+# text_sec = I kweré pá renundé uwatari reté yuíri maasiwera supé yandí uanú katú arama "sacramento".
+# text_por_sec = Antes da completa extenuação, também é muito necessário ao doente o Sacramento do óleo para bem morrer (ou seja, o Sacramento da "Extrema-unção").
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
@@ -1414,10 +1414,6 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-1:1:145
-# text_sec = Yupirungawa ramé Tupana umunhã iwaka, iwí yuíri.
-# text_por_sec = No princípio criou Deus o Céu e a terra.
-# text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
 # text = Yupirungawa ramé Tupana umunhã iwaka iwí yuíri.
 # title = UPAĨ MAÃ MUNHÃSAWA (ARA YEPÉ)
 # title_orig = UPÃIN MAHÃ MUNHANÇAUA (IRA IEPÉ)
@@ -1425,6 +1421,10 @@
 # text_orig = Iupïrungáua ramé Tupana u-munhan iuaca ïhnï ïuïri.
 # text_source = p. 63
 # text_por = No princípio criou Deus o Céu e a terra.
+# text_sec = Yupirungawa ramé Tupana umunhã iwaka, iwí yuíri.
+# text_por_sec = No princípio criou Deus o Céu e a terra.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
@@ -1851,14 +1851,14 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-7:8:189
-# text_sec = Yané Yara Tuapana umusinhĩ-kari iwí suí panhẽ mirá puranga waá sesá supé, [...].
-# text_por_sec = Nosso Senhor Deus fez brotar da terra todas as árvores belas à vista, [...].
-# text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
 # text = Yané Yara Tupana umusinhĩ kari iwí suí upaĩ muirá puranga sesá supé, maú arama katú; rikwé muirá ruri renawa pitera upé yuíri, katusawa puxisawa yakwasara, yepé muirá yuíri.
 # text_orig = Ianê Iara Tupana u mucïnhin cari ïuhï çui upãin muïrá puranga ceçá çupé, mahû arama catú; requé-muïrá rurï-renáua pïtéra upé ïuïri, catuçáua puxiçáua iacúaçara iepé muïrá ïuïri.
 # text_source = p. 75
 # text_por = Deus Nosso Senhor tinha feito produzir da terra todas as árvores belas á vista, boas para comer, também a árvore da vida no meio do paraíso, e a árvore da ciência do bem e do mal.
+# text_sec = Yané Yara Tuapana umusinhĩ-kari iwí suí panhẽ mirá puranga waá sesá supé, [...].
+# text_por_sec = Nosso Senhor Deus fez brotar da terra todas as árvores belas à vista, [...].
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
