@@ -109,13 +109,13 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:1:12
-# title = TUPANA YEPÉSAWA MUSAPIRISAWA RESÉ
-# title_orig = TUPANA IEPÉÇÁUA MUÇAPÏRÍÇAUA RECÊ
-# title_por = DEUS UNO E TRINO
 # text = ― Muíri pessoa taá aikwéu Tupana resé?
 # text_orig = ― Munhïre pessôa tahá ahiqué Tupana recê? 
 # text_source = p. 25
 # text_por = ― Quantas pessoas há em Deus?
+# title = TUPANA YEPÉSAWA MUSAPIRISAWA RESÉ
+# title_orig = TUPANA IEPÉÇÁUA MUÇAPÏRÍÇAUA RECÊ
+# title_por = DEUS UNO E TRINO
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
@@ -265,12 +265,12 @@
 
 # sent_id = Aguiar1898:3:1:29
 # text = ― Maí waá musapiri pessoa pitera suí yumunhã apigawa.
-# title = TUPANA RAÍRA YANÉ RUKWERA IRUMU
-# title_orig = TUPANA RAHÏRA IANÉ RUQUÈRA IRUMO
-# title_por = INCARNAÇÃO DO FILHO DE DEUS
 # text_orig = Mahi-uahá muçapïri pessôa pïtéra çui iu-munhan apgaua?
 # text_source = p. 27
 # text_por = ― Qual das três pessoas se fez homem?
+# title = TUPANA RAÍRA YANÉ RUKWERA IRUMU
+# title_orig = TUPANA RAHÏRA IANÉ RUQUÈRA IRUMO
+# title_por = INCARNAÇÃO DO FILHO DE DEUS
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
@@ -412,12 +412,12 @@
 
 # sent_id = Aguiar1898:4:1:45
 # text = ― Mamé taá Jesu Christu umanú?
-# title = MAÍ JESU CHRISTU UPISIRÚ YANÉ 
-# title_orig = MAHI JESU-CHRISTU U-PÍCÍRÜIANÊ
-# title_por = COMO JESUS CHRISTO NOS REMIU
 # text_orig = ― Mamè-tahà Jesu-Christu umanú?
 # text_source = p. 31
 # text_por = ― Onde Jesus Christo morreu?
+# title = MAÍ JESU CHRISTU UPISIRÚ YANÉ 
+# title_orig = MAHI JESU-CHRISTU U-PÍCÍRÜIANÊ
+# title_por = COMO JESUS CHRISTO NOS REMIU
 # text_sec = ― Mamé taá Jesu Christu umanú?
 # text_por_sec = ― Onde Jesus Christo morreu?
 # text_sec_source = Avila (2021)
@@ -477,12 +477,12 @@
 
 # sent_id = Aguiar1898:5:1:51
 # text = ― Marama taá Tupana Yané Yara umunhã yané?
-# title = MARAMA TUPANA UMUNHÃ YANÉ
-# title_orig = MAH'ARAMA TUPANA U-MUNHÃN IANÉ
-# title_por = DO FIM PARA QUE NOS CREOU DEUS
 # text_orig = ― Mah'arama tahà Tupana Ianè Iàra u-munhan ianê?
 # text_source = p. 33
 # text_por = ― Para que Deus Nosso Senhor nos criou?
+# title = MARAMA TUPANA UMUNHÃ YANÉ
+# title_orig = MAH'ARAMA TUPANA U-MUNHÃN IANÉ
+# title_por = DO FIM PARA QUE NOS CREOU DEUS
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
@@ -556,12 +556,12 @@
 
 # sent_id = Aguiar1898:6:1:59
 # text = ― Yepé mira uyusalvari kwáu, tiramé uruyari, tiramé uyumuseruka?
-# title = UWATARI RETÉ SIKÚ-KATÚ SUÍ, AWÁ YU-SALVARI ARAMA.
-# title_orig = UATARl RETÉ CECUCATÙ ÇUI, AUÁ IU-SALVARI ARAMA.
-# title_por = NECESSIDADE DAS BOAS OBRAS, PARA ALGUÉM SALVAR-SE.
 # text_orig = ― Iepé mira iu-salvari quau, 'tiramé u-ruiari, 'tiramé iu muceruca?
 # text_source = p. 35
 # text_por = ― Uma pessoa pode salvar-se sem crer, nem baptizar-se?
+# title = UWATARI RETÉ SIKÚ-KATÚ SUÍ, AWÁ YU-SALVARI ARAMA.
+# title_orig = UATARl RETÉ CECUCATÙ ÇUI, AUÁ IU-SALVARI ARAMA.
+# title_por = NECESSIDADE DAS BOAS OBRAS, PARA ALGUÉM SALVAR-SE.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
@@ -594,13 +594,13 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:7:1:63
-# title = KURUSÁ RANGAWA.
-# title_orig = CURUÇÁ-RANGÀUA.
-# title_por = SINAL DA CRUZ.
 # text = ― Santa Kurusá rangawa rupí, yané pisirú Tupana, yané Yara, yané ruanhana.
 # text_orig = ― Santa Curuçá rangáua rupi, ianè pïcïrú Tupana, ianê Iara, ianê ruîanhana.
 # text_source = p. 35
 # text_por = ― Pelo sinal da Santa Cruz, livre-nos Deus, Nosso Senhor, dos nossos inimigos.
+# title = KURUSÁ RANGAWA.
+# title_orig = CURUÇÁ-RANGÀUA.
+# title_por = SINAL DA CRUZ.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
@@ -625,12 +625,12 @@
 
 # sent_id = Aguiar1898:8:1:66
 # text = Yané Paya, iné reikú waá iwaka upé, ne rera yumuité; yuri ne yarasawa yané árupi; yumunhã ne remutara iké iwí-pe, maí iwaka upé; yané miapé ara yawé remeẽ yané arama uií ara; reperduari yané watari, maí yané yaperduari amú-itá watari; teẽ rexari yané [iaari] sikú-puxi kití; repisirú yané upaĩ maã puxi suí.
-# title = YANÉ PAYA
-# title_orig = IANÊ PAIA
-# title_por = PADRE-NOSSO 
 # text_orig = Ianê Paia, inè rê-icú uahá iuáca upé, ne rêra iu-muité; iúri nê iáraçáua ianê árape; iu-munhan ne remutàra iké ïuhïpe, mahi iuáca upé; ianê miapé ara-iaué remehen ianê arama uhihi ara; re-perduari ianê uatari, mahi ianê ia perduari amùitá uatari; tehen re-xiari ianê iáari cecúpuxi kïtï; re-pïcïrú ianê upãin mahãpuxi çui.
 # text_source = p. 37
 # text_por = Pai nosso, que estás no Céu, santificado seja o teu nome; venha a nós o teu reino; seja feita a tua vontade, assim na terra como no Céu; o pão nosso de cada dia nos dá hoje; perdoa as nossas dívidas, assim como nós perdoamos a dívida dos outros; não nos deixes cair em tentação; mas livra-nos de todo o mal.
+# title = YANÉ PAYA
+# title_orig = IANÊ PAIA
+# title_por = PADRE-NOSSO 
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
@@ -1292,12 +1292,12 @@
 
 # sent_id = Aguiar1898:19:1:132
 # text = — Intí awá uyusalvari] kwáu tiramé yumuseruka.
-# title = SERUKA UMANÚ RAMÉ
-# title_orig = CERUCA U-MANÚ RAMÉ
-# title_por = BAPTISMO EM ARTIGO DE MORTE
 # text_orig = — Intiauá oiu-salvari quau 'tiramé iu-muceruca.
 # text_source = p. 59
 # text_por = — Ninguém se salva, sem baptizar-se.
+# title = SERUKA UMANÚ RAMÉ
+# title_orig = CERUCA U-MANÚ RAMÉ
+# title_por = BAPTISMO EM ARTIGO DE MORTE
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
@@ -1358,13 +1358,14 @@
 
 # sent_id = Aguiar1898:20:1:139
 # text = — Apigawa u kunhã seruka, umaasí reté ramé, usenúi kari kurí Paí yumumeú arama, yuuka Tupana yuíri.
+# text_orig = — Apgáua ô cunhan cerucana, u-mahácï reté ramé, u-cenhôi cari curi Pahí iu-mumêhun arama, iuúca Tupana ïuïri.
+# text_source = p. 61
+# text_por = — O homem ou mulher já batizado, quando estiver muito doente, fará chamar o Padre para confessar-se e receber a comunhão.
 # title = MAÃ UMUNHÃ ARAMA WAÁ, UMANÚ RAMÉ.
 # title_orig = MAHÃ U-MUNHAN ARAMA UAHÁ, U-MANÚ RAMÉ. 
 # title_por = O QUE SE DEVE FAZER, QUANDO SE ESTÁ PARA MORRER
-# text_orig = — Apgáua ô cunhan cerucana, u-mahácï reté ramé, u-cenhôi cari curi Pahí iu-mumêhun arama, iuúca Tupana ïuïri.
-# text_source = p. 61
-# text_por = — O homem ou mulher já baptizado, quando estiver muito doente, fará chamar o Padre para confessar-se e receber a comunhão.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
+# text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:20:2:140
@@ -1415,12 +1416,12 @@
 
 # sent_id = Aguiar1898:21-1:1:145
 # text = Yupirungawa ramé Tupana umunhã iwaka iwí yuíri.
-# title = UPAĨ MAÃ MUNHÃSAWA (ARA YEPÉ)
-# title_orig = UPÃIN MAHÃ MUNHANÇAUA (IRA IEPÉ)
-# title_por = CRIAÇÃO DO MUNDO (PRIMEIRO DIA)
 # text_orig = Iupïrungáua ramé Tupana u-munhan iuaca ïhnï ïuïri.
 # text_source = p. 63
 # text_por = No princípio criou Deus o Céu e a terra.
+# title = UPAĨ MAÃ MUNHÃSAWA (ARA YEPÉ)
+# title_orig = UPÃIN MAHÃ MUNHANÇAUA (IRA IEPÉ)
+# title_por = CRIAÇÃO DO MUNDO (PRIMEIRO DIA)
 # text_sec = Yupirungawa ramé Tupana umunhã iwaka, iwí yuíri.
 # text_por_sec = No princípio criou Deus o Céu e a terra.
 # text_sec_source = Avila (2021)
@@ -1476,12 +1477,12 @@
 
 # sent_id = Aguiar1898:21-2:1:151
 # text = Tupana unheẽ yuíri: — Yumunhã santasawa ií-itá pitérupi; umuí ií-itá [ikiti] amú-itá suí.
-# title = UPAĨ MAÃ MUNHÃSAWA (ARA MUKŨI)
-# title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA MUCÚIN)
-# title_por = CRIAÇÃO DO MUNDO (SEGUNDO DIA)
 # text_orig = Tupana u-hinhin ïuïri: — Iu-munhan çantaçáua ïaitá pïtérape; u-muhin ïaitá ikïtï amúitá çui.
 # text_source = p. 65
 # text_por = Deus disse também: — Faça-se o firmamento no meio das águas, e devida as águas das águas.
+# title = UPAĨ MAÃ MUNHÃSAWA (ARA MUKŨI)
+# title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA MUCÚIN)
+# title_por = CRIAÇÃO DO MUNDO (SEGUNDO DIA)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
@@ -1519,12 +1520,12 @@
 
 # sent_id = Aguiar1898:21-3:1:155
 # text = Tupana unheẽ. — Yumatirí yepé nhũ tenawa upé ií-itá uikú waá iwaka wírupi; usema ukara kití iwí tikanga.
-# title = UPAĨ MAÃ MUNHÃSAWA (ARA MUSAPIRI)
-# title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA MUÇAPÏRI)
-# title_por = CRIAÇÃO DO MUNDO (TERCEIRO DIA)
 # text_orig = Tupana uhinhin. — Iu-matïri iepènhun tenana upé ïaitá u-icú uahá iuáca iurpe; u-cema ucára kïti ïuhï ticanga.
 # text_source = p. 65
 # text_por = Deus disse: — Reúnam-se em um só lugar as águas que estão debaixo do céu; saia fora a terra enxuta.
+# title = UPAĨ MAÃ MUNHÃSAWA (ARA MUSAPIRI)
+# title_orig = UPÃIN MAHÃ MUNHANÇAUA (ARA MUÇAPÏRI)
+# title_por = CRIAÇÃO DO MUNDO (TERCEIRO DIA)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
