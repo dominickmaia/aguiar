@@ -646,12 +646,12 @@
 
 # sent_id = Aguiar1898:9:1:68
 # text = Ave Maria, i pura graça suí, yané Yara ne irumu; yumumeú katú iné upaĩ kunhã pitérupi, yumumú katí iwá ne marika suí, Jesus.
+# text_orig = Ave-Maria, ipura graça çui, ianê Iàra ne iruma; iu-mumehun-catú iné upãin cunhan pïtérape, iu-mumehun-catú iuhá nê marica çui, Jesus.
+# text_source = p. 37
+# text_por = Ave Maria, cheia de graça, o Senhor seja contigo; bendita és tu entre todas as mulheres, bendito é o fruto do teu ventre, Jesus.
 # title = AVE MARIA
 # title_orig = AVE MARIA
 # title_por = AVE MARIA
-# text_orig = Ave-Maria, ipura graça çui, ianê Iàra ne iruma; iu-mumehun-catú iné upãin cunhan pïtérape, iu-mumehun-catú iuhá nê marica çui, Jesus.
-# text_source = p. 37
-# text_por = Ave-Maria, cheia de graça, o Senhor seja contigo; bendita és tu entre todas as mulheres, bendito é o fruto do teu ventre, Jesus.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
@@ -676,12 +676,12 @@
 
 # sent_id = Aguiar1898:10:1:71
 # text = Xaruyari Tupana Paya resé, turusú reté, munhangara iwaka, iwí.
-# title = XARUYARI TUPANA RESÉ
-# title_orig = XA-RUIARI TUPANA RECÊ
-# title_por = CREIO EM DEUS
 # text_orig = Xa-ruiari Tupana Paia recê, turuçúreté, munhangara iuaca, ïuhï.
 # text_source = p. 39
 # text_por = Creio em Deus, Pai todo poderoso, Criador do Céu e da terra.
+# title = XARUYARI TUPANA RESÉ
+# title_orig = XA-RUIARI TUPANA RECÊ
+# title_por = CREIO EM DEUS
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
@@ -714,13 +714,13 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:11:1:75
-# title = TUPANA MUNDUSAWA-ITÁ
 # text = 1°. — Resaisú kurí Tupana ne piá suí, panhẽ maã suí.
-# title_orig = TUPANA MUNUÇÁUAITÁ
-# title_por = MANDAMENTOS DE DEUS
 # text_orig = 1°. — Re-çahiçú curi Tupãna ne pïá çui, upãin mahã çui.
 # text_source = p. 41
-# text_por = 1°. — Amarás a Deus de todo o teu coração, sobre todas as cousas. 
+# text_por = 1°. — Amarás a Deus de todo o teu coração, sobre todas as cousas.
+# title = TUPANA MUNDUSAWA-ITÁ
+# title_orig = TUPANA MUNUÇÁUAITÁ
+# title_por = MANDAMENTOS DE DEUS
 # text_sec = Resaisú kurí Tupana ne piá suí, panhẽ maã suí.
 # text_por_sec = Amarás a Deus de coração, sobre todas as coisas.
 # text_sec_source = Avila (2021)
@@ -846,12 +846,12 @@
 
 # sent_id = Aguiar1898:12:1:87
 # text = 1°. — Resenú kurí misa tẽ pawasawa mituú, ara santu ramé.
-# title = SANTA IGREJA MUNUSAWA-ITÁ
-# title_orig = SANTA IGRÊJA MUNUÇAUAITÁ
-# title_por = MANDAMENTOS DA SANTA IGREJA
 # text_orig = 1°. — Re-cenù curi missa téipauçape mïtuù, ara santu ramé.
 # text_source = p. 43
 # text_por = 1°. — Ouvirás missa inteira aos domingos e dias santos.
+# title = SANTA IGREJA MUNUSAWA-ITÁ
+# title_orig = SANTA IGRÊJA MUNUÇAUAITÁ
+# title_por = MANDAMENTOS DA SANTA IGREJA
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
@@ -898,18 +898,18 @@
 
 # sent_id = Aguiar1898:13-1:1:92
 # text = 1°. — Reyupúi kurí yumasisawa-itá.
-# title = MUPIAKATÚSAWA INÉ RAPIXARA RUPÍ (YANÉ RESÉ RUPÍ):
-# title_orig = MUPÏÀCATÙÇÀUA NE RAPIXÁRA RUPI (IANÊ RECÊ RUPI):
-# title_por = OBRAS DE MISERICORDIA EM FAVOR DO PRÓXIMO (AS CORPORAES):
 # text_orig = 1°. — Rê-iupùi curi iumacïuaitá.
 # text_source = p.45
 # text_por = 1°. — Darás de comer a quem tem fome.
+# title = MUPIAKATÚSAWA INÉ RAPIXARA RUPÍ (YANÉ RESÉ RUPÍ):
+# title_orig = MUPÏÀCATÙÇÀUA NE RAPIXÁRA RUPI (IANÊ RECÊ RUPI):
+# title_por = OBRAS DE MISERICORDIA EM FAVOR DO PRÓXIMO (AS CORPORAES):
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:13-1:2:93
-# text = 2°. — Remeẽ kurí i ... waá aintá supé.
+# text = 2°. — Remeẽ kurí i isí waá aintá supé.
 # text_orig = 2°. — Rê-mehen curi ï ïhïcê uahá aità çupé.
 # text_source = p.45
 # text_por = 2°. — Darás de beber a quem tem sede.
@@ -972,12 +972,12 @@
 
 # sent_id = Aguiar1898:13-2:1:99
 # text = 1°. — Remungitá kurí katú arama.
-# title = MUPIAKATÚSAWA INÉ RAPIXARA RUPÍ (YANÉ ANGA RUPÍ):
-# title_orig = MUPÏÀCATÙÇÀUA NE RAPIXÁRA RUPI (IANÊ ANGA RUPI):
-# title_por = OBRAS DE MISERICORDIA EM FAVOR DO PRÓXIMO (AS ESPIRITUAES):
 # text_orig = 1°. — Re-munguetá curi catú arama.
 # text_source = p. 45
 # text_por = 1°. — Darás bom conselho.
+# title = MUPIAKATÚSAWA INÉ RAPIXARA RUPÍ (YANÉ ANGA RUPÍ):
+# title_orig = MUPÏÀCATÙÇÀUA NE RAPIXÁRA RUPI (IANÊ ANGA RUPI):
+# title_por = OBRAS DE MISERICORDIA EM FAVOR DO PRÓXIMO (AS ESPIRITUAES):
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
@@ -1038,16 +1038,16 @@
 
 # sent_id = Aguiar1898:14:1:106
 # text = 1°. — Yumuwarixí.
-# title = ANGAIPAWA-ITÁ IPÍ
-# title_orig = ANGAIPAUAITÀ-IPI'
-# title_por = PECADOS CAPITAIS
 # text_orig = 1°. — Iu-muíatéçáua.
 # text_source = p. 49
 # text_por = 1°. — Soberba.
+# title = ANGAIPAWA-ITÁ IPÍ
+# title_orig = ANGAIPAUAITÀ-IPI'
+# title_por = PECADOS CAPITAIS
 # text_sec = 
 # text_por_sec = 
 # text_sec_source = Avila (2021)
-# text_por_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
@@ -1108,12 +1108,12 @@
 
 # sent_id = Aguiar1898:15:1:113
 # text = 1°. — Ruyarisawa.
-# title = SIKÚ-KATÚ-ITÁ TUPANAWARA
-# title_orig = CECÚCATÚAITÁ TUPANA-UÀRA
-# title_por = VIRTUDES THEOLOGAES
 # text_orig = 1°. — Ruíáriçaua.
 # text_source = p. 51
 # text_por = 1°. — Fé.
+# title = SIKÚ-KATÚ-ITÁ TUPANAWARA
+# title_orig = CECÚCATÚAITÁ TUPANA-UÀRA
+# title_por = VIRTUDES THEOLOGAES
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
@@ -1165,12 +1165,12 @@
 
 # sent_id = Aguiar1898:16:1:119
 # text = 1°. — Serukasawa.
+# text_orig = 1°. — Cerucaçáua.
+# text_source = p. 53
+# text_por = 1°. — Batismo.
 # title = IGREJA SACRAMENTUITA
 # title_orig = IGREJA SACRAMENTUITÀ
 # title_por = SACRAMENTOS DA IGREJA
-# text_orig = 1°. — Cerucaçáua.
-# text_source = p. 53
-# text_por = 1°. — Baptismo.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
@@ -1231,12 +1231,12 @@
 
 # sent_id = Aguiar1898:17:1:126
 # text = — Ixé pecadori xayumumeú Tupana turusú reté supé; katú reté upaĩ ara Virgem Maria supé; katú reté S. Migueru Arcanjo supé; katú reté S. João Batista supé; katú reté Santu Apósturitá, S. Pêderu S. Pauru supé, Santu-itá upaĩn katú supé; iné Paí yuíri supé; maã resé ixé xamunhã setá í siku-puxisawa, xamaité ramé, xanheẽ ramé, xamunhã ramé, se rimutara puxí resewara, se rimutara puxí reté resewara, se rimutara puxí retana resewara.
-# title = IXÉ PECADORI
-# title_orig = IXÈ PECADÕRI
-# title_por = EU PECADOR
 # text_orig = — Ixè pecadori xâ-iu-mumêhun Tupana turuçùretê cupè; catúreté upãin ara Virgem Maria çupè; catùretè S. Miguéru Arcanjo çupè; catúreté S. João Batista çupé; catúreté Santu Apósturitá, S. Pêderu S. Pauru çupè, Santuitá upãin catú çupè; iné Pahi ïuïri çupè; mahárecé ixé xa-munhan cetá hï cecúpuxiçáua, xa-maité ramé, xa-hinhin ramè, xa-munhan ramé, ce remutara puxi recêuara, ce remutara puxireté rêcêuara, ce remutara puxireteana receuara.
 # text_source = p. 55
 # text_por = — Eu pecador me confesso a Deus, todo poderoso; à bem-aventurada sempre Virgem Maria; ao bem-aventurado S. Miguel Arcanjo; ao bem-aventurado S. João Baptista; aos Santos Apostolos S. Pedro e S. Paulo; a todos os Santos; e a vós Padre; porque pequei muitas vezes, por pensamento, palavra e obra, por minha culpa, minha grande culpa, minha máxima culpa.
+# title = IXÉ PECADORI
+# title_orig = IXÈ PECADÕRI
+# title_por = EU PECADOR
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
