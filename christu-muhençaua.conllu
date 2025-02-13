@@ -192,11 +192,20 @@
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
 
-# sent_id = Aguiar1898:2:10:21
-# text = ― Aé. Espírito Santu Tupana.
-# text_orig = ― Aé. Espiritu-Santu Tupana.
+# sent_id = Aguiar1898:2:1000:2100
+# text = ― Aé.
+# text_orig = ― Aé.
 # text_source = p. 25
-# text_por = ― Sim. O Espírito Santo é Deus.
+# text_por = ― Sim.
+# text_orig_transcriber = Davi Sampaio Santos
+# text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
+
+# sent_id = Aguiar1898:2:1001:2101
+# text = Espírito Santu Tupana.
+# text_orig = Espiritu-Santu Tupana.
+# text_source = p. 25
+# text_por = O Espírito Santo é Deus.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
