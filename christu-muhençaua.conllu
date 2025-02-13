@@ -392,11 +392,20 @@
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
 
-# sent_id = Aguiar1898:3:14:42
-# text = ― Aré. Jesu Christu Tupana reté, Apigawa reté.
-# text_orig = ― Aé. Jesú-Christu Tupana reté, Apgaua reté.
+# sent_id = Aguiar1898:3:1400:4200
+# text = ― Aré.
+# text_orig = ― Aé.
 # text_source = p. 29
-# text_por = ― Sim, Jesus Cristo é verdadeiro Deus e verdadeiro Homem.
+# text_por = ― Sim,
+# text_orig_transcriber = Davi Sampaio Santos
+# text_por_modernizer = Davi Sampaio Santos
+# text_modernizer = Letícia Farias Nunes
+
+# sent_id = Aguiar1898:3:1401:4201
+# text = Jesu Christu Tupana reté, Apigawa reté.
+# text_orig = Jesú-Christu Tupana reté, Apgaua reté.
+# text_source = p. 29
+# text_por = Jesus Cristo é verdadeiro Deus e verdadeiro Homem.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
