@@ -117,7 +117,7 @@
 # text_modernizer = Antônio Levy Melo Nogueira
 
 # sent_id = Aguiar1898:2:1:12
-# text = ― Muíri pessoa taá aikwéu Tupana resé?
+# text = ― Muíri pessoa taá aikwé Tupana resé?
 # text_orig = ― Munhïre pessôa tahá ahiqué Tupana recê?
 # text_source = p. 25
 # text_por = ― Quantas pessoas há em Deus?
@@ -128,13 +128,13 @@
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
 # text_eng = TODO
-# inputline = ― Muíri/int pessoa taá aikwéu Tupana resé/adp?
+# inputline = ― Muíri/int pessoa taá aikwé Tupana resé/adp?
 # text_annotator = Letícia Farias Nunes
 1	―	―	PUNCT	PUNCT	_	6	punct	_	TokenRange=-1:0
 2	Muíri	muíri	DET	INT	PronType=Int	3	det	_	TokenRange=1:6
 3	pessoa	pessoa	_	_	_	6	_	_	TokenRange=7:13
 4	taá	taá	PART	CQ	PartType=Int	6	advmod	_	TokenRange=14:17
-5	aikwéu	aikwéu	_	_	_	6	_	_	TokenRange=18:24
+5	aikwé	aikwé	PART	EXST	PartType=Exs	6	advcl	_	TokenRange=18:23
 6	Tupana	tupana	NOUN	N	Number=Sing	0	root	_	TokenRange=25:31
 7	resé	resé	ADP	ADP	AdpType=Post|Rel=Cont	6	case	_	SpaceAfter=No|TokenRange=32:36
 8	?	?	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=36:37
