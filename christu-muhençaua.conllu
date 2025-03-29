@@ -45,15 +45,14 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
-# inputline = ― Awá taá umunhã yané?
+# text_eng = ― Who created us?
+# inputline = ― Awá/int taá umunhã yané/pron?
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	4	punct	_	TokenRange=-1:0
-2	Awá	awá	PRON	IND	PronType=Ind	2	det	_	TokenRange=1:4
+2	Awá	awá	PRON	INT	PronType=Int	4	nsubj	_	TokenRange=1:4
 3	taá	taá	PART	CQ	PartType=Int	4	advmod	_	TokenRange=5:8
 4	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=9:15
 5	yané	yané	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs|Style=Arch	4	obj	_	ModernForm=yandé|ModernLemma=yandé|SpaceAfter=No|TokenRange=16:20
-5	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|PronType=Prs	4	_	_	SpaceAfter=No|TokenRange=16:20
 6	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=20:21
 
 # sent_id = Aguiar1898:1:4:4
