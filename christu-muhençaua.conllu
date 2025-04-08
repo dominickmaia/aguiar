@@ -63,6 +63,14 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = - God Our Lord.
+# inputline = ― Tupana Yané/pron2 Yara/n.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Tupana	tupana	NOUN	N	Number=Sing	0	root	_	TokenRange=1:7
+3	Yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=8:12
+4	Yara	yara	NOUN	N	Number=Sing	2	appos	_	SpaceAfter=No|TokenRange=13:17
+5	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=17:18
 
 # sent_id = Aguiar1898:1:5:5
 # text = ― Aikwé será amú Tupana, kwá suí?
