@@ -101,6 +101,13 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = ― By no means! (Not at all)
+# inputline = ― Intí ana!
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
+2	Intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	3	advmod	_	TokenRange=1:5
+3	ana	ana	PART	PFV	Aspect=Perf	0	root	_	SpaceAfter=No|TokenRange=6:9
+4	!	!	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=9:10
 
 # sent_id = Aguiar1898:1:7:7
 # text = ― Yepé nhũ Tupana reté.
