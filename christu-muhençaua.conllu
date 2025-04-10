@@ -229,12 +229,20 @@
 
 # sent_id = Aguiar1898:2:5:16
 # text = ― Paya Tupana?
-# text_orig = ― Paia Tupana? 
+# text_orig = ― Paia Tupana?
 # text_source = p. 25
 # text_por = ― O Pai é Deus?
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = ― Paya Tupana?
+# text_annotator = Letícia Farias Nunes
+1	―	―	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
+2	Paya	paya	NOUN	N	Number=Sing	3	nsubj	_	TokenRange=1:5
+3	Tupana	tupana	NOUN	N	Number=Sing	0	root	_	TokenRange=6:12
+4	?	?	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=12:13
+
 
 # sent_id = Aguiar1898:2:6:17
 # text = ― Aé; Paya Tupana.
