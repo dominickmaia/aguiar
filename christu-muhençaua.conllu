@@ -135,6 +135,15 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = ― Where is God?
+# inputline = ― Mamé/advrc taá uikú/root Tupana?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	4	punct	_	TokenRange=-1:0
+2	Mamé	mamé	ADV	ADVRC	AdvType=Loc|PronType=Int	4	advmod	_	TokenRange=1:5
+3	taá	taá	PART	CQ	PartType=Int	4	advmod	_	TokenRange=6:9
+4	uikú	ikú	VERB	COP	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=10:14
+5	Tupana	tupana	NOUN	N	Number=Sing	4	obj	_	SpaceAfter=No|TokenRange=15:21
+6	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=21:22
 
 # sent_id = Aguiar1898:1:9:9
 # text = ― Iwaka upé, iwí-pe, upaĩ rupí.
