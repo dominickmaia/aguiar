@@ -117,6 +117,15 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = ― Yepé/card nhũ Tupana reté/a.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	4	punct	_	TokenRange=-1:0
+2	Yepé	yepé	NUM	CARD	NumType=Card	4	nummod	_	TokenRange=1:5
+3	nhũ	nhũ	ADV	ADV	_	4	advmod	_	TokenRange=6:9
+4	Tupana	tupana	NOUN	N	Number=Sing	0	root	_	TokenRange=10:16
+5	reté	reté	ADJ	A	_	4	amod	_	SpaceAfter=No|TokenRange=17:21
+6	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=21:22
 
 # sent_id = Aguiar1898:1:8:8
 # text = ― Mamé taá uikú Tupana?
