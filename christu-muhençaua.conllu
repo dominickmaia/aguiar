@@ -183,12 +183,12 @@
 # text_eng = TODO
 # inputline = ― Awá/int taá aé/demsn Tupana?
 # text_annotator = Antônio Levy Melo Nogueira
-1	―	―	PUNCT	PUNCT	_	5	punct	_	TokenRange=-1:0
-2	Awá	awá	DET	INT	PronType=Int	5	det	_	TokenRange=1:4
-3	taá	taá	PART	CQ	PartType=Int	5	advmod	_	TokenRange=5:8
-4	aé	aé	DET	DEMSN	Deixis=Remt|PronType=Dem	5	det	_	TokenRange=9:11
-5	Tupana	tupana	NOUN	N	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=12:18
-6	?	?	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=18:19
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Awá	awá	DET	INT	PronType=Int	0	root	_	TokenRange=1:4
+3	taá	taá	PART	CQ	PartType=Int	2	advmod	_	TokenRange=5:8
+4	aé	aé	DET	DEMSN	Deixis=Remt|PronType=Dem	2	det	_	TokenRange=9:11
+5	Tupana	tupana	NOUN	N	Number=Sing	2	nsubj	_	SpaceAfter=No|TokenRange=12:18
+6	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=18:19
 
 # sent_id = Aguiar1898:1:11:11
 # text = ― Yepé anga reté, turusú reté, yané munhangara, yané yara.
@@ -202,6 +202,23 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = ― Yepé/art anga reté/a, turusú/a reté/advs, yané/pron2 munhangara/n, yané/pron2 yara/n.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
+2	Yepé	yepé	DET	ART	Definite=Ind|PronType=Art	3	det	_	TokenRange=1:5
+3	anga	anga	NOUN	N	Number=Sing	0	root	_	TokenRange=6:10
+4	reté	reté	ADJ	A	_	3	amod	_	SpaceAfter=No|TokenRange=11:15
+5	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=15:16
+6	turusú	turusú	ADJ	A	_	3	amod	_	TokenRange=17:23
+7	reté	reté	ADV	ADVS	AdvType=Deg	6	advmod	_	SpaceAfter=No|TokenRange=24:28
+8	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=28:29
+9	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=30:34
+10	munhangara	munhangara	NOUN	N	Number=Sing	3	appos	_	SpaceAfter=No|TokenRange=35:45
+11	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=45:46
+12	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	TokenRange=47:51
+13	yara	yara	NOUN	N	Number=Sing	3	conj	_	SpaceAfter=No|TokenRange=52:56
+14	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=56:57
 
 # sent_id = Aguiar1898:2:1:12
 # text = ― Muíri pessoa taá aikwé Tupana resé?
