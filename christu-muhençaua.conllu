@@ -932,6 +932,23 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = 1°. — Resaisú kurí Tupana ne piá suí/adp, panhẽ maã/n suí/adp.
+# text_annotator = Letícia Farias Nunes
+1	1°	1°	_	_	_	4	_	_	SpaceAfter=No|TokenRange=0:2
+2	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=2:3
+3	—	—	PUNCT	PUNCT	_	4	punct	_	TokenRange=3:4
+4	Resaisú	saisú	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=5:12
+5	kurí	kurí	PART	FUT	Tense=Fut	4	advmod	_	TokenRange=13:17
+6	Tupana	tupana	NOUN	N	Number=Sing	4	obj	_	TokenRange=18:24
+7	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=25:27
+8	piá	piá	NOUN	N	Number=Sing	4	obl	_	TokenRange=28:31
+9	suí	suí	ADP	ADP	AdpType=Post	8	case	_	SpaceAfter=No|TokenRange=32:35
+10	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=35:36
+11	panhẽ	panhẽ	DET	TOT	PronType=Tot	12	det	_	TokenRange=37:42
+12	maã	maã	NOUN	N	Number=Sing	4	obl	_	TokenRange=43:46
+13	suí	suí	ADP	ADP	AdpType=Post	12	case	_	SpaceAfter=No|TokenRange=47:50
+14	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=50:51
 
 # sent_id = Aguiar1898:11:2:76
 # text = 2°. — Teẽ resenúi Tupana rera tenhuntu.
@@ -945,6 +962,18 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = 2°. — Teẽ resenúi Tupana rera tenhuntu.
+# text_annotator = Letícia Farias Nunes
+1	2°	2°	_	_	_	5	_	_	SpaceAfter=No|TokenRange=0:2
+2	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=2:3
+3	—	—	PUNCT	PUNCT	_	5	punct	_	TokenRange=3:4
+4	Teẽ	teẽ	PART	NEGI	Modality=Proh|PartType=Mod|Polarity=Neg	5	advmod	_	TokenRange=5:8
+5	resenúi	senúi	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=9:16
+6	Tupana	tupana	NOUN	N	Number=Sing	7	nmod:poss	_	TokenRange=17:23
+7	rera	sera	NOUN	N	Number=Sing|Rel=Cont	5	obj	_	TokenRange=24:28
+8	tenhuntu	tenhuntu	ADV	ADVA	AdvType=Man	5	advmod	_	SpaceAfter=No|TokenRange=29:37
+9	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=37:38
 
 # sent_id = Aguiar1898:11:3:77
 # text = 3°. — Remungaturú kurí mituú, ara santu-itá.
@@ -958,6 +987,19 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = 3°. — Remungaturú kurí mituú, ara santu-itá.
+# text_annotator = Letícia Farias Nunes
+1	3°	3°	_	_	_	4	_	_	SpaceAfter=No|TokenRange=0:2
+2	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=2:3
+3	—	—	PUNCT	PUNCT	_	4	punct	_	TokenRange=3:4
+4	Remungaturú	mungaturú	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=5:16
+5	kurí	kurí	PART	FUT	Tense=Fut	4	advmod	_	TokenRange=17:21
+6	mituú	mituú	NOUN	N	Number=Sing	4	obj	_	SpaceAfter=No|TokenRange=22:27
+7	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=27:28
+8	ara	ara	NOUN	N	Number=Sing	9	nmod:poss	_	TokenRange=29:32
+9	santu-itá	santu	NOUN	N	Number=Plur	4	vocative	_	SpaceAfter=No|TokenRange=33:42
+10	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=42:43
 
 # sent_id = Aguiar1898:11:4:78
 # text = 4°. — Repusú kurí ne paya, ne manha.
@@ -971,6 +1013,20 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = 4°. — Repusú kurí ne paya, ne manha.
+# text_annotator = Letícia Farias Nunes
+1	4°	4°	_	_	_	4	_	_	SpaceAfter=No|TokenRange=0:2
+2	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=2:3
+3	—	—	PUNCT	PUNCT	_	4	punct	_	TokenRange=3:4
+4	Repusú	pusú	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=5:11
+5	kurí	kurí	PART	FUT	Tense=Fut	4	advmod	_	TokenRange=12:16
+6	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=17:19
+7	paya	paya	NOUN	N	Number=Sing	4	obj	_	SpaceAfter=No|TokenRange=20:24
+8	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=24:25
+9	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=26:28
+10	manha	manha	NOUN	N	Number=Sing	4	vocative	_	SpaceAfter=No|TokenRange=29:34
+11	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=34:35
 
 # sent_id = Aguiar1898:11:5:79
 # text = 5°. — Teẽ reyuká.
@@ -980,6 +1036,15 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = 5°. — Teẽ reyuká.
+# text_annotator = Letícia Farias Nunes
+1	5°	5°	_	_	_	5	_	_	SpaceAfter=No|TokenRange=0:2
+2	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=2:3
+3	—	—	PUNCT	PUNCT	_	5	punct	_	TokenRange=3:4
+4	Teẽ	teẽ	PART	NEGI	Modality=Proh|PartType=Mod|Polarity=Neg	5	advmod	_	TokenRange=5:8
+5	reyuká	yuká	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=9:15
+6	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=15:16
 
 # sent_id = Aguiar1898:11:6:80
 # text = 6°. — Teẽ remunhã sikú-puxisawa.
@@ -989,9 +1054,19 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = 6°. — Teẽ remunhã sikú-puxisawa.
+# text_annotator = Letícia Farias Nunes
+1	6°	6°	_	_	_	5	_	_	SpaceAfter=No|TokenRange=0:2
+2	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=2:3
+3	—	—	PUNCT	PUNCT	_	5	punct	_	TokenRange=3:4
+4	Teẽ	teẽ	PART	NEGI	Modality=Proh|PartType=Mod|Polarity=Neg	5	advmod	_	TokenRange=5:8
+5	remunhã	munhã	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=9:16
+6	sikú-puxisawa	ikú-puxisawa	NOUN	N	Number=Sing	5	obj	_	SpaceAfter=No|TokenRange=17:30
+7	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=30:31
 
 # sent_id = Aguiar1898:11:7:81
-# text = 7°. — Teẽ remunã.
+# text = 7°. — Teẽ remuná.
 # text_orig = 7°. — Tehen re-munan.
 # text_source = p. 41
 # text_por = 7°. — Não furtarás.
