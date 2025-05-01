@@ -442,19 +442,18 @@
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
 # text_eng = TODO
-# inputline = ― Maí waá/sconj musapiri pessoa pitera suí yumunhã apigawa/n?
+# inputline = ― Maí/advra waá/rel musapiri pessoa/=n:o|pt:s|pessoa pitera/n suí yumunhã apigawa/n?
 # text_annotator = Antônio Levy Melo Nogueira
-1	―	―	PUNCT	PUNCT	_	6	punct	_	TokenRange=-1:0
-2	Maí	maí	_	_	_	6	_	_	TokenRange=1:4
-3	waá	waá	SCONJ	SCONJ	_	6	mark	_	TokenRange=5:8
-4	musapiri	musapiri	NUM	CARD	NumType=Card	6	nummod	_	TokenRange=9:17
-5	pessoa	pessoa	_	_	_	6	_	_	TokenRange=18:24
-6	pitera	pitera	NOUN	N	Number=Sing	0	obl	_	TokenRange=25:31
-6	pitera	pitera	VERB	V	VerbForm=Inf	0	root	_	TokenRange=25:31
+1	―	―	PUNCT	PUNCT	_	8	punct	_	TokenRange=-1:0
+2	Maí	maí	ADV	ADVRA	AdvType=Man|PronType=Int	8	acl:relcl	_	TokenRange=1:4
+3	waá	waá	PRON	REL	Number=Sing|PronType=Rel	2	nsubj	_	TokenRange=5:8
+4	musapiri	musapiri	NUM	CARD	NumType=Card	5	nummod	_	TokenRange=9:17
+5	pessoa	pessoa	NOUN	N	Number=Sing	8	nsubj	_	Orig=pessoa|OrigLang=por|TokenRange=18:24
+6	pitera	pitera	NOUN	N	Number=Sing	8	obl	_	TokenRange=25:31
 7	suí	suí	ADP	ADP	AdpType=Post	6	case	_	TokenRange=32:35
-8	yumunhã	yumunhã	VERB	V	VerbForm=Inf	6	parataxis	_	TokenRange=36:43
+8	yumunhã	yumunhã	VERB	V	VerbForm=Inf	0	root	_	TokenRange=36:43
 9	apigawa	apigawa	NOUN	N	Number=Sing	8	obj	_	SpaceAfter=No|TokenRange=44:51
-10	?	?	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=51:52
+10	?	?	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=51:52
 
 # sent_id = Aguiar1898:3:2:30
 # text = ― Tupana Raíra.
@@ -466,7 +465,7 @@
 # text_modernizer = Letícia Farias Nunes
 # text_eng = TODO
 # inputline = ― Tupana Raíra.
-# text_annotator = Letícia Farias Nunes
+# text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
 2	Tupana	tupana	NOUN	N	Number=Sing	3	nmod:poss	_	TokenRange=1:7
 3	Raíra	taíra	NOUN	N	Number=Sing|Rel=Cont	0	root	_	SpaceAfter=No|TokenRange=8:13
@@ -489,6 +488,16 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Espírito Santu umunhã.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	0	punct	_	TokenRange=0:1
+2	Espírito	espírito	_	_	_	0	_	_	TokenRange=2:10
+3-4	Santu	_	_	_	_	_	_	_	TokenRange=11:16
+3	Sa	sa	SCONJ	SCONJR	_	5	mark	_	_
+4	ntu	ntu	ADV	ADV	Clitic=Yes	5	advmod	_	_
+5	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	advcl	_	SpaceAfter=No|TokenRange=17:23
+6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=23:24
 
 # sent_id = Aguiar1898:3:5:33
 # text = ― Mamé taá?
