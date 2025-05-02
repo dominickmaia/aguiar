@@ -441,7 +441,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― Which of the three people became man?
 # inputline = ― Maí/advra waá/rel musapiri pessoa/=n:o|pt:s|pessoa pitera/n suí yumunhã apigawa/n?
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	8	punct	_	TokenRange=-1:0
@@ -463,7 +463,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― The Son of God.
 # inputline = ― Tupana Raíra.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
@@ -479,6 +479,17 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = ― How did the Son of God make himself a man?
+# inputline = ― Maí/advra taá Tupana raíra yumunhã apigawa/n?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	6	punct	_	TokenRange=-1:0
+2	Maí	maí	ADV	ADVRA	AdvType=Man|PronType=Int	6	advmod	_	TokenRange=1:4
+3	taá	taá	PART	CQ	PartType=Int	6	advmod	_	TokenRange=5:8
+4	Tupana	tupana	NOUN	N	Number=Sing	5	nmod:poss	_	TokenRange=9:15
+5	raíra	taíra	NOUN	N	Number=Sing|Rel=Cont	6	nsubj	_	TokenRange=16:21
+6	yumunhã	yumunhã	VERB	V	VerbForm=Inf	0	root	_	TokenRange=22:29
+7	apigawa	apigawa	NOUN	N	Number=Sing	6	obj	_	SpaceAfter=No|TokenRange=30:37
+8	?	?	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=37:38
 
 # sent_id = Aguiar1898:3:4:32
 # text = ― Espírito Santu umunhã.
@@ -488,7 +499,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = — By the work of the Holy Spirit.
 # inputline = ― Espírito Santu umunhã.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	0	punct	_	TokenRange=0:1
