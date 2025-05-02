@@ -518,6 +518,13 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Mamé/advrc taá?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Mamé	mamé	ADV	ADVRC	AdvType=Loc|PronType=Int	0	root	_	TokenRange=1:5
+3	taá	taá	PART	CQ	PartType=Int	2	advmod	_	SpaceAfter=No|TokenRange=6:9
+4	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=9:10
 
 # sent_id = Aguiar1898:3:6:34
 # text = ― Maria Virgem marika upé.
@@ -527,6 +534,16 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Maria Virgem marika upé.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	4	punct	_	TokenRange=-1:0
+2	Maria	maria	PROPN	PROPN	_	4	nmod:poss	_	TokenRange=1:6
+3	Virgem	virgem	_	_	_	4	_	_	TokenRange=7:13
+4	marika	marika	NOUN	N	Number=Sing	0	root	_	TokenRange=14:20
+5	upé	upé	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=21:24
+5	upé	upé	NOUN	N	Number=Sing	4	_	_	SpaceAfter=No|TokenRange=21:24
+6	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=24:25
 
 # sent_id = Aguiar1898:3:7:35
 # text = ― Tupana Manha upitá upaĩ ara upé Virgem?
