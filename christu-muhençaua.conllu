@@ -499,16 +499,16 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = — By the work of the Holy Spirit.
-# inputline = ― Espírito Santu umunhã.
+# text_eng = TODO
+# inputline = ― Espírito/=n:o|pt:s|espírito Santu/=n:o|pt:s|santu umunhã.
 # text_annotator = Antônio Levy Melo Nogueira
-1	―	―	PUNCT	PUNCT	_	0	punct	_	TokenRange=0:1
-2	Espírito	espírito	_	_	_	0	_	_	TokenRange=2:10
-3-4	Santu	_	_	_	_	_	_	_	TokenRange=11:16
-3	Sa	sa	SCONJ	SCONJR	_	5	mark	_	_
+1	―	―	PUNCT	PUNCT	_	5	punct	_	TokenRange=0:1
+2	Espírito	espírito	NOUN	N	Number=Sing	3	nmod:poss	_	Orig=espírito|OrigLang=por|TokenRange=2:10
+3-4	Santu	santu	ADJ	amod	_	_	_	_	TokenRange=11:16
+3	Sa	sa	NOUN	N	Number=Sing	5	nsubj	_	Orig=santu|OrigLang=por
 4	ntu	ntu	ADV	ADV	Clitic=Yes	5	advmod	_	_
-5	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	advcl	_	SpaceAfter=No|TokenRange=17:23
-6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=23:24
+5	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=17:23
+6	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=23:24
 
 # sent_id = Aguiar1898:3:5:33
 # text = ― Mamé taá?
@@ -535,14 +535,13 @@
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
 # text_eng = TODO
-# inputline = ― Maria Virgem marika upé.
+# inputline = ― Maria/=n:o|pt:s|maria Virgem/=n:o|pt:s|virgem marika upé/adp.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	4	punct	_	TokenRange=-1:0
-2	Maria	maria	PROPN	PROPN	_	4	nmod:poss	_	TokenRange=1:6
-3	Virgem	virgem	_	_	_	4	_	_	TokenRange=7:13
+2	Maria	maria	NOUN	N	Number=Sing	3	nmod:poss	_	Orig=maria|OrigLang=por|TokenRange=1:6
+3	Virgem	virgem	NOUN	N	Number=Sing	4	nmod:poss	_	Orig=virgem|OrigLang=por|TokenRange=7:13
 4	marika	marika	NOUN	N	Number=Sing	0	root	_	TokenRange=14:20
 5	upé	upé	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=21:24
-5	upé	upé	NOUN	N	Number=Sing	4	_	_	SpaceAfter=No|TokenRange=21:24
 6	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=24:25
 
 # sent_id = Aguiar1898:3:7:35
@@ -553,6 +552,18 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Tupana Manha upitá upaĩ ara upé/adp Virgem/=n:o|pt:s|virgem?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	4	punct	_	TokenRange=-1:0
+2	Tupana	tupana	NOUN	N	Number=Sing	3	nmod:poss	_	TokenRange=1:7
+3	Manha	manha	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=8:13
+4	upitá	pitá	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=14:19
+5	upaĩ	upaĩ	DET	TOT	PronType=Tot	6	det	_	TokenRange=20:24
+6	ara	ara	NOUN	N	Number=Sing	4	obl	_	TokenRange=25:28
+7	upé	upé	ADP	ADP	AdpType=Post	6	case	_	TokenRange=29:32
+8	Virgem	virgem	NOUN	N	Number=Sing	4	obj	_	Orig=virgem|OrigLang=por|SpaceAfter=No|TokenRange=33:39
+9	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=39:40
 
 # sent_id = Aguiar1898:3:8:36
 # text = ― Upitá.
