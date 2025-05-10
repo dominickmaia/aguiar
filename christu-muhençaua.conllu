@@ -573,6 +573,12 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = ― Stayed.
+# inputline = ― Upitá.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Upitá	pitá	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=1:6
+3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=6:7
 
 # sent_id = Aguiar1898:3:9:37
 # text = ― Maí taá?
@@ -582,6 +588,13 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = ― How?
+# inputline = ― Maí/advra taá?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Maí	maí	ADV	ADVRA	AdvType=Man|PronType=Int	0	root	_	TokenRange=1:4
+3	taá	taá	PART	CQ	PartType=Int	2	advmod	_	SpaceAfter=No|TokenRange=5:8
+4	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=8:9
 
 # sent_id = Aguiar1898:3:10:38
 # text = ― Mèmürarí renuné virgem, mumürari ramé virgem; memürari riri virgem.
