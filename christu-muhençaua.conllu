@@ -990,8 +990,7 @@
 
 # sent_id = Aguiar1898:11:1:75
 # text = Resaisú kurí Tupana ne piá suí, panhẽ maã suí.
-# text_orig = Re-çahiçú curi Tupãna ne pïá çui, upãin mahã çui.
-# text_source = p. 41
+# text_orig = 1°. — Re-çahiçú curi Tupãna ne pïá çui, upãin mahã çui.# text_source = p. 41
 # text_por = Amarás a Deus de todo o teu coração, sobre todas as cousas.
 # title = TUPANA MUNDUSAWA-ITÁ
 # title_orig = TUPANA MUNUÇÁUAITÁ
@@ -1020,7 +1019,7 @@
 
 # sent_id = Aguiar1898:11:2:76
 # text = Teẽ resenúi Tupana rera tenhuntu.
-# text_orig = Tehen re-cenôi Tupana rêra tehente.
+# text_orig = 2°. — Tehen re-cenôi Tupana rêra tehente.
 # text_source = p. 41
 # text_por = Não jurarás o nome de Deus em vão.
 # text_sec = Te resenúi Tupana rera tenhuntu.
@@ -1042,7 +1041,7 @@
 
 # sent_id = Aguiar1898:11:3:77
 # text = Remungaturú kurí mituú, ara santu-itá.
-# text_orig = Re-nungaturù curi mituú, ara santuitá.
+# text_orig = 3°. — Re-nungaturù curi mituú, ara santuitá.
 # text_source = p. 41
 # text_por = Guardarás domingos e dias santos.
 # text_sec = Remungaturú kurí mituú, ara santu-itá.
@@ -1065,7 +1064,7 @@
 
 # sent_id = Aguiar1898:11:4:78
 # text = Repusú kurí ne paya, ne manha.
-# text_orig = Re-puçú curi ne paia, ne manha.
+# text_orig = 4°. — Re-puçú curi ne paia, ne manha.
 # text_source = p. 41
 # text_por = Honrarás teu pai e tua mãe.
 # text_sec = Repusú kurí ne paya, ne manha.
@@ -1078,7 +1077,7 @@
 
 # sent_id = Aguiar1898:11:5:79
 # text = Teẽ reyuká.
-# text_orig = Tehen re-iucá.
+# text_orig = 5°. — Tehen re-iucá.
 # text_source = p. 41
 # text_por = Não matarás.
 # text_orig_transcriber = Davi Sampaio Santos
@@ -1093,7 +1092,7 @@
 
 # sent_id = Aguiar1898:11:6:80
 # text = Teẽ remunhã sikú-puxisawa.
-# text_orig = Tehen re-munhã cecùpuxiçaua.
+# text_orig = 6°. — Tehen re-munhã cecùpuxiçaua.
 # text_source = p. 41
 # text_por = Não cometerás deshonestidades.
 # text_orig_transcriber = Davi Sampaio Santos
@@ -1109,7 +1108,7 @@
 
 # sent_id = Aguiar1898:11:7:81
 # text = Teẽ remuná.
-# text_orig = Tehen re-munan.
+# text_orig = 7°. — Tehen re-munan.
 # text_source = p. 41
 # text_por = Não furtarás.
 # text_orig_transcriber = Davi Sampaio Santos
@@ -1124,7 +1123,7 @@
 
 # sent_id = Aguiar1898:11:8:82
 # text = Teẽ renheẽ teẽnte ne rapixara resé, intí puité yuri.
-# text_orig = Tehen re-hinhin tehente ne rapixara recê, inti puité iuri.
+# text_orig = 8°. — Tehen re-hinhin tehente ne rapixara recê, inti puité iuri.
 # text_source = p. 41
 # text_por = Não levantarás falso contra o teu próximo, nem também mentiras.
 # text_orig_transcriber = Davi Sampaio Santos
@@ -1147,7 +1146,7 @@
 
 # sent_id = Aguiar1898:11:9:83
 # text = Te reyusé ne rapixara rimirikú.
-# text_orig = Tehen re-iucë ne rapixara, rimiricù.
+# text_orig = 9°. — Tehen re-iucë ne rapixara, rimiricù.
 # text_source = p. 41
 # text_por = Não desejarás a mulher do teu próximo.
 # text_orig_transcriber = Davi Sampaio Santos
@@ -1165,7 +1164,7 @@
 
 # sent_id = Aguiar1898:11:10:84
 # text = Te reyusé amú-itá maã.
-# text_orig = Tehen re-íucë amúitá mahã.
+# text_orig = 10°. — Tehen re-íucë amúitá mahã.
 # text_source = p. 41
 # text_por = Não cobiçarás os bens alheios.
 # text_sec = Te reyusé amú-itá maã.
@@ -1196,7 +1195,7 @@
 
 # sent_id = Aguiar1898:12:1:87
 # text = Resenú kurí misa tẽ pawasawa mituú, ara santu ramé.
-# text_orig = Re-cenù curi missa téipauçape mïtuù, ara santu ramé.
+# text_orig = 1°. — Re-cenù curi missa téipauçape mïtuù, ara santu ramé.
 # text_source = p. 43
 # text_por = Ouvirás missa inteira aos domingos e dias santos.
 # title = SANTA IGREJA MUNUSAWA-ITÁ
@@ -1208,7 +1207,7 @@
 
 # sent_id = Aguiar1898:12:2:88
 # text = Reyumuméu kurí, nhũ pu yepé í akayú yawé yawé.
-# text_orig = Re-iumumehun curi, nhúnpu iepé hï acaiû iaué iaué.
+# text_orig = 2°. — Re-iumumehun curi, nhúnpu iepé hï acaiû iaué iaué.
 # text_source = p. 43
 # text_por = Te confessarás, ao menos, uma vez cada ano.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1217,7 +1216,7 @@
 
 # sent_id = Aguiar1898:12:3:89
 # text = Reyuuka-Tupana kurí Paschoa rupí.
-# text_orig = Re-iuúca-Tupana curi Paschoa rupi.
+# text_orig = 3°. — Re-iuúca-Tupana curi Paschoa rupi.
 # text_source = p. 43
 # text_por = Comungarás pela Páscoa.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1226,7 +1225,7 @@
 
 # sent_id = Aguiar1898:12:4:90
 # text = Reyukwakú kurí Santa Igreja umunú ramé.
-# text_orig = Re-iucuacû curi, Santa Igreja u munú ramé.
+# text_orig = 4°. — Re-iucuacû curi, Santa Igreja u munú ramé.
 # text_source = p. 43
 # text_por = Jejuarás, quando manda a Santa Igreja.
 # text_sec = Reyukwakú kurí Santa Igreja umundú ramé.
@@ -1239,7 +1238,7 @@
 
 # sent_id = Aguiar1898:12:5:91
 # text = Remeẽ kurí Tupana-putawa.
-# text_orig = Re-mehen curi Tupana putâua.
+# text_orig = 5°. — Re-mehen curi Tupana putâua.
 # text_source = p. 43
 # text_por = Pagarás os dízimos de Deus.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1248,7 +1247,7 @@
 
 # sent_id = Aguiar1898:13-1:1:92
 # text = Reyupúi kurí yumasisawa-itá.
-# text_orig = Rê-iupùi curi iumacïuaitá.
+# text_orig = 1°. — Rê-iupùi curi iumacïuaitá.
 # text_source = p.45
 # text_por = Darás de comer a quem tem fome.
 # title = MUPIAKATÚSAWA INÉ RAPIXARA RUPÍ (YANÉ RESÉ RUPÍ):
@@ -1260,7 +1259,7 @@
 
 # sent_id = Aguiar1898:13-1:2:93
 # text = Remeẽ kurí i isí waá aintá supé.
-# text_orig = Rê-mehen curi ï ïhïcê uahá aità çupé.
+# text_orig = 2°. — Rê-mehen curi ï ïhïcê uahá aità çupé.
 # text_source = p.45
 # text_por = Darás de beber a quem tem sede.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1269,7 +1268,7 @@
 
 # sent_id = Aguiar1898:13-1:3:94
 # text = Remuamundéu kurí kamixá-ima waá aintá.
-# text_orig = Rê-muámámunê curi camixaïma uahá aitá.
+# text_orig = 3°. — Rê-muámámunê curi camixaïma uahá aitá.
 # text_source = p. 45
 # text_por = Vestirás os que estiverem nús.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1278,7 +1277,7 @@
 
 # sent_id = Aguiar1898:13-1:4:95
 # text = Resikari kurí, repitimú arama aintá, maasiwera-itá uikú kamirika waá yuíri.
-# text_orig = Rê-cicari curi, ipïtümú arama, maácïuêraita, u-icù camirica uahá ïuïri.
+# text_orig = 4°. — Rê-cicari curi, ipïtümú arama, maácïuêraita, u-icù camirica uahá ïuïri.
 # text_source = p. 45
 # text_por = Visitarás, para os aliviar, os enfermos e os que fazem oprimidos.
 # text_sec = Resikari kurí, repitimú arama aintá, maasiwera-itá uikú kamirika waá yuíri.
@@ -1291,7 +1290,7 @@
 
 # sent_id = Aguiar1898:13-1:5:96
 # text = Remeẽ kurí renawa ne ruka upé usasawa aintá supé.
-# text_orig = Rê-mehen curi renáua ne ruca upé u-çaçau aitá çupé.
+# text_orig = 5°. — Rê-mehen curi renáua ne ruca upé u-çaçau aitá çupé.
 # text_source = p. 45
 # text_por = Darás pousada em tua casa aos peregrinos.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1300,7 +1299,7 @@
 
 # sent_id = Aguiar1898:13-1:6:97
 # text = Remusemu kurí ne yawé waá miasuasawa suí.
-# text_orig = Rê-mucema curi nê-iaué uahá miaçúaçaua xii.
+# text_orig = 6°. — Rê-mucema curi nê-iaué uahá miaçúaçaua xii.
 # text_source = p. 45
 # text_por = Remirás os teus semelhantes do cativeiro.
 # text_sec = Remusemu kurí ne yawé waá miasuasawa suí.
@@ -1313,7 +1312,7 @@
 
 # sent_id = Aguiar1898:13-1:7:98
 # text = Reyutima kurí umanú waá-itá.
-# text_orig = Re-iütïma curi u-manuaitá.
+# text_orig = 7°. — Re-iütïma curi u-manuaitá.
 # text_source = p. 45
 # text_por = Darás sepultura aos mortos.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1322,7 +1321,7 @@
 
 # sent_id = Aguiar1898:13-2:1:99
 # text = Remungitá kurí katú arama.
-# text_orig = Re-munguetá curi catú arama.
+# text_orig = 1°. — Re-munguetá curi catú arama.
 # text_source = p. 45
 # text_por = Darás bom conselho.
 # title = MUPIAKATÚSAWA INÉ RAPIXARA RUPÍ (YANÉ ANGA RUPÍ):
@@ -1334,7 +1333,7 @@
 
 # sent_id = Aguiar1898:13-2:2:100
 # text = Re-mué kurí yakwaíma-itá.
-# text_orig = Re-muhen curi iacúaïmaitá.
+# text_orig = 2°. — Re-muhen curi iacúaïmaitá.
 # text_source = p. 47
 # text_por = Ensinarás aos ignorantes.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1343,7 +1342,7 @@
 
 # sent_id = Aguiar1898:13-2:3:101
 # text = Remusurí kurí sasiara(sa)wa-itá.
-# text_orig = Re-muçurï curi çacïárauaitá.
+# text_orig = 3°. — Re-muçurï curi çacïárauaitá.
 # text_source = p. 47
 # text_por = Consolarás os tristes.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1352,7 +1351,7 @@
 
 # sent_id = Aguiar1898:13-2:4:102
 # text = Renupá kurí ne mira, uyawí ramé.
-# text_orig = Re-nupá curi ne mira, uiuauhï ramé.
+# text_orig = 4°. — Re-nupá curi ne mira, uiuauhï ramé.
 # text_source = p. 47
 # text_por = Castigarás os teus, quando errarem.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1361,7 +1360,7 @@
 
 # sent_id = Aguiar1898:13-2:5:103
 # text = Reperduari kurí maã amu-itá umunhã iné arama. 
-# text_orig = Re-perduari curi mahã amuitá u-munhan iné arama.
+# text_orig = 5°. — Re-perduari curi mahã amuitá u-munhan iné arama.
 # text_source = p. 47
 # text_por = Perdoarás as ofensas que os outros te fizerem.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1370,7 +1369,7 @@
 
 # sent_id = Aguiar1898:13-2:6:104
 # text = Repitasuka kurí, katusawa rupí, yané rapixara uyawísawa.
-# text_orig = Re-pïtaçuca curi, catuçáua rupi, ianê rapixàra uiauhïçáua.
+# text_orig = 6°. — Re-pïtaçuca curi, catuçáua rupi, ianê rapixàra uiauhïçáua.
 # text_source = p. 47
 # text_por = Sofrerás com paciência as fraquezas do teu próximo.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1379,7 +1378,7 @@
 
 # sent_id = Aguiar1898:13-2:7:105
 # text = Reyururé kurí Tupana supé sikwé-itá umanú-itá rupí.
-# text_orig = Re-iururé curi Tupana çupé cequèaitá u-manùaitá rupi.
+# text_orig = 7°. — Re-iururé curi Tupana çupé cequèaitá u-manùaitá rupi.
 # text_source = p. 47
 # text_por = Rogarás a Deus pelos vivos e defuntos.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1388,7 +1387,7 @@
 
 # sent_id = Aguiar1898:14:1:106
 # text = Yumuwarixí.
-# text_orig = Iu-muíatéçáua.
+# text_orig = 1°. — Iu-muíatéçáua.
 # text_source = p. 49
 # text_por = Soberba.
 # title = ANGAIPAWA-ITÁ IPÍ
@@ -1404,7 +1403,7 @@
 
 # sent_id = Aguiar1898:14:2:107
 # text = Sakatiimasawa.
-# text_orig = Çacatêïmaçaua.
+# text_orig = 2°. — Çacatêïmaçaua.
 # text_source = p. 49
 # text_por = Avaresa.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1413,7 +1412,7 @@
 
 # sent_id = Aguiar1898:14:3:108
 # text = Siku-puxisawa.
-# text_orig = Cecúpuxiçáua.
+# text_orig = 3°. — Cecúpuxiçáua.
 # text_source = p. 49
 # text_por = Impureza.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1422,7 +1421,7 @@
 
 # sent_id = Aguiar1898:14:4:109
 # text = Piaiwasawa.
-# text_orig = Pïáíuaçaua.
+# text_orig = 4°. — Pïáíuaçaua.
 # text_source = p. 49
 # text_por = Ira.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1431,7 +1430,7 @@
 
 # sent_id = Aguiar1898:14:5:110
 # text = Tiarasawa.
-# text_orig = Tïáraçaua.
+# text_orig = 5°. — Tïáraçaua.
 # text_source = p. 49
 # text_por = Gula.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1440,7 +1439,7 @@
 
 # sent_id = Aguiar1898:14:6:111
 # text = Muasisawa.
-# text_orig = Muacïçaua.
+# text_orig = 6°. — Muacïçaua.
 # text_source = p. 49
 # text_por = Inveja.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1449,7 +1448,7 @@
 
 # sent_id = Aguiar1898:14:7:112
 # text = Atiimasawa.
-# text_orig = Iatêïmaçaua.
+# text_orig = 7°. — Iatêïmaçaua.
 # text_source = p. 49
 # text_por = Preguiça.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1458,7 +1457,7 @@
 
 # sent_id = Aguiar1898:15:1:113
 # text = Ruyarisawa.
-# text_orig = Ruíáriçaua.
+# text_orig = 1°. — Ruíáriçaua.
 # text_source = p. 51
 # text_por = Fé.
 # title = SIKÚ-KATÚ-ITÁ TUPANAWARA
@@ -1470,7 +1469,7 @@
 
 # sent_id = Aguiar1898:15:2:114
 # text = Sarusawa.
-# text_orig = Çarùçaua.
+# text_orig = 2°. — Çarùçaua.
 # text_source = p. 51
 # text_por = Esperança.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1479,7 +1478,7 @@
 
 # sent_id = Aguiar1898:15:3:115
 # text = Caridadi.
-# text_orig = Caridadi.
+# text_orig = 3°. — Caridadi.
 # text_source = p. 51
 # text_por = Caridade.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1515,7 +1514,7 @@
 
 # sent_id = Aguiar1898:16:1:119
 # text = Serukasawa.
-# text_orig = Cerucaçáua.
+# text_orig = 1°. — Cerucaçáua.
 # text_source = p. 53
 # text_por = Batismo.
 # title = IGREJA SACRAMENTUITA
@@ -1527,7 +1526,7 @@
 
 # sent_id = Aguiar1898:16:2:120
 # text = Santasantasawa.
-# text_orig = Çantá-çantáçaua.
+# text_orig = 2°. — Çantá-çantáçaua.
 # text_source = p. 53
 # text_por = Confirmação.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1536,7 +1535,7 @@
 
 # sent_id = Aguiar1898:16:3:121
 # text = Yuukasawa-Tupana.
-# text_orig = Uucaçaua-Tupana.
+# text_orig = 3°. — Uucaçaua-Tupana.
 # text_source = p. 53
 # text_por = Comunhão.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1545,7 +1544,7 @@
 
 # sent_id = Aguiar1898:16:4:122
 # text = Yumumbéusawa.
-# text_orig = Iumumêhunçaua.
+# text_orig = 4°. — Iumumêhunçaua.
 # text_source = p. 53
 # text_por = Confissão.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1554,7 +1553,7 @@
 
 # sent_id = Aguiar1898:16:5:123
 # text = Yandí manú katú arama.
-# text_orig = Iandi manú catú arama.
+# text_orig = 5°. — Iandi manú catú arama.
 # text_source = p. 53
 # text_por = Extrema-Unção.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1563,7 +1562,7 @@
 
 # sent_id = Aguiar1898:16:6:124
 # text = Paímunhãsawa.
-# text_orig = Pahimunhançaua.
+# text_orig = 6°. — Pahimunhançaua.
 # text_source = p. 53
 # text_por = Ordem.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
@@ -1572,7 +1571,7 @@
 
 # sent_id = Aguiar1898:16:7:125
 # text = Menasawa.
-# text_orig = Menaçaua.
+# text_orig = 7°. — Menaçaua.
 # text_source = p. 53
 # text_por = Matrimônio.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
