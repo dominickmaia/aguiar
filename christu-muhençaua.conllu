@@ -1115,6 +1115,12 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Teẽ remuná.
+# text_annotator = Letícia Farias Nunes
+1	Teẽ	teẽ	PART	NEGI	Modality=Proh|PartType=Mod|Polarity=Neg	2	advmod	_	TokenRange=0:3
+2	remuná	muná	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=4:10
+3	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=10:11
 
 # sent_id = Aguiar1898:11:8:82
 # text = Teẽ renheẽ teẽnte ne rapixara resé, intí puité yuri.
@@ -1124,6 +1130,20 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Teẽ renheẽ teẽnte ne rapixara resé/adp, intí puité yuri.
+# text_annotator = Letícia Farias Nunes
+1	Teẽ	teẽ	PART	NEGI	Modality=Proh|PartType=Mod|Polarity=Neg	2	advmod	_	TokenRange=0:3
+2	renheẽ	nheẽ	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=4:10
+3	teẽnte	teẽnte	ADV	ADVA	AdvType=Man	2	advmod	_	TokenRange=11:17
+4	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=18:20
+5	rapixara	apixara	NOUN	N	Number=Sing|Rel=Cont	2	obl	_	TokenRange=21:29
+6	resé	resé	ADP	ADP	AdpType=Post|Rel=Cont	5	case	_	SpaceAfter=No|TokenRange=30:34
+7	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=34:35
+8	intí	intí	PART	NEG	PartType=Neg|Polarity=Neg	10	advmod	_	TokenRange=36:40
+9	puité	puité	NOUN	N	Number=Sing	10	nsubj	_	TokenRange=41:46
+10	yuri	yuri	VERB	V	Mood=Imp|Person=2|VerbForm=Fin	2	parataxis	_	SpaceAfter=No|TokenRange=47:51
+11	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=51:52
 
 # sent_id = Aguiar1898:11:9:83
 # text = Te reyusé ne rapixara rimirikú.
@@ -1133,6 +1153,15 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = Te reyusé ne rapixara rimirikú.
+# text_annotator = Letícia Farias Nunes
+1	Te	te	PART	NEGI	Modality=Proh|PartType=Mod|Polarity=Neg	2	advmod	_	TokenRange=0:2
+2	reyusé	yusé	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=3:9
+3	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=10:12
+4	rapixara	apixara	NOUN	N	Number=Sing|Rel=Cont	5	nmod:poss	_	TokenRange=13:21
+5	rimirikú	simirikú	NOUN	N	Number=Sing|Rel=Cont	2	obj	_	SpaceAfter=No|TokenRange=22:30
+6	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=30:31
 
 # sent_id = Aguiar1898:11:10:84
 # text = Te reyusé amú-itá maã.
