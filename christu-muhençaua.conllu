@@ -744,6 +744,13 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Kurusá upé/adp.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Kurusá	kurusá	NOUN	N	Number=Sing	0	root	_	TokenRange=1:7
+3	upé	upé	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=8:11
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=11:12
 
 # sent_id = Aguiar1898:4:3:47
 # text = ― Awá rupí?
@@ -753,6 +760,13 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Awá/int rupí?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Awá	awá	PRON	INT	PronType=Int	0	root	_	TokenRange=1:4
+3	rupí	rupí	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=5:9
+4	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=9:10
 
 # sent_id = Aguiar1898:4:4:48
 # text = ― Yané rupí.
