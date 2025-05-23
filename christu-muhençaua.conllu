@@ -691,13 +691,30 @@
 7	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=26:27
 
 # sent_id = Aguiar1898:3:16:44
-# text = ― Incarnaçam, mysteriu; amú rupí, Tupana Raíra yané rukera irumu.
+# text = ― Incarnaçam, mysteriu; amú rupí, Tupana Raíra yané rukwera irumu.
 # text_orig = ― Incarnaçam, mysteriu; amú rupi, Tupana-Rahïra ianê ruquéra irumo.
 # text_source = p. 29
-# text_por = ― Mistério da Incarnação; n'outros termos, o Filho de Deus com a nossa carne.
+# text_por = ― Mistério da Encarnação; noutros termos, o Filho de Deus com a nossa carne.
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Incarnaçam/=n:o|pt:s|encarnação, mysteriu/=n:o|pt:s|mistério; amú/ind rupí, Tupana Raíra yané/pron2 rukwera irumu/adp.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Incarnaçam	incarnaçam	NOUN	N	Number=Sing	0	root	_	Orig=encarnação|OrigLang=por|SpaceAfter=No|TokenRange=1:11
+3	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=11:12
+4	mysteriu	mysteriu	NOUN	N	Number=Sing	2	parataxis	_	Orig=mistério|OrigLang=por|SpaceAfter=No|TokenRange=13:21
+5	;	;	PUNCT	PUNCT	_	2	punct	_	TokenRange=21:22
+6	amú	amú	DET	IND	Number=Sing|PronType=Ind	7	det	_	TokenRange=23:26
+7	rupí	rupí	ADP	ADP	AdpType=Post	12	case	_	SpaceAfter=No|TokenRange=27:31
+8	,	,	PUNCT	PUNCT	_	12	punct	_	TokenRange=31:32
+9	Tupana	tupana	NOUN	N	Number=Sing	10	nmod:poss	_	TokenRange=33:39
+10	Raíra	taíra	NOUN	N	Number=Sing|Rel=Cont	12	parataxis	_	TokenRange=40:45
+11	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=46:50
+12	rukwera	sukwera	NOUN	N	Number=Sing|Rel=Cont	0	root	_	TokenRange=51:58
+13	irumu	irumu	ADP	ADP	AdpType=Post	12	case	_	SpaceAfter=No|TokenRange=59:64
+14	.	.	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No|TokenRange=64:65
 
 # sent_id = Aguiar1898:4:1:45
 # text = ― Mamé taá Jesu Christu umanú?
