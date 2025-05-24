@@ -721,7 +721,7 @@
 # text_orig = ― Mamè-tahà Jesu-Christu umanú?
 # text_source = p. 31
 # text_por = ― Onde Jesus Christo morreu?
-# title = MAÍ JESU CHRISTU UPISIRÚ YANÉ 
+# title = MAÍ JESU CHRISTU UPISIRÚ YANÉ
 # title_orig = MAHI JESU-CHRISTU U-PÍCÍRÜIANÊ
 # title_por = COMO JESUS CHRISTO NOS REMIU
 # text_sec = ― Mamé taá Jesu Christu umanú?
@@ -731,6 +731,16 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = ― Where did Jesus Christ die?
+# inputline = ― Mamé/advrc taá Jesu/=n:o|pt:s|jesus Christu/=n:o|pt:s|cristo umanú?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	6	punct	_	TokenRange=-1:0
+2	Mamé	mamé	ADV	ADVRC	AdvType=Loc|PronType=Int	6	advmod	_	TokenRange=1:5
+3	taá	taá	PART	CQ	PartType=Int	6	advmod	_	TokenRange=6:9
+4	Jesu	jesu	NOUN	N	Number=Sing	5	flat:name	_	Orig=jesus|OrigLang=por|TokenRange=10:14
+5	Christu	christu	NOUN	N	Number=Sing	6	nsubj	_	Orig=cristo|OrigLang=por|TokenRange=15:22
+6	umanú	manú	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=23:28
+7	?	?	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=28:29
 
 # sent_id = Aguiar1898:4:2:46
 # text = ― Kurusá upé.
