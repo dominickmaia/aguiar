@@ -670,6 +670,17 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Jesu/=n:o|pt:s|jesus Christu/=n:o|pt:s|cristo Tupana reté/a, Apigawa/n reté/a.
+# text_annotator = Antônio Levy Melo Nogueira
+1	Jesu	jesu	NOUN	N	Number=Sing	2	nmod:poss	_	Orig=jesus|OrigLang=por|TokenRange=0:4
+2	Christu	christu	NOUN	N	Number=Sing	3	nmod:poss	_	Orig=cristo|OrigLang=por|TokenRange=5:12
+3	Tupana	tupana	NOUN	N	Number=Sing	6	nmod:poss	_	TokenRange=13:19
+4	reté	reté	ADJ	A	_	3	amod	_	SpaceAfter=No|TokenRange=20:24
+5	,	,	PUNCT	PUNCT	_	7	punct	_	TokenRange=24:25
+6	Apigawa	apigawa	NOUN	N	Number=Sing	7	nsubj	_	TokenRange=26:33
+7	reté	reté	ADJ	A	_	0	root	_	SpaceAfter=No|TokenRange=34:38
+8	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=38:39
 
 # sent_id = Aguiar1898:3:15:43
 # text = ― Maã taá rera kwá mysteriu?
@@ -802,6 +813,13 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Marama taá?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Marama	marama	ADV	ADVRU	AdvType=Cau|PronType=Int	0	root	_	TokenRange=1:7
+3	taá	taá	PART	CQ	PartType=Int	2	advmod	_	SpaceAfter=No|TokenRange=8:11
+4	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=11:12
 
 # sent_id = Aguiar1898:4:6:50
 # text = ― Yané pisirú, salvari arama.
@@ -811,6 +829,16 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Yané/pron pisirú, salvari arama/sconj.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
+2	Yané	yané	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs|Style=Arch	3	nsubj	_	ModernForm=Yandé|ModernLemma=yandé|TokenRange=1:5
+3	pisirú	pisirú	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=6:12
+4	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=12:13
+5	salvari	salvari	_	_	_	0	_	_	TokenRange=14:21
+6	arama	arama	SCONJ	SCONJ	_	3	mark	_	SpaceAfter=No|TokenRange=22:27
+7	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=27:28
 
 # sent_id = Aguiar1898:5:1:51
 # text = ― Marama taá Tupana Yané Yara umunhã yané?
@@ -823,6 +851,18 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Marama taá Tupana Yané/pron2 Yara/n umunhã yané/pron?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	7	punct	_	TokenRange=-1:0
+2	Marama	marama	ADV	ADVRU	AdvType=Cau|PronType=Int	7	advmod	_	TokenRange=1:7
+3	taá	taá	PART	CQ	PartType=Int	7	advmod	_	TokenRange=8:11
+4	Tupana	tupana	NOUN	N	Number=Sing	7	nsubj	_	TokenRange=12:18
+5	Yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=19:23
+6	Yara	yara	NOUN	N	Number=Sing	7	nsubj	_	TokenRange=24:28
+7	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=29:35
+8	yané	yané	PRON	PRON	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs|Style=Arch	7	obj	_	ModernForm=yandé|ModernLemma=yandé|SpaceAfter=No|TokenRange=36:40
+9	?	?	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=40:41
 
 # sent_id = Aguiar1898:5:2:52
 # text = ― Yakwáu arama aé, yasaisú arama aé, yamunhã arama simutara iké iwí-pe, ara yawé kurí.
