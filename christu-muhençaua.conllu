@@ -881,6 +881,13 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Yamanú rirí/sconj?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
+2	Yamanú	manú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=1:7
+3	rirí	rirí	SCONJ	SCONJ	_	2	mark	_	SpaceAfter=No|TokenRange=8:12
+4	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=12:13
 
 # sent_id = Aguiar1898:5:4:54
 # text = ― Yapituú reté arama, yané ruri arama upaĩ ara iwaka upé, Tupana Yané Yara ruakí.
