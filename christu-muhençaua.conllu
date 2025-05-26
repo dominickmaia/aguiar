@@ -915,6 +915,24 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Yawé/adva tẽ/foc. Yané/pron2 rikwé/n iwí-pe; yané/pron2 rikwé/n yamanú rirí/sconj.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=0:1
+2	Yawé	yawé	ADV	ADVA	AdvType=Man	0	root	_	TokenRange=2:6
+3	tẽ	tẽ	PART	FOC	Foc=Yes|PartType=Emp	2	advmod	_	SpaceAfter=No|TokenRange=7:9
+4	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=9:10
+5	Yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=10:14
+6	rikwé	sikwé	NOUN	N	Number=Sing|Rel=Cont	12	nsubj	_	TokenRange=15:20
+7-8	iwí-pe	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=21:27
+7	iwí	iwí	NOUN	N	Number=Sing	12	obl	_	_
+8	pe	upé	ADP	ADP	AdpType=Post|Clitic=Yes	7	case	_	_
+9	;	;	PUNCT	PUNCT	_	12	punct	_	TokenRange=27:28
+10	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=29:33
+11	rikwé	sikwé	NOUN	N	Number=Sing|Rel=Cont	12	nsubj	_	TokenRange=34:39
+12	yamanú	manú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=40:46
+13	rirí	rirí	SCONJ	SCONJ	_	12	mark	_	SpaceAfter=No|TokenRange=47:51
+14	.	.	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No|TokenRange=51:52
 
 # sent_id = Aguiar1898:5:7:57
 # text = ― Yamanú ramé, maã kití yasú?
