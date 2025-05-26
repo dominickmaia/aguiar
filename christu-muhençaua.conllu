@@ -946,6 +946,17 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Yamanú ramé/sconj, maã/cond kití yasú?
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	7	punct	_	TokenRange=-1:0
+2	Yamanú	manú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	7	advcl	_	TokenRange=1:7
+3	ramé	ramé	SCONJ	SCONJ	_	2	mark	_	SpaceAfter=No|TokenRange=8:12
+4	,	,	PUNCT	PUNCT	_	2	punct	_	TokenRange=12:13
+5	maã	maã	PART	COND	Modality=Cond|PartType=Mod	2	advmod	_	TokenRange=14:17
+6	kití	kití	ADP	ADP	AdpType=Post	7	case	_	TokenRange=18:22
+7	yasú	sú	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=23:27
+8	?	?	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=27:28
 
 # sent_id = Aguiar1898:5:8:58
 # text = ― Mira katú iwaka kití, mira puxi yurupariratá kití.
