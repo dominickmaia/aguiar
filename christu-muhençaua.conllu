@@ -1603,7 +1603,6 @@
 1	Piaiwasawa	piaiwasawa	NOUN	N	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=0:10
 2	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=10:11
 
-Yauti.parseExampleAguiar(s,'let')
 # sent_id = Aguiar1898:14:5:110
 # text = Tiarasawa.
 # text_orig = Tïáraçaua.
@@ -1618,7 +1617,6 @@ Yauti.parseExampleAguiar(s,'let')
 1	Tiarasawa	tiarasawa	NOUN	N	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=0:9
 2	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=9:10
 
-Yauti.parseExampleAguiar(s,'let')
 # sent_id = Aguiar1898:14:6:111
 # text = Muasisawa.
 # text_orig = Muacïçaua.
@@ -1982,9 +1980,20 @@ Yauti.parseExampleAguiar(s,'let')
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Yupirungawa ramé/adp Tupana umunhã iwaka iwí yuíri/cconj.
+# text_annotator = Letícia Farias Nunes
+1	Yupirungawa	yupirungawa	NOUN	N	Number=Sing	4	obl	_	TokenRange=0:11
+2	ramé	ramé	ADP	ADP	AdpType=Post	1	case	_	TokenRange=12:16
+3	Tupana	tupana	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=17:23
+4	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=24:30
+5	iwaka	iwaka	NOUN	N	Number=Sing	6	nmod:poss	_	TokenRange=31:36
+6	iwí	iwí	NOUN	N	Number=Sing	4	obj	_	TokenRange=37:40
+7	yuíri	yuíri	CCONJ	CCONJ	_	4	cc	_	SpaceAfter=No|TokenRange=41:46
+8	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=46:47
 
 # sent_id = Aguiar1898:21-1:2:146
-# text = Iwí tipáu, ti rẽ urikú umaã maã, pituna páu upaĩ rupí, Tupana peyusawa [iu-reracô ií-itá árupi].
+# text = Iwí tipáu, ti rẽ urikú umaã maã/pron, pituna páu upaĩ rupí, Tupana peyusawa [iu-reracô ií-itá árupi].
 # text_orig = Ïuhi 'ti-pau, 'tirain u-ricú mahan-mahan, pïtuna-pau u-pãin rupi, Tupana pêiuçáua iu-reracô ï-aïtá arpe.
 # text_source = p. 63
 # text_por = A terra estava vazia, ainda não tinha cousa alguma, em toda a parte as trevas; o espírito de Deus era levado sobre as águas.
@@ -2000,6 +2009,19 @@ Yauti.parseExampleAguiar(s,'let')
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Unheẽ Tupana: — Yumunhã kandéa; kandéa yumunhã.
+# text_annotator = Letícia Farias Nunes
+1	Unheẽ	nheẽ	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=0:5
+2	Tupana	tupana	NOUN	N	Number=Sing	1	obj	_	SpaceAfter=No|TokenRange=6:12
+3	:	:	PUNCT	PUNCT	_	5	punct	_	TokenRange=12:13
+4	—	—	PUNCT	PUNCT	_	5	punct	_	TokenRange=13:14
+5	Yumunhã	yumunhã	VERB	V	VerbForm=Inf	1	parataxis	_	TokenRange=15:22
+6	kandéa	kandéa	NOUN	N	Number=Sing	5	obj	_	SpaceAfter=No|TokenRange=23:29
+7	;	;	PUNCT	PUNCT	_	9	punct	_	TokenRange=29:30
+8	kandéa	kandéa	NOUN	N	Number=Sing	9	nsubj	_	TokenRange=31:37
+9	yumunhã	yumunhã	VERB	V	VerbForm=Inf	5	parataxis	_	SpaceAfter=No|TokenRange=38:45
+10	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=45:46
 
 # sent_id = Aguiar1898:21-1:4:148
 # text = Tupana uxipiá kandéa katú waá: umuĩ kandéa pituna suí.
@@ -2009,15 +2031,46 @@ Yauti.parseExampleAguiar(s,'let')
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Tupana uxipiá kandéa katú/adj waá/pron: umuĩ kandéa pituna suí/adp.
+# text_annotator = Letícia Farias Nunes
+1	Tupana	tupana	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:6
+2	uxipiá	xipiá	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=7:13
+3	kandéa	kandéa	NOUN	N	Number=Sing	2	obj	_	TokenRange=14:20
+4	katú	katú	ADJ	A	_	3	amod	_	TokenRange=21:25
+5	waá	waá	PRON	REL	Number=Sing|PronType=Rel	4	nsubj	_	SpaceAfter=No|TokenRange=26:29
+6	:	:	PUNCT	PUNCT	_	7	punct	_	TokenRange=29:30
+7	umuĩ	muĩ	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	4	parataxis	_	TokenRange=31:35
+8	kandéa	kandéa	NOUN	N	Number=Sing	7	obj	_	TokenRange=36:42
+9	pituna	pituna	NOUN	N	Number=Sing	7	obl	_	TokenRange=43:49
+10	suí	suí	ADP	ADP	AdpType=Post	9	case	_	SpaceAfter=No|TokenRange=50:53
+11	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=53:54
 
 # sent_id = Aguiar1898:21-1:5:149
 # text = Tupana umusera kandéa supé ara, amú supé pituna.
 # text_orig = Tupana u-mucera candêa çupè ara, amú çupé pïtuna.
 # text_source = p. 63
+# text_sec = Tupana umusera kandéa supé ara, amú supé pituna.
+# text_por_sec = Deus chamou à luz dia, ao outro noite.
+# text_sec_source = Avila (2021)
+# text_por_sec_source = Avila (2021)
 # text_por = Deus chamou a luz dia e as trevas noite.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Tupana umusera kandéa supé ara, amú/det supé pituna.
+# text_annotator = Letícia Farias Nunes
+1	Tupana	tupana	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:6
+2	umusera	musera	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=7:14
+3	kandéa	kandéa	NOUN	N	Number=Sing	2	iobj	_	TokenRange=15:21
+4	supé	supé	ADP	ADP	AdpType=Post	3	case	_	TokenRange=22:26
+5	ara	ara	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=27:30
+6	,	,	PUNCT	PUNCT	_	2	punct	_	TokenRange=30:31
+7	amú	amú	DET	IND	Number=Sing|PronType=Ind	9	det	_	TokenRange=32:35
+8	supé	supé	ADP	ADP	AdpType=Post	7	case	_	TokenRange=36:40
+9	pituna	pituna	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=41:47
+10	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=47:48
 
 # sent_id = Aguiar1898:21-1:6:150
 # text = Karuka kuẽma yuíri suí yumunhã yepé.
@@ -2027,6 +2080,16 @@ Yauti.parseExampleAguiar(s,'let')
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Karuka kuẽma/noun yuíri/cconj suí/adp yumunhã yepé/num.
+# text_annotator = Letícia Farias Nunes
+1	Karuka	karuka	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:6
+2	kuẽma	kuẽma	NOUN	N	Number=Sing	5	obl	_	TokenRange=7:12
+3	yuíri	yuíri	CCONJ	CCONJ	_	2	cc	_	TokenRange=13:18
+4	suí	suí	ADP	ADP	AdpType=Post	5	case	_	TokenRange=19:22
+5	yumunhã	yumunhã	VERB	V	VerbForm=Inf	0	root	_	TokenRange=23:30
+6	yepé	yepé	NUM	CARD	NumType=Card	5	nummod	_	SpaceAfter=No|TokenRange=31:35
+7	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=35:36
 
 # sent_id = Aguiar1898:21-2:1:151
 # text = Tupana unheẽ yuíri: — Yumunhã santasawa ií-itá pitérupi; umuí ií-itá [ikiti] amú-itá suí.
@@ -2050,7 +2113,7 @@ Yauti.parseExampleAguiar(s,'let')
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-2:3:153
-# text = Tupana umusera santasawa supé iwaka, puranga yaxipiá waá.
+# text = Tupana umusera santasawa supé iwaka, puranga suikira yaxipiá waá.
 # text_orig = Tupana u-mucêra çantaçáua çupè iuáca, puranga çukira iá xipiá uahá.
 # text_source = p. 65
 # text_por = Deus chamou o firmamento céu, o belo azul que nós vemos.
@@ -2061,6 +2124,20 @@ Yauti.parseExampleAguiar(s,'let')
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = Tupana umusera santasawa supé iwaka, puranga/adj suikira yaxipiá waá/pron.
+# text_annotator = Letícia Farias Nunes
+1	Tupana	tupana	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:6
+2	umusera	musera	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=7:14
+3	santasawa	santasawa	NOUN	N	Number=Sing	2	iobj	_	TokenRange=15:24
+4	supé	supé	ADP	ADP	AdpType=Post	3	case	_	TokenRange=25:29
+5	iwaka	iwaka	NOUN	N	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=30:35
+6	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=35:36
+7	puranga	puranga	ADJ	A	_	8	_	_	TokenRange=37:44
+8	suikira	suikira	NOUN	N	Number=Sing	9	nsubj	_	TokenRange=45:52
+9	yaxipiá	xipiá	VERB	V	Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	2	advcl	_	TokenRange=53:60
+10	waá	waá	PRON	REL	Number=Sing|PronType=Rel	9	nsubj	_	SpaceAfter=No|TokenRange=61:64
+11	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=64:65
 
 # sent_id = Aguiar1898:21-2:4:154
 # text = Karuka kuẽma yuíri suí yumunhã ara mukũi,
