@@ -2336,6 +2336,17 @@
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Karuka kuẽma/n yuíri/cconj suí/adp yumunhã ara irundí.
+# text_annotator = Letícia Farias Nunes
+1	Karuka	karuka	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:6
+2	kuẽma	kuẽma	NOUN	N	Number=Sing	0	obl	_	TokenRange=7:12
+3	yuíri	yuíri	CCONJ	CCONJ	_	5	cc	_	TokenRange=13:18
+4	suí	suí	ADP	ADP	AdpType=Post	2	case	_	TokenRange=19:22
+5	yumunhã	yumunhã	VERB	V	VerbForm=Inf	0	conj	_	TokenRange=23:30
+6	ara	ara	NOUN	N	Number=Sing	5	obj	_	TokenRange=31:34
+7	irundí	irundí	NUM	CARD	NumType=Card	6	nummod	_	SpaceAfter=No|TokenRange=35:41
+8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=41:42
 
 # sent_id = Aguiar1898:21-5:1:168
 # text = Tupana unheẽ yuíri: ― Aikwé i suiwara pira-itá ií upé, wira-itá wewé waá, iwí árupi, iwaka kantasawa wírupi.
@@ -2388,7 +2399,7 @@
 # inputline = Karuka kuẽma/noun yuíri/cconj suí yumunhã ara pú.
 # text_annotator = Letícia Farias Nunes
 1	Karuka	karuka	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:6
-2	kuẽma	kuẽma	NOUN	N	Number=Sing	1	obl	_	TokenRange=7:12
+2	kuẽma	kuẽma	NOUN	N	Number=Sing	5	obl	_	TokenRange=7:12
 3	yuíri	yuíri	CCONJ	CCONJ	_	1	cc	_	TokenRange=13:18
 4	suí	suí	ADP	ADP	AdpType=Post	5	case	_	TokenRange=19:22
 5	yumunhã	yumunhã	VERB	V	VerbForm=Inf	0	root	_	TokenRange=23:30
@@ -2470,6 +2481,18 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Tupana uxipiá upaĩ maã/ind umunhã waá/rel katú/a reté/advs.
+# text_annotator = Letícia Farias Nunes
+1	Tupana	tupana	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:6
+2	uxipiá	xipiá	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=7:13
+3	upaĩ	upaĩ	DET	TOT	PronType=Tot	1	det	_	TokenRange=14:18
+4	maã	maã	DET	IND	PronType=Ind	1	det	_	TokenRange=19:22
+5	umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	1	acl:relcl	_	TokenRange=23:29
+6	waá	waá	PRON	REL	Number=Sing|PronType=Rel	5	nsubj	_	TokenRange=30:33
+7	katú	katú	ADJ	A	_	2	amod	_	TokenRange=34:38
+8	reté	reté	ADV	ADVS	AdvType=Deg	5	advmod	_	SpaceAfter=No|TokenRange=39:43
+9	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=43:44
 
 # sent_id = Aguiar1898:21-6:9:181
 # text = Karuka kuẽma yuíri suí yumunhã ara pú-yepé.
@@ -2479,6 +2502,17 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Karuka kuẽma/n yuíri/cconj suí/adp yumunhã ara pú-yepé.
+# text_annotator = Letícia Farias Nunes
+1	Karuka	karuka	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:6
+2	kuẽma	kuẽma	NOUN	N	Number=Sing	5	obl	_	TokenRange=7:12
+3	yuíri	yuíri	CCONJ	CCONJ	_	2	cc	_	TokenRange=13:18
+4	suí	suí	ADP	ADP	AdpType=Post	5	case	_	TokenRange=19:22
+5	yumunhã	yumunhã	VERB	V	VerbForm=Inf	0	conj	_	TokenRange=23:30
+6	ara	ara	NOUN	N	Number=Sing	5	obj	_	TokenRange=31:34
+7	pú-yepé	pú-yepé	NUM	CARD	NumType=Card	6	nummod	_	SpaceAfter=No|TokenRange=35:42
+8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=42:43
 
 # sent_id = Aguiar1898:21-7:1:182
 # text = Kwá yawé yupawa ana iwaka iwí yuíri munhãsawa, i purangawa-itá irumu.
