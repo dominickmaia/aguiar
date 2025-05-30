@@ -1049,6 +1049,23 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = ― Tiana! Uwatari reté uruyari rẽ, useruka rẽ.
+# text_annotator = Antônio Levy Melo Nogueira
+1	―	―	PUNCT	PUNCT	_	4	punct	_	TokenRange=-1:0
+2	Tiana	tiana	ADV	ADVS	AdvType=Deg	4	advmod	_	SpaceAfter=No|TokenRange=1:6
+2	Tiana	tiana	PRON	INDQ	PronType=Ind	4	nsubj	_	SpaceAfter=No|TokenRange=1:6
+3	!	!	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=6:7
+4	Uwatari	watari	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=8:15
+5	reté	reté	ADJ	A	_	4	_	_	TokenRange=16:20
+5	reté	reté	ADV	ADVS	AdvType=Deg	4	advmod	_	TokenRange=16:20
+5	reté	teté	NOUN	N	Number=Sing|Rel=Cont	6	nsubj	_	TokenRange=16:20
+6	uruyari	ruyari	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	4	parataxis	_	TokenRange=21:28
+7	rẽ	rẽ	PART	IMPF	Aspect=Imp	6	advmod	_	SpaceAfter=No|TokenRange=29:31
+8	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=31:32
+9	useruka	seruka	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	6	parataxis	_	TokenRange=33:40
+10	rẽ	rẽ	PART	IMPF	Aspect=Imp	9	advmod	_	SpaceAfter=No|TokenRange=41:43
+11	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=43:44
 
 # sent_id = Aguiar1898:6:3:61
 # text = ― Maí taá yakwáu [ia-uhikí] iwaka upé?
