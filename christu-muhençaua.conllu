@@ -3023,3 +3023,15 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = Pawasá-pe, Tupana umusarú yepé/art Pisirusara.
+# text_annotator = Antônio Levy Melo Nogueira
+1-2	Pawasá-pe	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=0:9
+1	Pawasá	pawasá	NOUN	N	Number=Sing	5	obl	_	_
+2	pe	upé	ADP	ADP	AdpType=Post|Clitic=Yes	1	case	_	_
+3	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=9:10
+4	Tupana	tupana	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=11:17
+5	umusarú	umusarú	VERB	V	VerbForm=Inf	0	root	_	TokenRange=18:25
+6	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	7	det	_	TokenRange=26:30
+7	Pisirusara	pisirusara	NOUN	N	Number=Sing	5	obj	_	SpaceAfter=No|TokenRange=31:41
+8	.	.	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=41:42
