@@ -2965,6 +2965,19 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
+# text_eng = TODO
+# inputline = — Iné remunhã yusana kurí i/pron2 pirú pitá arama/fut.
+# text_annotator = Antônio Levy Melo Nogueira
+1	—	—	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
+2	Iné	iné	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	TokenRange=1:4
+3	remunhã	munhã	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=5:12
+4	yusana	yusana	NOUN	N	Number=Sing	3	obj	_	TokenRange=13:19
+5	kurí	kurí	PART	FUT	Tense=Fut	3	advmod	_	TokenRange=20:24
+6	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	TokenRange=25:26
+7	pirú	pirú	VERB	V	VerbForm=Inf	3	parataxis	_	TokenRange=27:31
+8	pitá	pitá	VERB	V	VerbForm=Inf	7	parataxis	_	TokenRange=32:36
+9	arama	arama	PART	FUT	Tense=Fut	8	advmod	_	SpaceAfter=No|TokenRange=37:42
+10	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=42:43
 
 # sent_id = Aguiar1898:21-8:21:221
 # text = Kunhã supé yuíri unheẽ: — Xamunhã kurí setá ne purarasawa, remembirari kurí sasí irũmu, repitá kurí apigawa rimutara wírupi, aé kurí ne yara.
