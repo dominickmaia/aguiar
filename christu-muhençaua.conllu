@@ -2956,6 +2956,16 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = — Aé/pron umukuruí kurí ne akã.
+# text_annotator = Antônio Levy Melo Nogueira
+1	—	—	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
+2	Aé	aé	PRON	PRON	Case=Acc,Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	TokenRange=1:3
+3	umukuruí	mukuruí	VERB	V	VerbForm=Inf	0	root	_	TokenRange=4:12
+4	kurí	kurí	PART	FUT	Tense=Fut	3	advmod	_	TokenRange=13:17
+5	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=18:20
+6	akã	akanga	NOUN	N	Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=21:24
+7	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=24:25
 
 # sent_id = Aguiar1898:21-8:20:220
 # text = — Iné remunhã yusana kurí i pirú pitá arama.
