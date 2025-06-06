@@ -2909,13 +2909,29 @@
 # text_modernizer = Letícia Farias Nunes
 
 # sent_id = Aguiar1898:21-8:15:215
-# text = Yané Yara Tupana unheẽ kunhã supé: — Maá taá remunhã yawé?
+# text = Yané Yara Tupana unheẽ kunhã supé: — Maã taá remunhã yawé?
 # text_orig = Ianê Iara Tupana u-hinhin cunhâ çupé: — Mahá tahá re-munhan iaué?
 # text_source = p. 83
 # text_por = Deus Nosso Senhor disse à mulher: — Porque fizeste isto?
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
+# text_eng = TODO
+# inputline = Yané/pron2 Yara/n Tupana unheẽ kunhã supé: — Maã/relf taá remunhã yawé/adva?
+# text_annotator = Antônio Levy Melo Nogueira
+1	Yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:4
+2	Yara	yara	NOUN	N	Number=Sing	3	nmod:poss	_	TokenRange=5:9
+3	Tupana	tupana	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=10:16
+4	unheẽ	nheẽ	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=17:22
+5	kunhã	kunhã	NOUN	N	Number=Sing	4	iobj	_	TokenRange=23:28
+6	supé	supé	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=29:33
+7	:	:	PUNCT	PUNCT	_	4	punct	_	TokenRange=33:34
+8	—	—	PUNCT	PUNCT	_	4	punct	_	TokenRange=34:35
+9	Maã	maã	PRON	RELF	PronType=Rel	4	obj	_	TokenRange=36:39
+10	taá	taá	PART	CQ	PartType=Int	11	advmod	_	TokenRange=40:43
+11	remunhã	munhã	VERB	V	Mood=Imp,Ind|Number=Sing|Person=2|VerbForm=Fin	4	parataxis	_	TokenRange=44:51
+12	yawé	yawé	ADV	ADVA	AdvType=Man	11	advmod	_	SpaceAfter=No|TokenRange=52:56
+13	?	?	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=56:57
 
 # sent_id = Aguiar1898:21-8:16:216
 # text = Aé usuaxara: — Buya uganani ixé; xawana.
