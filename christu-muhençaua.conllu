@@ -80,7 +80,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― Could there be another God other than this one?
 # inputline = ― Aikwé/root será amú/ind Tupana, kwá/demx suí?
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
@@ -88,7 +88,7 @@
 3	será	será	PART	PQ	PartType=Int	2	advmod	_	TokenRange=7:11
 4	amú	amú	DET	IND	Number=Sing|PronType=Ind	5	det	_	TokenRange=12:15
 5	Tupana	tupana	NOUN	N	Number=Sing	2	acl:relcl	_	SpaceAfter=No|TokenRange=16:22
-6	,	,	PUNCT	PUNCT	_	2	punct	_	TokenRange=22:23
+6	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=22:23
 7	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	5	det	_	TokenRange=24:27
 8	suí	suí	ADP	ADP	AdpType=Post	5	case	_	SpaceAfter=No|TokenRange=28:31
 9	?	?	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No|TokenRange=31:32
@@ -117,7 +117,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = ― There is only one true God.
 # inputline = ― Yepé/card nhũ Tupana reté/a.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	4	punct	_	TokenRange=-1:0
@@ -153,7 +153,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = ― In Heaven, on earth, and everywhere.
 # inputline = ― Iwaka upé/adp, iwí-pe, upaĩ rupí.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	5	punct	_	TokenRange=0:1
@@ -2560,11 +2560,11 @@
 # text = Tupana uxipiá upaĩ maã umunhã waá katú reté.
 # text_orig = Tupana u-xipiá u-pãin mahã u-munhan uahá catu-reté.
 # text_source = p. 71
-# text_por = Deus viu que tudo o que tinha feito, era muito bom.
+# text_por = Deus viu que tudo o que tinha feito era muito bom.
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = God saw that everything the He had done was very good.
 # inputline = Tupana uxipiá upaĩ maã/ind umunhã waá/rel katú/a reté/advs.
 # text_annotator = Letícia Farias Nunes
 1	Tupana	tupana	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:6
@@ -2585,7 +2585,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = From the afternoon and the morning the sixth day was made.
 # inputline = Karuka kuẽma/n yuíri/cconj suí/adp yumunhã ara pú-yepé.
 # text_annotator = Letícia Farias Nunes
 1	Karuka	karuka	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:6
@@ -2916,7 +2916,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = God our Lord said to the woman: — Why did you do this?
 # inputline = Yané/pron2 Yara/n Tupana unheẽ kunhã supé: — Maã/relf taá remunhã yawé/adva?
 # text_annotator = Antônio Levy Melo Nogueira
 1	Yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:4
@@ -2972,7 +2972,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = — She will crush your head.
 # inputline = — Aé/pron umukuruí kurí ne akã.
 # text_annotator = Antônio Levy Melo Nogueira
 1	—	—	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
@@ -2991,7 +2991,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = You will make traps to your heel.
 # inputline = — Iné remunhã yusana kurí i/pron2 pirú pitá arama/fut.
 # text_annotator = Antônio Levy Melo Nogueira
 1	—	—	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
@@ -3031,7 +3031,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = — The ground will sprout thorns against you; you will eat the plants of the ground.
 # inputline = Iwí usinhĩ kurí iwa setá/indq iné resé/adp; reú kurí iwí remitima.
 # text_annotator = Antônio Levy Melo Nogueira
 1	Iwí	iwí	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:3
@@ -3078,7 +3078,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = Finally, God made it wait for a Savior.
 # inputline = Pawasá-pe, Tupana umusarú yepé/art Pisirusara.
 # text_annotator = Antônio Levy Melo Nogueira
 1-2	Pawasá-pe	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=0:9
