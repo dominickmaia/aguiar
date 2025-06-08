@@ -613,7 +613,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― What is the name of the Son of God made man?
 # inputline = ― Maã/int taá rera Tupana Raíra yumunhã waá Apigawa/n?
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	0	punct	_	TokenRange=-1:0
@@ -636,7 +636,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― Jesus Christ.
 # inputline = ― Jesu/=n:o|pt:s|jesus Christu/=n:o|pt:s|cristo.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
@@ -670,7 +670,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = Jesus Christ is true God and true Man.
 # inputline = Jesu/=n:o|pt:s|jesus Christu/=n:o|pt:s|cristo Tupana reté/a, Apigawa/n reté/a.
 # text_annotator = Antônio Levy Melo Nogueira
 1	Jesu	jesu	NOUN	N	Number=Sing	2	nmod:poss	_	Orig=jesus|OrigLang=por|TokenRange=0:4
@@ -709,7 +709,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― Mistery of Incarnation; in other terms, the Son of God with our flesh.
 # inputline = ― Incarnaçam/=n:o|pt:s|encarnação, mysteriu/=n:o|pt:s|mistério; amú/ind rupí, Tupana Raíra yané/pron2 rukwera irumu/adp.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
@@ -765,7 +765,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― On the cross.
 # inputline = ― Kurusá upé/adp.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
@@ -781,7 +781,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― By who?
 # inputline = ― Awá/int rupí?
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
@@ -797,7 +797,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― By us.
 # inputline = ― Yané/pron2 rupí.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
@@ -813,7 +813,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― For what?
 # inputline = ― Marama taá?
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
