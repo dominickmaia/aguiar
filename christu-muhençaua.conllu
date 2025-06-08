@@ -180,7 +180,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = ― Who is this God?
 # inputline = ― Awá/int taá aé/demsn Tupana?
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
@@ -202,7 +202,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = A pure spirit, all powerful, our Creator, and our Lord.
 # inputline = ― Yepé/art anga reté/a, turusú/a reté/advs, yané/pron2 munhangara/n, yané/pron2 yara/n.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
@@ -231,7 +231,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = ― How many people are there in God?
 # inputline = ― Muíri/int pessoa taá aikwé Tupana resé/adp?
 # text_annotator = Letícia Farias Nunes
 1	―	―	PUNCT	PUNCT	_	6	punct	_	TokenRange=-1:0
@@ -266,7 +266,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = ― Which are they?
 # inputline = ― Mayé/advra waá/rel taá aintá/pron?
 # text_annotator = Letícia Farias Nunes
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
@@ -293,7 +293,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = ― Is the Father God?
 # inputline = ― Paya Tupana?
 # text_annotator = Letícia Farias Nunes
 1	―	―	PUNCT	PUNCT	_	3	punct	_	TokenRange=-1:0
@@ -378,7 +378,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― No!
 # inputline = ― Ti ana!
 # text_annotator = Letícia Farias Nunes
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
@@ -499,7 +499,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― By the work of the Holy Spirit.
 # inputline = ― Espírito/=n:o|pt:s|espírito Santu/=n:o|pt:s|santu umunhã.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	5	punct	_	TokenRange=0:1
@@ -518,7 +518,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― Where?
 # inputline = ― Mamé/advrc taá?
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
@@ -534,7 +534,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = In the venter of Virgin Mary.
 # inputline = ― Maria/=n:o|pt:s|maria Virgem/=n:o|pt:s|virgem marika upé/adp.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	4	punct	_	TokenRange=-1:0
@@ -552,7 +552,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = ― Did the Mother of God always remain a virgin?
 # inputline = ― Tupana Manha upitá upaĩ ara upé/adp Virgem/=n:o|pt:s|virgem?
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	4	punct	_	TokenRange=-1:0
@@ -573,7 +573,7 @@
 # text_orig_transcriber = Davi Sampaio Santos
 # text_por_modernizer = Davi Sampaio Santos
 # text_modernizer = Letícia Farias Nunes
-# text_eng = ― Stayed.
+# text_eng = ― Remained.
 # inputline = ― Upitá.
 # text_annotator = Antônio Levy Melo Nogueira
 1	―	―	PUNCT	PUNCT	_	2	punct	_	TokenRange=-1:0
@@ -2207,7 +2207,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Antônio Levy Melo Nogueira
-# text_eng = TODO
+# text_eng = God called the firmament sky, the beautiful blue we see.
 # inputline = Tupana umusera santasawa supé iwaka, puranga/adj suikira yaxipiá waá/pron.
 # text_annotator = Letícia Farias Nunes
 1	Tupana	tupana	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:6
@@ -2230,7 +2230,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = From the afternoon and the morning the second day was made.
 # inputline = Karuka kuẽma/n yuíri/cconj suí/adp yumunhã ara mukũi/card.
 # text_annotator = Letícia Farias Nunes
 1	Karuka	karuka	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:6
@@ -2253,7 +2253,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = God said: — Let be gathered into one place the waters under the sky; let the dry land go out.
 # inputline = Tupana unheẽ: — Yumuatiri yepé/art nhũ tenawa upé/adp ií-itá uikú/cop waá/rel iwaka wírupi; usema ukara kití iwí tikanga/a.
 # text_annotator = Letícia Farias Nunes
 1	Tupana	tupana	NOUN	N	Number=Sing	2	nsubj	_	TokenRange=0:6
@@ -2333,7 +2333,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = From the afternoon and the morning the third day was made.
 # inputline = Karuka kuẽma/n suí yumunhã ara musapiri.
 # text_annotator = Letícia Farias Nunes
 1	Karuka	karuka	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=0:6
@@ -2390,7 +2390,7 @@
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = He also made the stars, to shine upon the earth.
 # inputline = Umunhã yasí-mirĩ-itá yuíri/advg, usinipuka iwí arupí.
 # text_annotator = Letícia Farias Nunes
 1	Umunhã	munhã	VERB	V	Mood=Ind|Person=3|VerbForm=Fin	0	root	_	TokenRange=0:6
@@ -2419,7 +2419,7 @@
 # text_orig_transcriber = Letícia Farias Nunes
 # text_por_modernizer = Letícia Farias Nunes
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = From the afternoon and the morning the fourth day was made.
 # inputline = Karuka kuẽma/n yuíri/cconj suí/adp yumunhã ara irundí.
 # text_annotator = Letícia Farias Nunes
 1	Karuka	karuka	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:6
@@ -2478,7 +2478,7 @@
 # text_orig_transcriber = Antônio Levy Melo Nogueira
 # text_por_modernizer = Antônio Levy Melo Nogueira
 # text_modernizer = Letícia Farias Nunes
-# text_eng = TODO
+# text_eng = From the afternoon and the morning the fifth day was made.
 # inputline = Karuka kuẽma/noun yuíri/cconj suí yumunhã ara pú.
 # text_annotator = Letícia Farias Nunes
 1	Karuka	karuka	NOUN	N	Number=Sing	5	nsubj	_	TokenRange=0:6
